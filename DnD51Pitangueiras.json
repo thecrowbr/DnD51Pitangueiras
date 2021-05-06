@@ -20,7 +20,7 @@
 	},
 	"spell": [
 		{
-			"name": "Fireball",
+			"name": "FireballV2",
 			"source": "DnD51Pitangueiras",
 			"page": 241,
 			"level": 4,
@@ -194,6 +194,20 @@
 				}
 			],
 			"hasFluffImages": true
+		}
+	]
+	"roll20Spell": [
+		{
+			"name": "FireballV2",
+			"source": "DnD51Pitangueiras",
+			"data": {
+				"Save": "Dexterity",
+				"Damage": "8d6",
+				"Damage Type": "Fire",
+				"Save Success": "Half damage",
+				"Higher Spell Slot Die": "d6",
+				"Higher Spell Slot Dice": "2"
+			}
 		}
 	]
 }
