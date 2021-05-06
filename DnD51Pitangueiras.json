@@ -1,0 +1,213 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "DnD51Pitangueiras",
+				"abbreviation": "DnD5P",
+				"full": "D&D 5.1 Pitangueiras",
+				"url": "https://github.com/thecrowbr/DnD51Pitangueiras",
+				"authors": [
+					"u/TheCrow"
+				],
+				"convertedBy": [
+					"TheCrow"
+				],
+				"version": "unknown"
+			}
+		],
+		"dateAdded": 1620268448,
+		"dateLastModified": 1620268448
+	},
+	"spell": [
+		{
+			"name": "FireballV2",
+			"source": "DnD51Pitangueiras",
+			"page": 241,
+			"level": 4,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 150
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "a tiny ball of bat guano and sulfur"
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"meta": {
+				"ritual": true
+			},
+			"entries": [
+				"A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes {@damage 8d6} fire damage on a failed save, or half as much damage on a successful one.",
+				"The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried."
+			],
+			"entriesHigherLevel": [
+				{
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this spell using a spell slot of 5th level or higher, the damage increases by {@scaledamage 8d6|4-9|2d6} for each slot level above 4th."
+					]
+				}
+			],
+			"damageInflict": [
+				"fire"
+			],
+			"savingThrow": [
+				"dexterity"
+			],
+			"areaTags": [
+				"S"
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Sorcerer",
+						"source": "PHB"
+					},
+					{
+						"name": "Wizard",
+						"source": "PHB"
+					}
+				],
+				"fromSubclass": [
+					{
+						"class": {
+							"name": "Cleric",
+							"source": "PHB"
+						},
+						"subclass": {
+							"name": "Light",
+							"source": "PHB"
+						}
+					},
+					{
+						"class": {
+							"name": "Warlock",
+							"source": "PHB"
+						},
+						"subclass": {
+							"name": "Fiend",
+							"source": "PHB"
+						}
+					},
+					{
+						"class": {
+							"name": "Cleric",
+							"source": "PHB"
+						},
+						"subclass": {
+							"name": "Zeal (PSA)",
+							"source": "PSA"
+						}
+					},
+					{
+						"class": {
+							"name": "Artificer (Revisited)",
+							"source": "UAArtificerRevisited"
+						},
+						"subclass": {
+							"name": "Artillerist",
+							"source": "UAArtificerRevisited"
+						}
+					},
+					{
+						"class": {
+							"name": "Druid",
+							"source": "PHB"
+						},
+						"subclass": {
+							"name": "Wildfire (UA)",
+							"source": "UAClericDruidWizard"
+						}
+					},
+					{
+						"class": {
+							"name": "Artificer",
+							"source": "TCE"
+						},
+						"subclass": {
+							"name": "Artillerist",
+							"source": "TCE"
+						}
+					},
+					{
+						"class": {
+							"name": "Warlock",
+							"source": "PHB"
+						},
+						"subclass": {
+							"name": "Genie (UA)",
+							"source": "UA2020SubclassesRevisited",
+							"subSubclass": "Efreeti"
+						}
+					},
+					{
+						"class": {
+							"name": "Warlock",
+							"source": "PHB"
+						},
+						"subclass": {
+							"name": "Genie",
+							"source": "TCE"
+						}
+					},
+					{
+						"class": {
+							"name": "Warlock",
+							"source": "PHB"
+						},
+						"subclass": {
+							"name": "Genie (UA)",
+							"source": "UA2020SubclassesRevisited"
+						}
+					},
+					{
+						"class": {
+							"name": "Monk",
+							"source": "PHB"
+						},
+						"subclass": {
+							"name": "Four Elements",
+							"source": "PHB"
+						}
+					}
+				]
+			},
+			"eldritchInvocations": [
+				{
+					"name": "Kiss of Mephistopheles",
+					"source": "UAWarlockAndWizard"
+				}
+			],
+			"hasFluffImages": true
+		}
+	],
+	"roll20Spell": [
+		{
+			"name": "FireballV2",
+			"source": "DnD51Pitangueiras",
+			"data": {
+				"Save": "Dexterity",
+				"Damage": "8d6",
+				"Damage Type": "Fire",
+				"Save Success": "Half damage",
+				"Higher Spell Slot Die": "d6",
+				"Higher Spell Slot Dice": "2"
+			}
+		}
+	]
+}
