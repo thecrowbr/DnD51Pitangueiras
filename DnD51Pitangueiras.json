@@ -194,6 +194,37 @@
 				}
 			],
 			"hasFluffImages": true
+		},
+		{
+			"name": "Animal Friendship V2 (Removed)",
+			"source": "DnD51Pitangueiras",
+			"level": 1,
+			"school": "E",
+			"time": [
+				{
+					"number": 0,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "special"
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "None",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"{@italic Removed by the DM.}"
+			]
 		}
 	],
 	"roll20Spell": [
