@@ -12,7 +12,7 @@
 				"convertedBy": [
 					"TheCrow"
 				],
-				"version": "2.11"
+				"version": "2.12"
 			}
 		],
 		"dateAdded": 1620268448,
@@ -1830,13 +1830,13 @@
 		},
 		{
 			"name": "Supreme Sneak",
-			"source": "DnD51Pitangueiras",
+			"source": "PHB",
 			"page": 97,
 			"srd": true,
 			"className": "Rogue V2",
-			"classSource": "DnD51Pitangueiras",
+			"classSource": "PHB",
 			"subclassShortName": "Assassin",
-			"subclassSource": "DnD51Pitangueiras",
+			"subclassSource": "PHB",
 			"level": 9,
 			"header": 2,
 			"entries": [
@@ -1860,13 +1860,13 @@
 		},
 		{
 			"name": "Use Magic Device",
-			"source": "DnD51Pitangueiras",
+			"source": "PHB",
 			"page": 97,
 			"srd": true,
 			"className": "Rogue V2",
-			"classSource": "DnD51Pitangueiras",
+			"classSource": "PHB",
 			"subclassShortName": "Assassin",
-			"subclassSource": "DnD51Pitangueiras",
+			"subclassSource": "PHB",
 			"level": 13,
 			"header": 2,
 			"entries": [
@@ -1890,13 +1890,13 @@
 		},
 		{
 			"name": "Assassin's Reflexes",
-			"source": "DnD51Pitangueiras",
+			"source": "PHB",
 			"page": 97,
 			"srd": true,
 			"className": "Rogue V2",
-			"classSource": "DnD51Pitangueiras",
+			"classSource": "PHB",
 			"subclassShortName": "Assassin",
-			"subclassSource": "DnD51Pitangueiras",
+			"subclassSource": "PHB",
 			"level": 17,
 			"header": 2,
 			"entries": [
