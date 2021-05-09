@@ -2034,7 +2034,7 @@
 			]
 		},
 		{
-			"name": "_Elemental Weapon V3",
+			"name": "_Elemental Weapon V4",
 			"source": "DnD51Pitangueiras",
 			"page": 237,
 			"level": 2,
@@ -2072,7 +2072,7 @@
 					"type": "entries",
 					"name": "At Higher Levels",
 					"entries": [
-						"When you cast this spell using a spell slot of 5th or 6th level, the bonus to attack rolls increases to +2 and the extra damage increases to {@scaledamage 1d4|3-9|2d4}. When you use a spell slot of 7th level or higher, the bonus increases to +3 and the extra damage increases to {@scaledamage 1d4|3-9|3d4}."
+						"When you cast this spell using a spell slot of 4th or 5th level, the bonus to attack rolls increases to +2 and the extra damage increases to {@scaledamage 1d4|4-5|2d4}. When you use a spell slot of 6th level or higher, the bonus increases to +3 and the extra damage increases to {@scaledamage 1d4|6-9|3d4}."
 					]
 				}
 			],
@@ -2345,18 +2345,18 @@
 			"data": {}
 		},
 		{
-			"name": "_Elemental Weapon V3",
+			"name": "_Elemental Weapon V4",
 			"source": "DnD51Pitangueiras",
 			"data": {
 				"Damage": "1d4",
 				"Damage Type": "Acid, cold, fire, lightning, or thunder",
 				"Higher Spell Slot Die": "d4",
-				"Higher Spell Slot Dice": "1",
-				"Target": "A nonmagical weapon",
-				"Include Spell Description In Attack": "on"
+				"Higher Spell Slot Dice": "0.49",
+				"Target": "A nonmagical weapon"
 			},
 			"shapedData": {
 				"primaryDamageCondition": "auto"
+				"includeSpellDescriptionAttack": "on"
 			}
 		}
 	]
