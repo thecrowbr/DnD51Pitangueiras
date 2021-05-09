@@ -1648,7 +1648,7 @@
 			]
 		},
 		{
-			"name": "Storm Sphere V2",
+			"name": "Storm Sphere V3",
 			"source": "DnD51Pitangueiras",
 			"page": 166,
 			"otherSources": [
@@ -2314,7 +2314,7 @@
 			"data": {}
 		},
 		{
-			"name": "Storm Sphere V2",
+			"name": "Storm Sphere V3",
 			"source": "DnD51Pitangueiras",
 			"data": {
 				"Save": "Strength",
