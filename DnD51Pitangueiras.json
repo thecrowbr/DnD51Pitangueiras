@@ -1648,7 +1648,7 @@
 			]
 		},
 		{
-			"name": "Storm Sphere V4",
+			"name": "_Storm Sphere V2",
 			"source": "DnD51Pitangueiras",
 			"page": 166,
 			"otherSources": [
@@ -1696,7 +1696,7 @@
 					"type": "entries",
 					"name": "At Higher Levels",
 					"entries": [
-						"When you cast this spell using a spell slot of 5th level or higher, the damage for each of its effects increases by {@scaledamage 2d6;4d6|4-9|1d6} for each slot level above 4th."
+						"When you cast this spell using a spell slot of 4th level or higher, the damage for each of its effects increases by {@scaledamage 2d6;4d6|3-9|1d6} for each slot level above 3rd."
 					]
 				}
 			],
@@ -2314,7 +2314,7 @@
 			"data": {}
 		},
 		{
-			"name": "Storm Sphere V4",
+			"name": "_Storm Sphere V2",
 			"source": "DnD51Pitangueiras",
 			"data": {
 				"Save": "Strength",
