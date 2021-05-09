@@ -12,7 +12,7 @@
 				"convertedBy": [
 					"TheCrow"
 				],
-				"version": "unknown"
+				"version": "2.10"
 			}
 		],
 		"dateAdded": 1620268448,
@@ -1773,7 +1773,10 @@
 				"Your archetype grants you features at 3rd level and then again at 9th, 13th, and 17th level.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Fast Hands|Rogue V2||Assassin||3",
+					"subclassFeature": "Fast Hands|Rogue V2||Assassin||3"
+				},
+				{
+					"type": "refSubclassFeature",
 					"subclassFeature": "Assassinate|Rogue V2||Assassin||3"
 				},
 				{
