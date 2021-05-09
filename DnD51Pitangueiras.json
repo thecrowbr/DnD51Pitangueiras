@@ -2321,7 +2321,7 @@
 				"Damage": "2d6",
 				"Damage Type": "Bludgeoning",
 				"Higher Spell Slot Die": "d6",
-				"Higher Spell Slot Dice": "1",
+				"Higher Spell Slot Dice": "2",
 				"Target": "Each creature in a 20-foot-radius sphere centered on a point you choose within range",
 				"Spell Attack": "Ranged",
 				"Secondary Damage": "4d6",
