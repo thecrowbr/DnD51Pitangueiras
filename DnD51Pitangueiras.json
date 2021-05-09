@@ -2355,7 +2355,7 @@
 				"Target": "A nonmagical weapon"
 			},
 			"shapedData": {
-				"primaryDamageCondition": "auto"
+				"primaryDamageCondition": "auto",
 				"includeSpellDescriptionAttack": "on"
 			}
 		}
