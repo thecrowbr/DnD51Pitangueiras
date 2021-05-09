@@ -2314,7 +2314,7 @@
 			"data": {}
 		},
 		{
-			"name": "Storm Sphere",
+			"name": "Storm Sphere V2",
 			"source": "DnD51Pitangueiras",
 			"data": {
 				"Save": "Strength",
@@ -2345,7 +2345,7 @@
 			"data": {}
 		},
 		{
-			"name": "Elemental Weapon",
+			"name": "Elemental Weapon V2",
 			"source": "DnD51Pitangueiras",
 			"data": {
 				"Damage": "1d4",
