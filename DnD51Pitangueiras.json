@@ -12,7 +12,7 @@
 				"convertedBy": [
 					"TheCrow"
 				],
-				"version": "2.10"
+				"version": "2.11"
 			}
 		],
 		"dateAdded": 1620268448,
@@ -1787,13 +1787,13 @@
 		},
 		{
 			"name": "Fast Hands",
-			"source": "DnD51Pitangueiras",
+			"source": "PHB",
 			"page": 97,
 			"srd": true,
 			"className": "Rogue V2",
-			"classSource": "DnD51Pitangueiras",
+			"classSource": "PHB",
 			"subclassShortName": "Assassin",
-			"subclassSource": "DnD51Pitangueiras",
+			"subclassSource": "PHB",
 			"level": 3,
 			"header": 1,
 			"entries": [
