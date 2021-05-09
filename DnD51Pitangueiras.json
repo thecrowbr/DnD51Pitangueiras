@@ -743,17 +743,26 @@
 					]
 				},
 				{
-					"name": "Thief",
-					"shortName": "Thief",
+					"name": "Thief (UA)",
+					"shortName": "Thief (UA)",
 					"source": "PHB",
 					"page": 97,
 					"srd": true,
-					"isReprinted": true,
 					"subclassFeatures": [
 						"Thief|Rogue||Thief||3",
 						"Supreme Sneak|Rogue||Thief||9",
 						"Use Magic Device|Rogue||Thief||13",
 						"Thief's Reflexes|Rogue||Thief||17"
+					]
+				},
+				{
+					"name": "Teste (UA)",
+					"shortName": "Teste (UA)",
+					"source": "DnD51Pitangueiras",
+					"page": 97,
+					"srd": true,
+					"isReprinted": true,
+					"subclassFeatures": [
 					]
 				},
 				{
