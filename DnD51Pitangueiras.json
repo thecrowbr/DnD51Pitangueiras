@@ -20,7 +20,7 @@
 	},
 	"class": [
 		{
-			"name": "Rogue2",
+			"name": "Rogue V2",
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
@@ -385,48 +385,48 @@
 				}
 			],
 			"classFeatures": [
-				"Expertise|Rogue2||1",
-				"Sneak Attack|Rogue2||1",
-				"Thieves' Cant|Rogue2||1",
-				"Cunning Action|Rogue2||2",
-				"Cunning Action: Aim|Rogue2||2|UAClassFeatureVariants",
+				"Expertise|Rogue V2||1",
+				"Sneak Attack|Rogue V2||1",
+				"Thieves' Cant|Rogue V2||1",
+				"Cunning Action|Rogue V2||2",
+				"Cunning Action: Aim|Rogue V2||2|UAClassFeatureVariants",
 				{
-					"classFeature": "Roguish Archetype|Rogue2||3",
+					"classFeature": "Roguish Archetype|Rogue V2||3",
 					"gainSubclassFeature": true
 				},
-				"Steady Aim|Rogue2||3|TCE",
-				"Ability Score Improvement|Rogue2||4",
-				"Proficiency Versatility|Rogue2||4|UAClassFeatureVariants",
-				"Uncanny Dodge|Rogue2||5",
-				"Expertise|Rogue2||6",
-				"Evasion|Rogue2||7",
-				"Ability Score Improvement|Rogue2||8",
-				"Proficiency Versatility|Rogue2||8|UAClassFeatureVariants",
+				"Steady Aim|Rogue V2||3|TCE",
+				"Ability Score Improvement|Rogue V2||4",
+				"Proficiency Versatility|Rogue V2||4|UAClassFeatureVariants",
+				"Uncanny Dodge|Rogue V2||5",
+				"Expertise|Rogue V2||6",
+				"Evasion|Rogue V2||7",
+				"Ability Score Improvement|Rogue V2||8",
+				"Proficiency Versatility|Rogue V2||8|UAClassFeatureVariants",
 				{
-					"classFeature": "Roguish Archetype feature|Rogue2||9",
+					"classFeature": "Roguish Archetype feature|Rogue V2||9",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Rogue2||10",
-				"Proficiency Versatility|Rogue2||10|UAClassFeatureVariants",
-				"Reliable Talent|Rogue2||11",
-				"Ability Score Improvement|Rogue2||12",
-				"Proficiency Versatility|Rogue2||12|UAClassFeatureVariants",
+				"Ability Score Improvement|Rogue V2||10",
+				"Proficiency Versatility|Rogue V2||10|UAClassFeatureVariants",
+				"Reliable Talent|Rogue V2||11",
+				"Ability Score Improvement|Rogue V2||12",
+				"Proficiency Versatility|Rogue V2||12|UAClassFeatureVariants",
 				{
-					"classFeature": "Roguish Archetype feature|Rogue2||13",
+					"classFeature": "Roguish Archetype feature|Rogue V2||13",
 					"gainSubclassFeature": true
 				},
-				"Blindsense|Rogue2||14",
-				"Slippery Mind|Rogue2||15",
-				"Ability Score Improvement|Rogue2||16",
-				"Proficiency Versatility|Rogue2||16|UAClassFeatureVariants",
+				"Blindsense|Rogue V2||14",
+				"Slippery Mind|Rogue V2||15",
+				"Ability Score Improvement|Rogue V2||16",
+				"Proficiency Versatility|Rogue V2||16|UAClassFeatureVariants",
 				{
-					"classFeature": "Roguish Archetype feature|Rogue2||17",
+					"classFeature": "Roguish Archetype feature|Rogue V2||17",
 					"gainSubclassFeature": true
 				},
-				"Elusive|Rogue2||18",
-				"Ability Score Improvement|Rogue2||19",
-				"Proficiency Versatility|Rogue2||19|UAClassFeatureVariants",
-				"Stroke of Luck|Rogue2||20"
+				"Elusive|Rogue V2||18",
+				"Ability Score Improvement|Rogue V2||19",
+				"Proficiency Versatility|Rogue V2||19|UAClassFeatureVariants",
+				"Stroke of Luck|Rogue V2||20"
 			],
 			"subclassTitle": "Roguish Archetype",
 			"subclasses": [
@@ -499,8 +499,8 @@
 								}
 							],
 							"colLabels": [
-								"{@filter Cantrips Known|spells|level=0|subclass=Rogue2: Arcane Trickster}",
-								"{@filter Spells Known|spells|subclass=Rogue2: Arcane Trickster}"
+								"{@filter Cantrips Known|spells|level=0|subclass=Rogue V2: Arcane Trickster}",
+								"{@filter Spells Known|spells|subclass=Rogue V2: Arcane Trickster}"
 							],
 							"rows": [
 								[
@@ -594,10 +594,10 @@
 								}
 							],
 							"colLabels": [
-								"{@filter 1st|spells|level=1|subclass=Rogue2: Arcane Trickster}",
-								"{@filter 2nd|spells|level=2|subclass=Rogue2: Arcane Trickster}",
-								"{@filter 3rd|spells|level=3|subclass=Rogue2: Arcane Trickster}",
-								"{@filter 4th|spells|level=4|subclass=Rogue2: Arcane Trickster}"
+								"{@filter 1st|spells|level=1|subclass=Rogue V2: Arcane Trickster}",
+								"{@filter 2nd|spells|level=2|subclass=Rogue V2: Arcane Trickster}",
+								"{@filter 3rd|spells|level=3|subclass=Rogue V2: Arcane Trickster}",
+								"{@filter 4th|spells|level=4|subclass=Rogue V2: Arcane Trickster}"
 							],
 							"rows": [
 								[
@@ -724,10 +724,10 @@
 						}
 					],
 					"subclassFeatures": [
-						"Arcane Trickster|Rogue2||Arcane Trickster||3",
-						"Magical Ambush|Rogue2||Arcane Trickster||9",
-						"Versatile Trickster|Rogue2||Arcane Trickster||13",
-						"Spell Thief|Rogue2||Arcane Trickster||17"
+						"Arcane Trickster|Rogue V2||Arcane Trickster||3",
+						"Magical Ambush|Rogue V2||Arcane Trickster||9",
+						"Versatile Trickster|Rogue V2||Arcane Trickster||13",
+						"Spell Thief|Rogue V2||Arcane Trickster||17"
 					]
 				},
 				{
@@ -736,10 +736,10 @@
 					"source": "PHB",
 					"page": 97,
 					"subclassFeatures": [
-						"Assassin|Rogue2||Assassin||3",
-						"Infiltration Expertise|Rogue2||Assassin||9",
-						"Impostor|Rogue2||Assassin||13",
-						"Death Strike|Rogue2||Assassin||17"
+						"Assassin|Rogue V2||Assassin||3",
+						"Infiltration Expertise|Rogue V2||Assassin||9",
+						"Impostor|Rogue V2||Assassin||13",
+						"Death Strike|Rogue V2||Assassin||17"
 					]
 				},
 				{
@@ -749,23 +749,23 @@
 					"page": 2,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Inquisitive|Rogue2||Inquisitive (UA)|UAGothicHeroes|3",
-						"Steady Eye|Rogue2||Inquisitive (UA)|UAGothicHeroes|9",
-						"Unerring Eye|Rogue2||Inquisitive (UA)|UAGothicHeroes|13",
-						"Eye for Weakness|Rogue2||Inquisitive (UA)|UAGothicHeroes|17"
+						"Inquisitive|Rogue V2||Inquisitive (UA)|UAGothicHeroes|3",
+						"Steady Eye|Rogue V2||Inquisitive (UA)|UAGothicHeroes|9",
+						"Unerring Eye|Rogue V2||Inquisitive (UA)|UAGothicHeroes|13",
+						"Eye for Weakness|Rogue V2||Inquisitive (UA)|UAGothicHeroes|17"
 					]
 				},
 				{
 					"name": "Scout (UA)",
 					"shortName": "Scout (UA)",
-					"source": "UARangerAndRogue2",
+					"source": "UARangerAndRogue V2",
 					"page": 2,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Scout|Rogue2||Scout (UA)|UARangerAndRogue2|3",
-						"Superior Mobility|Rogue2||Scout (UA)|UARangerAndRogue2|9",
-						"Ambush Master|Rogue2||Scout (UA)|UARangerAndRogue2|13",
-						"Sudden Strike|Rogue2||Scout (UA)|UARangerAndRogue2|17"
+						"Scout|Rogue V2||Scout (UA)|UARangerAndRogue V2|3",
+						"Superior Mobility|Rogue V2||Scout (UA)|UARangerAndRogue V2|9",
+						"Ambush Master|Rogue V2||Scout (UA)|UARangerAndRogue V2|13",
+						"Sudden Strike|Rogue V2||Scout (UA)|UARangerAndRogue V2|17"
 					]
 				},
 				{
@@ -774,10 +774,10 @@
 					"source": "XGE",
 					"page": 45,
 					"subclassFeatures": [
-						"Inquisitive|Rogue2||Inquisitive|XGE|3",
-						"Steady Eye|Rogue2||Inquisitive|XGE|9",
-						"Unerring Eye|Rogue2||Inquisitive|XGE|13",
-						"Eye for Weakness|Rogue2||Inquisitive|XGE|17"
+						"Inquisitive|Rogue V2||Inquisitive|XGE|3",
+						"Steady Eye|Rogue V2||Inquisitive|XGE|9",
+						"Unerring Eye|Rogue V2||Inquisitive|XGE|13",
+						"Eye for Weakness|Rogue V2||Inquisitive|XGE|17"
 					]
 				},
 				{
@@ -792,10 +792,10 @@
 						}
 					],
 					"subclassFeatures": [
-						"Mastermind|Rogue2||Mastermind|XGE|3",
-						"Insightful Manipulator|Rogue2||Mastermind|XGE|9",
-						"Misdirection|Rogue2||Mastermind|XGE|13",
-						"Soul of Deceit|Rogue2||Mastermind|XGE|17"
+						"Mastermind|Rogue V2||Mastermind|XGE|3",
+						"Insightful Manipulator|Rogue V2||Mastermind|XGE|9",
+						"Misdirection|Rogue V2||Mastermind|XGE|13",
+						"Soul of Deceit|Rogue V2||Mastermind|XGE|17"
 					]
 				},
 				{
@@ -804,10 +804,10 @@
 					"source": "XGE",
 					"page": 47,
 					"subclassFeatures": [
-						"Scout|Rogue2||Scout|XGE|3",
-						"Superior Mobility|Rogue2||Scout|XGE|9",
-						"Ambush Master|Rogue2||Scout|XGE|13",
-						"Sudden Strike|Rogue2||Scout|XGE|17"
+						"Scout|Rogue V2||Scout|XGE|3",
+						"Superior Mobility|Rogue V2||Scout|XGE|9",
+						"Ambush Master|Rogue V2||Scout|XGE|13",
+						"Sudden Strike|Rogue V2||Scout|XGE|17"
 					]
 				},
 				{
@@ -822,36 +822,36 @@
 						}
 					],
 					"subclassFeatures": [
-						"Swashbuckler|Rogue2||Swashbuckler|XGE|3",
-						"Panache|Rogue2||Swashbuckler|XGE|9",
-						"Elegant Maneuver|Rogue2||Swashbuckler|XGE|13",
-						"Master Duelist|Rogue2||Swashbuckler|XGE|17"
+						"Swashbuckler|Rogue V2||Swashbuckler|XGE|3",
+						"Panache|Rogue V2||Swashbuckler|XGE|9",
+						"Elegant Maneuver|Rogue V2||Swashbuckler|XGE|13",
+						"Master Duelist|Rogue V2||Swashbuckler|XGE|17"
 					]
 				},
 				{
 					"name": "The Revived (UA)",
 					"shortName": "Revived (UA)",
-					"source": "UAFighterRangerRogue2",
+					"source": "UAFighterRangerRogue V2",
 					"page": 4,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"The Revived|Rogue2||Revived (UA)|UAFighterRangerRogue2|3",
-						"Connect with the Dead|Rogue2||Revived (UA)|UAFighterRangerRogue2|9",
-						"Audience with Death|Rogue2||Revived (UA)|UAFighterRangerRogue2|13",
-						"Ethereal Jaunt|Rogue2||Revived (UA)|UAFighterRangerRogue2|17"
+						"The Revived|Rogue V2||Revived (UA)|UAFighterRangerRogue V2|3",
+						"Connect with the Dead|Rogue V2||Revived (UA)|UAFighterRangerRogue V2|9",
+						"Audience with Death|Rogue V2||Revived (UA)|UAFighterRangerRogue V2|13",
+						"Ethereal Jaunt|Rogue V2||Revived (UA)|UAFighterRangerRogue V2|17"
 					]
 				},
 				{
 					"name": "Soulknife (UA)",
 					"shortName": "Soulknife (UA)",
-					"source": "UAFighterRogue2Wizard",
+					"source": "UAFighterRogue V2Wizard",
 					"page": 2,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Soulknife|Rogue2||Soulknife (UA)|UAFighterRogue2Wizard|3",
-						"Terrifying Blade|Rogue2||Soulknife (UA)|UAFighterRogue2Wizard|9",
-						"Psychic Veil|Rogue2||Soulknife (UA)|UAFighterRogue2Wizard|13",
-						"Rend Mind|Rogue2||Soulknife (UA)|UAFighterRogue2Wizard|17"
+						"Soulknife|Rogue V2||Soulknife (UA)|UAFighterRogue V2Wizard|3",
+						"Terrifying Blade|Rogue V2||Soulknife (UA)|UAFighterRogue V2Wizard|9",
+						"Psychic Veil|Rogue V2||Soulknife (UA)|UAFighterRogue V2Wizard|13",
+						"Rend Mind|Rogue V2||Soulknife (UA)|UAFighterRogue V2Wizard|17"
 					]
 				},
 				{
@@ -861,10 +861,10 @@
 					"page": 3,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Soulknife|Rogue2||Soulknife (UA)|UA2020PsionicOptionsRevisited|3",
-						"Soul Blades|Rogue2||Soulknife (UA)|UA2020PsionicOptionsRevisited|9",
-						"Psionic Veil|Rogue2||Soulknife (UA)|UA2020PsionicOptionsRevisited|13",
-						"Rend Mind|Rogue2||Soulknife (UA)|UA2020PsionicOptionsRevisited|17"
+						"Soulknife|Rogue V2||Soulknife (UA)|UA2020PsionicOptionsRevisited|3",
+						"Soul Blades|Rogue V2||Soulknife (UA)|UA2020PsionicOptionsRevisited|9",
+						"Psionic Veil|Rogue V2||Soulknife (UA)|UA2020PsionicOptionsRevisited|13",
+						"Rend Mind|Rogue V2||Soulknife (UA)|UA2020PsionicOptionsRevisited|17"
 					]
 				},
 				{
@@ -874,10 +874,10 @@
 					"page": 1,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Phantom|Rogue2||Phantom (UA)|UA2020SubclassesRevisited|3",
-						"Tokens of the Departed|Rogue2||Phantom (UA)|UA2020SubclassesRevisited|9",
-						"Ghost Walk|Rogue2||Phantom (UA)|UA2020SubclassesRevisited|13",
-						"Death Knell|Rogue2||Phantom (UA)|UA2020SubclassesRevisited|17"
+						"Phantom|Rogue V2||Phantom (UA)|UA2020SubclassesRevisited|3",
+						"Tokens of the Departed|Rogue V2||Phantom (UA)|UA2020SubclassesRevisited|9",
+						"Ghost Walk|Rogue V2||Phantom (UA)|UA2020SubclassesRevisited|13",
+						"Death Knell|Rogue V2||Phantom (UA)|UA2020SubclassesRevisited|17"
 					]
 				},
 				{
@@ -886,10 +886,10 @@
 					"source": "TCE",
 					"page": 62,
 					"subclassFeatures": [
-						"Phantom|Rogue2||Phantom|TCE|3",
-						"Tokens of the Departed|Rogue2||Phantom|TCE|9",
-						"Ghost Walk|Rogue2||Phantom|TCE|13",
-						"Death's Friend|Rogue2||Phantom|TCE|17"
+						"Phantom|Rogue V2||Phantom|TCE|3",
+						"Tokens of the Departed|Rogue V2||Phantom|TCE|9",
+						"Ghost Walk|Rogue V2||Phantom|TCE|13",
+						"Death's Friend|Rogue V2||Phantom|TCE|17"
 					]
 				},
 				{
@@ -898,49 +898,49 @@
 					"source": "TCE",
 					"page": 63,
 					"subclassFeatures": [
-						"Soulknife|Rogue2||Soulknife|TCE|3",
-						"Soul Blades|Rogue2||Soulknife|TCE|9",
-						"Psychic Veil|Rogue2||Soulknife|TCE|13",
-						"Rend Mind|Rogue2||Soulknife|TCE|17"
+						"Soulknife|Rogue V2||Soulknife|TCE|3",
+						"Soul Blades|Rogue V2||Soulknife|TCE|9",
+						"Psychic Veil|Rogue V2||Soulknife|TCE|13",
+						"Rend Mind|Rogue V2||Soulknife|TCE|17"
 					]
 				}
 			],
 			"fluff": [
 				{
-					"name": "Rogue2",
+					"name": "Rogue V2",
 					"type": "section",
 					"entries": [
 						"Signaling for her companions to wait, a halfling creeps forward through the dungeon hall. She presses an ear to the door, then pulls out a set of tools and picks the lock in the blink of an eye. Then she disappears into the shadows as her fighter friend moves forward to kick the door open.",
 						"A human lurks in the shadows of an alley while his accomplice prepares for her part in the ambush. When their target\u2014a notorious slaver\u2014passes the alleyway, the accomplice cries out, the slaver comes to investigate, and the assassin's blade cuts his throat before he can make a sound.",
 						"Suppressing a giggle, a gnome waggles her fingers and magically lifts the key ring from the guard's belt. In a moment, the keys are in her hand, the cell door is open, and she and her companions are free to make their escape.",
-						"Rogue2s rely on skill, stealth, and their foes' vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem, demonstrating a resourcefulness and versatility that is the cornerstone of any successful adventuring party.",
+						"Rogue V2s rely on skill, stealth, and their foes' vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem, demonstrating a resourcefulness and versatility that is the cornerstone of any successful adventuring party.",
 						{
 							"type": "entries",
 							"name": "Skill and Precision",
 							"entries": [
-								"Rogue2s devote as much effort to mastering the use of a variety of skills as they do to perfecting their combat abilities, giving them a broad expertise that few other characters can match. Many Rogue2s focus on stealth and deception, while others refine the skills that help them in a dungeon environment, such as climbing, finding and disarming traps, and opening locks.",
-								"When it comes to combat, Rogue2s prioritize cunning over brute strength. A Rogue2 would rather make one precise strike, placing it exactly where the attack will hurt the target most, than wear an opponent down with a barrage of attacks. Rogue2s have an almost supernatural knack for avoiding danger, and a few learn magical tricks to supplement their other abilities."
+								"Rogue V2s devote as much effort to mastering the use of a variety of skills as they do to perfecting their combat abilities, giving them a broad expertise that few other characters can match. Many Rogue V2s focus on stealth and deception, while others refine the skills that help them in a dungeon environment, such as climbing, finding and disarming traps, and opening locks.",
+								"When it comes to combat, Rogue V2s prioritize cunning over brute strength. A Rogue V2 would rather make one precise strike, placing it exactly where the attack will hurt the target most, than wear an opponent down with a barrage of attacks. Rogue V2s have an almost supernatural knack for avoiding danger, and a few learn magical tricks to supplement their other abilities."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "A Shady Living",
 							"entries": [
-								"Every town and city has its share of Rogue2s. Most of them live up to the worst stereotypes of the class, making a living as burglars, assassins, cutpurses, and con artists. Often, these scoundrels are organized into thieves' guilds or crime families. Plenty of Rogue2s operate independently, but even they sometimes recruit apprentices to help them in their scams and heists. A few Rogue2s make an honest living as locksmiths, investigators, or exterminators, which can be a dangerous job in a world where dire rats\u2014and wererats\u2014haunt the sewers.",
-								"As adventurers, Rogue2s fall on both sides of the law. Some are hardened criminals who decide to seek their fortune in treasure hoards, while others take up a life of adventure to escape from the law. Some have learned and perfected their skills with the explicit purpose of infiltrating ancient ruins and hidden crypts in search of treasure."
+								"Every town and city has its share of Rogue V2s. Most of them live up to the worst stereotypes of the class, making a living as burglars, assassins, cutpurses, and con artists. Often, these scoundrels are organized into thieves' guilds or crime families. Plenty of Rogue V2s operate independently, but even they sometimes recruit apprentices to help them in their scams and heists. A few Rogue V2s make an honest living as locksmiths, investigators, or exterminators, which can be a dangerous job in a world where dire rats\u2014and wererats\u2014haunt the sewers.",
+								"As adventurers, Rogue V2s fall on both sides of the law. Some are hardened criminals who decide to seek their fortune in treasure hoards, while others take up a life of adventure to escape from the law. Some have learned and perfected their skills with the explicit purpose of infiltrating ancient ruins and hidden crypts in search of treasure."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Creating a Rogue2",
+							"name": "Creating a Rogue V2",
 							"entries": [
-								"As you create your Rogue2 character, consider the character's relationship to the law. Do you have a criminal past\u2014or present? Are you on the run from the law or from an angry thieves' guild master? Or did you leave your guild in search of bigger risks and bigger rewards? Is it greed that drives you in your adventures, or some other desire or ideal?",
+								"As you create your Rogue V2 character, consider the character's relationship to the law. Do you have a criminal past\u2014or present? Are you on the run from the law or from an angry thieves' guild master? Or did you leave your guild in search of bigger risks and bigger rewards? Is it greed that drives you in your adventures, or some other desire or ideal?",
 								"What was the trigger that led you away from your previous life? Did a great con or heist gone terribly wrong cause you to reevaluate your career? Maybe you were lucky and a successful robbery gave you the coin you needed to escape the squalor of your life. Did wanderlust finally call you away from your home? Perhaps you suddenly found yourself cut off from your family or your mentor, and you had to find a new means of support. Or maybe you made a new friend\u2014another member of your adventuring party\u2014who showed you new possibilities for earning a living and employing your particular talents.",
 								{
 									"type": "entries",
 									"name": "Quick Build",
 									"entries": [
-										"You can make a Rogue2 quickly by following these suggestions. First, Dexterity should be your highest ability score. Make Intelligence your next-highest if you want to excel at Investigation or plan to take up the Arcane Trickster archetype. Choose Charisma instead if you plan to emphasize deception and social interaction. Second, choose the {@background charlatan} background."
+										"You can make a Rogue V2 quickly by following these suggestions. First, Dexterity should be your highest ability score. Make Intelligence your next-highest if you want to excel at Investigation or plan to take up the Arcane Trickster archetype. Choose Charisma instead if you plan to emphasize deception and social interaction. Second, choose the {@background charlatan} background."
 									]
 								}
 							]
@@ -959,17 +959,17 @@
 							],
 							"by": "Barnabas Bladecutter"
 						},
-						"When brute force won't get the job done, or when magic isn't available or appropriate, the Rogue2 rises to the fore. With skills tied to stealth, subterfuge, and trickery, Rogue2s can get into and out of trouble in ways that few other characters can emulate.",
-						"Some Rogue2s who turn to adventuring are former criminals who have decided that dodging monsters is preferable to remaining one step ahead of the law. Others are professional killers in search of a profitable application of their talents between contracts. Some simply love the thrill of overcoming any challenge that stands in their way.",
-						"On adventures, a Rogue2 is likely to mix an outwardly cautious approach\u2014few Rogue2s enjoy combat\u2014with a ravenous hunger for loot. Most of the time, in a Rogue2's mind, taking up arms against a creature is not about killing the creature but about becoming the new owner of its treasure.",
-						"The following sections explore certain facets of what it means to be a Rogue2, which you can use to add depth to your character.",
+						"When brute force won't get the job done, or when magic isn't available or appropriate, the Rogue V2 rises to the fore. With skills tied to stealth, subterfuge, and trickery, Rogue V2s can get into and out of trouble in ways that few other characters can emulate.",
+						"Some Rogue V2s who turn to adventuring are former criminals who have decided that dodging monsters is preferable to remaining one step ahead of the law. Others are professional killers in search of a profitable application of their talents between contracts. Some simply love the thrill of overcoming any challenge that stands in their way.",
+						"On adventures, a Rogue V2 is likely to mix an outwardly cautious approach\u2014few Rogue V2s enjoy combat\u2014with a ravenous hunger for loot. Most of the time, in a Rogue V2's mind, taking up arms against a creature is not about killing the creature but about becoming the new owner of its treasure.",
+						"The following sections explore certain facets of what it means to be a Rogue V2, which you can use to add depth to your character.",
 						{
 							"type": "entries",
 							"name": "Guilty Pleasures",
 							"entries": [
-								"Most of what Rogue2s do revolves around obtaining treasure and preventing others from doing the same. Little gets in the way of attaining those goals, except that many Rogue2s are enticed away from that path by a compulsion that clouds their thinking\u2014an irresistible need that must be satisfied, even if doing so is risky.",
-								"A Rogue2's guilty pleasure could be the acquisition of a physical item, something to be experienced, or a way of conducting oneself at certain times. One Rogue2 might not be able to pass up any loot made of silver, for instance, even if said loot is hanging around the neck of a castle guard. Another one can't go through a day in the city without lifting a purse or two, just to keep in practice.",
-								"What's the one form of temptation that your Rogue2 character can't resist when the opportunity presents itself, even if giving into it might mean trouble for you and your companions?",
+								"Most of what Rogue V2s do revolves around obtaining treasure and preventing others from doing the same. Little gets in the way of attaining those goals, except that many Rogue V2s are enticed away from that path by a compulsion that clouds their thinking\u2014an irresistible need that must be satisfied, even if doing so is risky.",
+								"A Rogue V2's guilty pleasure could be the acquisition of a physical item, something to be experienced, or a way of conducting oneself at certain times. One Rogue V2 might not be able to pass up any loot made of silver, for instance, even if said loot is hanging around the neck of a castle guard. Another one can't go through a day in the city without lifting a purse or two, just to keep in practice.",
+								"What's the one form of temptation that your Rogue V2 character can't resist when the opportunity presents itself, even if giving into it might mean trouble for you and your companions?",
 								{
 									"type": "table",
 									"caption": "Guilty Pleasures",
@@ -1044,9 +1044,9 @@
 							"type": "entries",
 							"name": "Adversaries",
 							"entries": [
-								"Naturally, those who enforce the law are bound to come up against those who break it, and it's the rare Rogue2 who isn't featured on at least one wanted poster. Beyond that, it's in the nature of their profession that Rogue2s often come into contact with criminal elements, whether out of choice or necessity. Some of those people can be adversaries too, and they're likely to be harder to deal with than the average member of the city watch.",
+								"Naturally, those who enforce the law are bound to come up against those who break it, and it's the rare Rogue V2 who isn't featured on at least one wanted poster. Beyond that, it's in the nature of their profession that Rogue V2s often come into contact with criminal elements, whether out of choice or necessity. Some of those people can be adversaries too, and they're likely to be harder to deal with than the average member of the city watch.",
 								"If your character's backstory doesn't already include a personage of this sort, you could work with your DM to come up with a reason why an adversary has appeared in your life. Perhaps you've been the subject of scrutiny for a while from someone who wants to use you for nefarious purposes and has just now become known to you. Such an incident could be the basis for an upcoming adventure.",
-								"Does your Rogue2 character have an adversary who also happens to be a criminal? If so, how is this relationship affecting your life?",
+								"Does your Rogue V2 character have an adversary who also happens to be a criminal? If so, how is this relationship affecting your life?",
 								{
 									"type": "table",
 									"caption": "Adversaries",
@@ -1121,7 +1121,7 @@
 							"type": "entries",
 							"name": "Benefactor",
 							"entries": [
-								"Few Rogue2s make it far in life before needing someone's help, which means thereafter owing that benefactor a significant debt.",
+								"Few Rogue V2s make it far in life before needing someone's help, which means thereafter owing that benefactor a significant debt.",
 								"If your character's backstory doesn't already include a personage of this sort, you could work with your DM to determine why a benefactor has appeared in your life. Perhaps you benefited from something your benefactor did for you without realizing who was responsible, and that person has now just become known to you. Who helped you in the past, whether or not you knew it at the time, and what do you owe that person as recompense?",
 								{
 									"type": "table",
@@ -1206,7 +1206,7 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 1,
 			"entries": [
@@ -1219,13 +1219,13 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 1,
 			"entries": [
 				"Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra {@damage 1d6} damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.",
 				"You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't {@condition incapacitated}, and you don't have disadvantage on the attack roll.",
-				"The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue2 table."
+				"The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue V2 table."
 			]
 		},
 		{
@@ -1233,11 +1233,11 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 1,
 			"entries": [
-				"During your Rogue2 training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.",
+				"During your Rogue V2 training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.",
 				"In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run."
 			]
 		},
@@ -1246,7 +1246,7 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 2,
 			"entries": [
@@ -1257,12 +1257,12 @@
 			"name": "Cunning Action: Aim",
 			"source": "UAClassFeatureVariants",
 			"page": 9,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 2,
 			"isClassFeatureVariant": true,
 			"entries": [
-				"{@i 2nd-level Rogue2 feature (enhances Cunning Action)}",
+				"{@i 2nd-level Rogue V2 feature (enhances Cunning Action)}",
 				"You gain an additional way to use your Cunning Action: carefully aiming your next attack. As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn."
 			]
 		},
@@ -1271,23 +1271,23 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 3,
 			"entries": [
-				"At 3rd level, you choose an archetype that you emulate in the exercise of your Rogue2 abilities from the list of available archetypes. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level."
+				"At 3rd level, you choose an archetype that you emulate in the exercise of your Rogue V2 abilities from the list of available archetypes. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level."
 			]
 		},
 		{
 			"name": "Steady Aim",
 			"source": "TCE",
 			"page": 62,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 3,
 			"isClassFeatureVariant": true,
 			"entries": [
-				"{@i 3rd-level Rogue2 {@variantrule optional class features|tce|optional feature}}",
+				"{@i 3rd-level Rogue V2 {@variantrule optional class features|tce|optional feature}}",
 				"As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn."
 			]
 		},
@@ -1296,7 +1296,7 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 4,
 			"entries": [
@@ -1308,7 +1308,7 @@
 			"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 4,
 			"isClassFeatureVariant": true,
@@ -1323,7 +1323,7 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 5,
 			"entries": [
@@ -1335,7 +1335,7 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 6,
 			"entries": [
@@ -1347,7 +1347,7 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 7,
 			"entries": [
@@ -1359,7 +1359,7 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 8,
 			"entries": [
@@ -1371,7 +1371,7 @@
 			"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 8,
 			"isClassFeatureVariant": true,
@@ -1386,7 +1386,7 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 9,
 			"entries": [
@@ -1398,7 +1398,7 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 10,
 			"entries": [
@@ -1410,7 +1410,7 @@
 			"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 10,
 			"isClassFeatureVariant": true,
@@ -1425,7 +1425,7 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 11,
 			"entries": [
@@ -1437,7 +1437,7 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 12,
 			"entries": [
@@ -1449,7 +1449,7 @@
 			"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 12,
 			"isClassFeatureVariant": true,
@@ -1464,7 +1464,7 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 13,
 			"entries": [
@@ -1476,7 +1476,7 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 14,
 			"entries": [
@@ -1488,7 +1488,7 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 15,
 			"entries": [
@@ -1500,7 +1500,7 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 16,
 			"entries": [
@@ -1512,7 +1512,7 @@
 			"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 16,
 			"isClassFeatureVariant": true,
@@ -1527,7 +1527,7 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 17,
 			"entries": [
@@ -1539,7 +1539,7 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 18,
 			"entries": [
@@ -1551,7 +1551,7 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 19,
 			"entries": [
@@ -1563,7 +1563,7 @@
 			"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 19,
 			"isClassFeatureVariant": true,
@@ -1578,7 +1578,7 @@
 			"source": "PHB",
 			"page": 94,
 			"srd": true,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"level": 20,
 			"entries": [
@@ -1592,20 +1592,20 @@
 			"name": "Arcane Trickster",
 			"source": "PHB",
 			"page": 97,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Trickster",
 			"subclassSource": "PHB",
 			"level": 3,
 			"entries": [
-				"Some Rogue2s enhance their fine-honed skills of stealth and agility with magic, learning tricks of enchantment and illusion. These Rogue2s include pickpockets and burglars, but also pranksters, mischief-makers, and a significant number of adventurers.",
+				"Some Rogue V2s enhance their fine-honed skills of stealth and agility with magic, learning tricks of enchantment and illusion. These Rogue V2s include pickpockets and burglars, but also pranksters, mischief-makers, and a significant number of adventurers.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Spellcasting|Rogue2||Arcane Trickster||3"
+					"subclassFeature": "Spellcasting|Rogue V2||Arcane Trickster||3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Mage Hand Legerdemain|Rogue2||Arcane Trickster||3"
+					"subclassFeature": "Mage Hand Legerdemain|Rogue V2||Arcane Trickster||3"
 				}
 			]
 		},
@@ -1613,7 +1613,7 @@
 			"name": "Mage Hand Legerdemain",
 			"source": "PHB",
 			"page": 97,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Trickster",
 			"subclassSource": "PHB",
@@ -1637,7 +1637,7 @@
 			"name": "Spellcasting",
 			"source": "PHB",
 			"page": 97,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Trickster",
 			"subclassSource": "PHB",
@@ -1717,7 +1717,7 @@
 			"name": "Magical Ambush",
 			"source": "PHB",
 			"page": 97,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Trickster",
 			"subclassSource": "PHB",
@@ -1731,7 +1731,7 @@
 			"name": "Versatile Trickster",
 			"source": "PHB",
 			"page": 97,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Trickster",
 			"subclassSource": "PHB",
@@ -1745,7 +1745,7 @@
 			"name": "Spell Thief",
 			"source": "PHB",
 			"page": 97,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Trickster",
 			"subclassSource": "PHB",
@@ -1761,7 +1761,7 @@
 			"name": "Assassin",
 			"source": "PHB",
 			"page": 97,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Assassin",
 			"subclassSource": "PHB",
@@ -1771,11 +1771,11 @@
 				"Your archetype grants you features at 3rd level and then again at 9th, 13th, and 17th level.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Assassinate|Rogue2||Assassin||3"
+					"subclassFeature": "Assassinate|Rogue V2||Assassin||3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiencies|Rogue2||Assassin||3"
+					"subclassFeature": "Bonus Proficiencies|Rogue V2||Assassin||3"
 				}
 			]
 		},
@@ -1783,7 +1783,7 @@
 			"name": "Assassinate",
 			"source": "PHB",
 			"page": 97,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Assassin",
 			"subclassSource": "PHB",
@@ -1797,7 +1797,7 @@
 			"name": "Bonus Proficiencies",
 			"source": "PHB",
 			"page": 97,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Assassin",
 			"subclassSource": "PHB",
@@ -1811,7 +1811,7 @@
 			"name": "Infiltration Expertise",
 			"source": "PHB",
 			"page": 97,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Assassin",
 			"subclassSource": "PHB",
@@ -1826,7 +1826,7 @@
 			"name": "Impostor",
 			"source": "PHB",
 			"page": 97,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Assassin",
 			"subclassSource": "PHB",
@@ -1841,7 +1841,7 @@
 			"name": "Death Strike",
 			"source": "PHB",
 			"page": 97,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Assassin",
 			"subclassSource": "PHB",
@@ -1855,22 +1855,22 @@
 			"name": "Phantom",
 			"source": "TCE",
 			"page": 62,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Phantom",
 			"subclassSource": "TCE",
 			"level": 3,
 			"entries": [
-				"Many Rogue2s walk a fine line between life and death, risking their own lives and taking the lives of others. While adventuring on that line, some Rogue2s discover a mystical connection to death itself. These Rogue2s take knowledge from the dead and become immersed in negative energy, eventually becoming like ghosts. Thieves' guilds value them as highly effective information gatherers and spies.",
+				"Many Rogue V2s walk a fine line between life and death, risking their own lives and taking the lives of others. While adventuring on that line, some Rogue V2s discover a mystical connection to death itself. These Rogue V2s take knowledge from the dead and become immersed in negative energy, eventually becoming like ghosts. Thieves' guilds value them as highly effective information gatherers and spies.",
 				"Many shadar-kai of the Shadowfell are masters of these macabre techniques, and some are willing to teach this path. In places like Thay in the Forgotten Realms and Karrnath in Eberron, where many necromancers practice their craft, a Phantom can become a wizard's confidant and right hand. In temples of gods of death, the Phantom might work as an agent to track down those who try to cheat death and to recover knowledge that might otherwise be lost to the grave.",
 				"How did you discover this grim power? Did you sleep in a graveyard and awaken to your new abilities? Or did you cultivate them in a temple or thieves' guild dedicated to a deity of death?",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Whispers of the Dead|Rogue2||Phantom|TCE|3"
+					"subclassFeature": "Whispers of the Dead|Rogue V2||Phantom|TCE|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Wails from the Grave|Rogue2||Phantom|TCE|3"
+					"subclassFeature": "Wails from the Grave|Rogue V2||Phantom|TCE|3"
 				}
 			]
 		},
@@ -1878,7 +1878,7 @@
 			"name": "Wails from the Grave",
 			"source": "TCE",
 			"page": 62,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Phantom",
 			"subclassSource": "TCE",
@@ -1894,7 +1894,7 @@
 			"name": "Whispers of the Dead",
 			"source": "TCE",
 			"page": 62,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Phantom",
 			"subclassSource": "TCE",
@@ -1909,7 +1909,7 @@
 			"name": "Tokens of the Departed",
 			"source": "TCE",
 			"page": 62,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Phantom",
 			"subclassSource": "TCE",
@@ -1933,7 +1933,7 @@
 			"name": "Ghost Walk",
 			"source": "TCE",
 			"page": 62,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Phantom",
 			"subclassSource": "TCE",
@@ -1949,7 +1949,7 @@
 			"name": "Death's Friend",
 			"source": "TCE",
 			"page": 62,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Phantom",
 			"subclassSource": "TCE",
@@ -1971,22 +1971,22 @@
 			"name": "Soulknife",
 			"source": "TCE",
 			"page": 63,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Soulknife",
 			"subclassSource": "TCE",
 			"level": 3,
 			"entries": [
-				"Most assassins strike with physical weapons, and many burglars and spies use {@item thieves' tools|PHB} to infiltrate secure locations. In contrast, a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These Rogue2s discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves' guilds, though they are often mistrusted by Rogue2s who are leery of anyone using strange mind powers to conduct their business. Most governments would also be happy to employ a Soulknife as a spy.",
+				"Most assassins strike with physical weapons, and many burglars and spies use {@item thieves' tools|PHB} to infiltrate secure locations. In contrast, a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These Rogue V2s discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves' guilds, though they are often mistrusted by Rogue V2s who are leery of anyone using strange mind powers to conduct their business. Most governments would also be happy to employ a Soulknife as a spy.",
 				"Amid the trees of ancient forests on the Material Plane and in the Feywild, some wood elves walk the path of the Soulknife, serving as silent, lethal guardians of their woods. In the endless war among the gith, a githzerai is encouraged to become a Soulknife when stealth is required against the githyanki foe.",
 				"As a Soulknife, your psionic abilities might have haunted you since you were a child, only revealing their full potential as you experienced the stress of adventure. Or you might have sought out a reclusive order of psychic adepts and spent years learning how to manifest your power.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psionic Power|Rogue2||Soulknife|TCE|3"
+					"subclassFeature": "Psionic Power|Rogue V2||Soulknife|TCE|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psychic Blades|Rogue2||Soulknife|TCE|3"
+					"subclassFeature": "Psychic Blades|Rogue V2||Soulknife|TCE|3"
 				}
 			]
 		},
@@ -1994,7 +1994,7 @@
 			"name": "Psionic Power",
 			"source": "TCE",
 			"page": 63,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Soulknife",
 			"subclassSource": "TCE",
@@ -2011,11 +2011,11 @@
 					"entries": [
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Psi-Bolstered Knack|Rogue2|TCE|Soulknife|TCE|3"
+							"subclassFeature": "Psi-Bolstered Knack|Rogue V2|TCE|Soulknife|TCE|3"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Psychic Whispers|Rogue2|TCE|Soulknife|TCE|3"
+							"subclassFeature": "Psychic Whispers|Rogue V2|TCE|Soulknife|TCE|3"
 						}
 					]
 				}
@@ -2025,7 +2025,7 @@
 			"name": "Psychic Blades",
 			"source": "TCE",
 			"page": 63,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Soulknife",
 			"subclassSource": "TCE",
@@ -2041,7 +2041,7 @@
 			"name": "Soul Blades",
 			"source": "TCE",
 			"page": 63,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Soulknife",
 			"subclassSource": "TCE",
@@ -2055,11 +2055,11 @@
 					"entries": [
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Homing Strikes|Rogue2|TCE|Soulknife|TCE|9"
+							"subclassFeature": "Homing Strikes|Rogue V2|TCE|Soulknife|TCE|9"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Psychic Teleportation|Rogue2|TCE|Soulknife|TCE|9"
+							"subclassFeature": "Psychic Teleportation|Rogue V2|TCE|Soulknife|TCE|9"
 						}
 					]
 				}
@@ -2069,7 +2069,7 @@
 			"name": "Psychic Veil",
 			"source": "TCE",
 			"page": 63,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Soulknife",
 			"subclassSource": "TCE",
@@ -2085,7 +2085,7 @@
 			"name": "Rend Mind",
 			"source": "TCE",
 			"page": 63,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Soulknife",
 			"subclassSource": "TCE",
@@ -2101,22 +2101,22 @@
 			"name": "Soulknife",
 			"source": "UA2020PsionicOptionsRevisited",
 			"page": 3,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Soulknife (UA)",
 			"subclassSource": "UA2020PsionicOptionsRevisited",
 			"level": 3,
 			"entries": [
-				"Most assassins strike with physical weapons, and many burglars and spies use {@item thieves' tools|PHB} to infiltrate secure locations, whereas a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These Rogue2s discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves' guilds, though they are often mistrusted by Rogue2s who are leery of anyone using strange mind powers to conduct their business, and most governments would be happy to employ a Soulknife as a spy.",
+				"Most assassins strike with physical weapons, and many burglars and spies use {@item thieves' tools|PHB} to infiltrate secure locations, whereas a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These Rogue V2s discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves' guilds, though they are often mistrusted by Rogue V2s who are leery of anyone using strange mind powers to conduct their business, and most governments would be happy to employ a Soulknife as a spy.",
 				"Amid the trees of ancient forests on the Material Plane and in the Feywild, some wood elves walk the path of the Soulknife, serving as silent, lethal guardians of their woods. In the endless war among the gith, a githzerai is encouraged to become a Soulknife when stealth is required against the githyanki foe, and in the world of Athas, a Sorcerer-King often turns to a Soulknife to eliminate an enemy, just as an insurgent Soulknife seeks to undermine that Sorcerer-King's rule.",
 				"As a Soulknife, your psionic abilities might have haunted you since you were a child, only revealing their potential as you experienced the stress of adventure. Or you might have sought out a reclusive order of psionic adepts and spent years learning how to manifest your power.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psionic Talent|Rogue2||Soulknife (UA)|UA2020PsionicOptionsRevisited|3"
+					"subclassFeature": "Psionic Talent|Rogue V2||Soulknife (UA)|UA2020PsionicOptionsRevisited|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psychic Blades|Rogue2||Soulknife (UA)|UA2020PsionicOptionsRevisited|3"
+					"subclassFeature": "Psychic Blades|Rogue V2||Soulknife (UA)|UA2020PsionicOptionsRevisited|3"
 				}
 			]
 		},
@@ -2124,7 +2124,7 @@
 			"name": "Psionic Talent",
 			"source": "UA2020PsionicOptionsRevisited",
 			"page": 3,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Soulknife (UA)",
 			"subclassSource": "UA2020PsionicOptionsRevisited",
@@ -2178,7 +2178,7 @@
 			"name": "Psychic Blades",
 			"source": "UA2020PsionicOptionsRevisited",
 			"page": 3,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Soulknife (UA)",
 			"subclassSource": "UA2020PsionicOptionsRevisited",
@@ -2194,7 +2194,7 @@
 			"name": "Soul Blades",
 			"source": "UA2020PsionicOptionsRevisited",
 			"page": 3,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Soulknife (UA)",
 			"subclassSource": "UA2020PsionicOptionsRevisited",
@@ -2225,7 +2225,7 @@
 			"name": "Psionic Veil",
 			"source": "UA2020PsionicOptionsRevisited",
 			"page": 3,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Soulknife (UA)",
 			"subclassSource": "UA2020PsionicOptionsRevisited",
@@ -2241,7 +2241,7 @@
 			"name": "Rend Mind",
 			"source": "UA2020PsionicOptionsRevisited",
 			"page": 3,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Soulknife (UA)",
 			"subclassSource": "UA2020PsionicOptionsRevisited",
@@ -2257,22 +2257,22 @@
 			"name": "Phantom",
 			"source": "UA2020SubclassesRevisited",
 			"page": 1,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Phantom (UA)",
 			"subclassSource": "UA2020SubclassesRevisited",
 			"level": 3,
 			"entries": [
-				"Many Rogue2s walk a fine line between life and death, risking their own lives and taking the lives of others. While adventuring on that line, some Rogue2s discover a mystical connection to death itself. These Rogue2s take knowledge from the dead and become immersed in negative energy, eventually becoming like ghosts. Thieves' guilds value them as highly effective information gatherers and spies.",
+				"Many Rogue V2s walk a fine line between life and death, risking their own lives and taking the lives of others. While adventuring on that line, some Rogue V2s discover a mystical connection to death itself. These Rogue V2s take knowledge from the dead and become immersed in negative energy, eventually becoming like ghosts. Thieves' guilds value them as highly effective information gatherers and spies.",
 				"Many shadar-kai of the Shadowfell are masters of these macabre techniques, and some are willing to teach this path. In places like Thay (Forgotten Realms) and Karrnath (Eberron), where many necromancers practice their craft, a Phantom can become a wizard's confidant and right hand. In temples of gods of death, the Phantom works as an agent to track down those who try to cheat death and to recover knowledge that might otherwise be lost to the grave.",
 				"How did you discover this grim power? Did you sleep in a graveyard and awaken to your new abilities? Or did you cultivate them in a temple or thieves' guild dedicated to a god of death?",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Whispers of the Dead|Rogue2||Phantom (UA)|UA2020SubclassesRevisited|3"
+					"subclassFeature": "Whispers of the Dead|Rogue V2||Phantom (UA)|UA2020SubclassesRevisited|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Wails from the Grave|Rogue2||Phantom (UA)|UA2020SubclassesRevisited|3"
+					"subclassFeature": "Wails from the Grave|Rogue V2||Phantom (UA)|UA2020SubclassesRevisited|3"
 				}
 			]
 		},
@@ -2280,7 +2280,7 @@
 			"name": "Wails from the Grave",
 			"source": "UA2020SubclassesRevisited",
 			"page": 1,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Phantom (UA)",
 			"subclassSource": "UA2020SubclassesRevisited",
@@ -2296,7 +2296,7 @@
 			"name": "Whispers of the Dead",
 			"source": "UA2020SubclassesRevisited",
 			"page": 1,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Phantom (UA)",
 			"subclassSource": "UA2020SubclassesRevisited",
@@ -2311,7 +2311,7 @@
 			"name": "Tokens of the Departed",
 			"source": "UA2020SubclassesRevisited",
 			"page": 1,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Phantom (UA)",
 			"subclassSource": "UA2020SubclassesRevisited",
@@ -2328,7 +2328,7 @@
 			"name": "Ghost Walk",
 			"source": "UA2020SubclassesRevisited",
 			"page": 1,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Phantom (UA)",
 			"subclassSource": "UA2020SubclassesRevisited",
@@ -2344,7 +2344,7 @@
 			"name": "Death Knell",
 			"source": "UA2020SubclassesRevisited",
 			"page": 1,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Phantom (UA)",
 			"subclassSource": "UA2020SubclassesRevisited",
@@ -2357,37 +2357,37 @@
 		},
 		{
 			"name": "The Revived",
-			"source": "UAFighterRangerRogue2",
+			"source": "UAFighterRangerRogue V2",
 			"page": 4,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Revived (UA)",
-			"subclassSource": "UAFighterRangerRogue2",
+			"subclassSource": "UAFighterRangerRogue V2",
 			"level": 3,
 			"entries": [
 				"You've had a soul-shaking realization: you've been dead before, yet somehow you are alive again. This life isn't your first; it might not even be your second. Your past life, or lives, are unclear to you, but you know that you passed through the gates of death. And the powers of death, or some other influence, wasn't done with you. You might have convinced a deity to let you return to the Material Plane, perhaps you signed a deal with a fiend, or maybe you used an artifact that revived you. Whatever force brought you back, you now know the truth about yourself: that you are one of death's representatives among the living.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Tokens of Past Lives|Rogue2||Revived (UA)|UAFighterRangerRogue2|3"
+					"subclassFeature": "Tokens of Past Lives|Rogue V2||Revived (UA)|UAFighterRangerRogue V2|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Revived Nature|Rogue2||Revived (UA)|UAFighterRangerRogue2|3"
+					"subclassFeature": "Revived Nature|Rogue V2||Revived (UA)|UAFighterRangerRogue V2|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bolts from the Grave|Rogue2||Revived (UA)|UAFighterRangerRogue2|3"
+					"subclassFeature": "Bolts from the Grave|Rogue V2||Revived (UA)|UAFighterRangerRogue V2|3"
 				}
 			]
 		},
 		{
 			"name": "Bolts from the Grave",
-			"source": "UAFighterRangerRogue2",
+			"source": "UAFighterRangerRogue V2",
 			"page": 4,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Revived (UA)",
-			"subclassSource": "UAFighterRangerRogue2",
+			"subclassSource": "UAFighterRangerRogue V2",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -2397,12 +2397,12 @@
 		},
 		{
 			"name": "Revived Nature",
-			"source": "UAFighterRangerRogue2",
+			"source": "UAFighterRangerRogue V2",
 			"page": 4,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Revived (UA)",
-			"subclassSource": "UAFighterRangerRogue2",
+			"subclassSource": "UAFighterRangerRogue V2",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -2420,12 +2420,12 @@
 		},
 		{
 			"name": "Tokens of Past Lives",
-			"source": "UAFighterRangerRogue2",
+			"source": "UAFighterRangerRogue V2",
 			"page": 4,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Revived (UA)",
-			"subclassSource": "UAFighterRangerRogue2",
+			"subclassSource": "UAFighterRangerRogue V2",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -2435,12 +2435,12 @@
 		},
 		{
 			"name": "Connect with the Dead",
-			"source": "UAFighterRangerRogue2",
+			"source": "UAFighterRangerRogue V2",
 			"page": 4,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Revived (UA)",
-			"subclassSource": "UAFighterRangerRogue2",
+			"subclassSource": "UAFighterRangerRogue V2",
 			"level": 9,
 			"header": 2,
 			"entries": [
@@ -2478,12 +2478,12 @@
 		},
 		{
 			"name": "Audience with Death",
-			"source": "UAFighterRangerRogue2",
+			"source": "UAFighterRangerRogue V2",
 			"page": 4,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Revived (UA)",
-			"subclassSource": "UAFighterRangerRogue2",
+			"subclassSource": "UAFighterRangerRogue V2",
 			"level": 13,
 			"header": 2,
 			"entries": [
@@ -2494,12 +2494,12 @@
 		},
 		{
 			"name": "Ethereal Jaunt",
-			"source": "UAFighterRangerRogue2",
+			"source": "UAFighterRangerRogue V2",
 			"page": 4,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Revived (UA)",
-			"subclassSource": "UAFighterRangerRogue2",
+			"subclassSource": "UAFighterRangerRogue V2",
 			"level": 17,
 			"header": 2,
 			"entries": [
@@ -2509,34 +2509,34 @@
 		},
 		{
 			"name": "Soulknife",
-			"source": "UAFighterRogue2Wizard",
+			"source": "UAFighterRogue V2Wizard",
 			"page": 2,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Soulknife (UA)",
-			"subclassSource": "UAFighterRogue2Wizard",
+			"subclassSource": "UAFighterRogue V2Wizard",
 			"level": 3,
 			"entries": [
 				"A Soulknife possesses powerful psionic potential. They channel this reservoir of inner magic into tangible blades of psychic energy, striking at their victims' minds. They find easy employment as members of thieves' guilds, being particularly sought after as assassins, since their signature psychic blades leave behind no visible wounds.",
 				"As a Soulknife, your psionic abilities might have haunted you since you were a child, only revealing their potential when your psychic knives first appeared. Or you might have sought out a reclusive order of psionic assassins and spent years learning how to manifest your deadly blades.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psychic Blade|Rogue2||Soulknife (UA)|UAFighterRogue2Wizard|3"
+					"subclassFeature": "Psychic Blade|Rogue V2||Soulknife (UA)|UAFighterRogue V2Wizard|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psionic Enhancement|Rogue2||Soulknife (UA)|UAFighterRogue2Wizard|3"
+					"subclassFeature": "Psionic Enhancement|Rogue V2||Soulknife (UA)|UAFighterRogue V2Wizard|3"
 				}
 			]
 		},
 		{
 			"name": "Psionic Enhancement",
-			"source": "UAFighterRogue2Wizard",
+			"source": "UAFighterRogue V2Wizard",
 			"page": 2,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Soulknife (UA)",
-			"subclassSource": "UAFighterRogue2Wizard",
+			"subclassSource": "UAFighterRogue V2Wizard",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -2547,19 +2547,19 @@
 					"items": [
 						"You can communicate telepathically with any creature you can see within 30 feet of you. If a creature can speak at least one language, it can respond to you telepathically.",
 						"Increase your walking speed by 5 feet.",
-						"Your hit point maximum and your current hit points increase by an amount equal to your Intelligence modifier plus your Rogue2 level."
+						"Your hit point maximum and your current hit points increase by an amount equal to your Intelligence modifier plus your Rogue V2 level."
 					]
 				}
 			]
 		},
 		{
 			"name": "Psychic Blade",
-			"source": "UAFighterRogue2Wizard",
+			"source": "UAFighterRogue V2Wizard",
 			"page": 2,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Soulknife (UA)",
-			"subclassSource": "UAFighterRogue2Wizard",
+			"subclassSource": "UAFighterRogue V2Wizard",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -2570,12 +2570,12 @@
 		},
 		{
 			"name": "Terrifying Blade",
-			"source": "UAFighterRogue2Wizard",
+			"source": "UAFighterRogue V2Wizard",
 			"page": 2,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Soulknife (UA)",
-			"subclassSource": "UAFighterRogue2Wizard",
+			"subclassSource": "UAFighterRogue V2Wizard",
 			"level": 9,
 			"header": 2,
 			"entries": [
@@ -2585,12 +2585,12 @@
 		},
 		{
 			"name": "Psychic Veil",
-			"source": "UAFighterRogue2Wizard",
+			"source": "UAFighterRogue V2Wizard",
 			"page": 2,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Soulknife (UA)",
-			"subclassSource": "UAFighterRogue2Wizard",
+			"subclassSource": "UAFighterRogue V2Wizard",
 			"level": 13,
 			"header": 2,
 			"entries": [
@@ -2601,12 +2601,12 @@
 		},
 		{
 			"name": "Rend Mind",
-			"source": "UAFighterRogue2Wizard",
+			"source": "UAFighterRogue V2Wizard",
 			"page": 2,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Soulknife (UA)",
-			"subclassSource": "UAFighterRogue2Wizard",
+			"subclassSource": "UAFighterRogue V2Wizard",
 			"level": 17,
 			"header": 2,
 			"entries": [
@@ -2619,7 +2619,7 @@
 			"name": "Inquisitive",
 			"source": "UAGothicHeroes",
 			"page": 2,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Inquisitive (UA)",
 			"subclassSource": "UAGothicHeroes",
@@ -2628,15 +2628,15 @@
 				"As an archetypal Inquisitive, you excel at rooting out secrets and unraveling mysteries. You rely on your sharp eye for details, but also on your finely honed ability to read the words and deeds of other creatures to determine their true intent. You excel at defeating creatures that hide among and prey upon ordinary folk, and your mastery of lore and your sharp eye make you well equipped to expose and end hidden evils.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Ear for Deceit|Rogue2||Inquisitive (UA)|UAGothicHeroes|3"
+					"subclassFeature": "Ear for Deceit|Rogue V2||Inquisitive (UA)|UAGothicHeroes|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Eye for Detail|Rogue2||Inquisitive (UA)|UAGothicHeroes|3"
+					"subclassFeature": "Eye for Detail|Rogue V2||Inquisitive (UA)|UAGothicHeroes|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Insightful Fighting|Rogue2||Inquisitive (UA)|UAGothicHeroes|3"
+					"subclassFeature": "Insightful Fighting|Rogue V2||Inquisitive (UA)|UAGothicHeroes|3"
 				}
 			]
 		},
@@ -2644,7 +2644,7 @@
 			"name": "Ear for Deceit",
 			"source": "UAGothicHeroes",
 			"page": 2,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Inquisitive (UA)",
 			"subclassSource": "UAGothicHeroes",
@@ -2658,7 +2658,7 @@
 			"name": "Eye for Detail",
 			"source": "UAGothicHeroes",
 			"page": 2,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Inquisitive (UA)",
 			"subclassSource": "UAGothicHeroes",
@@ -2672,7 +2672,7 @@
 			"name": "Insightful Fighting",
 			"source": "UAGothicHeroes",
 			"page": 2,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Inquisitive (UA)",
 			"subclassSource": "UAGothicHeroes",
@@ -2687,7 +2687,7 @@
 			"name": "Steady Eye",
 			"source": "UAGothicHeroes",
 			"page": 2,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Inquisitive (UA)",
 			"subclassSource": "UAGothicHeroes",
@@ -2701,7 +2701,7 @@
 			"name": "Unerring Eye",
 			"source": "UAGothicHeroes",
 			"page": 2,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Inquisitive (UA)",
 			"subclassSource": "UAGothicHeroes",
@@ -2715,7 +2715,7 @@
 			"name": "Eye for Weakness",
 			"source": "UAGothicHeroes",
 			"page": 2,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Inquisitive (UA)",
 			"subclassSource": "UAGothicHeroes",
@@ -2727,33 +2727,33 @@
 		},
 		{
 			"name": "Scout",
-			"source": "UARangerAndRogue2",
+			"source": "UARangerAndRogue V2",
 			"page": 2,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Scout (UA)",
-			"subclassSource": "UARangerAndRogue2",
+			"subclassSource": "UARangerAndRogue V2",
 			"level": 3,
 			"entries": [
-				"You are skilled in woodcraft and stealth, allowing you to range ahead of your companions during expeditions. Rogue2s who embrace this archetype are at home in the wilderness and among barbarians and fighters, as they serve as the eyes and ears of war bands across the world. Compared to other Rogue2s, you are skilled at surviving in the wilds.",
+				"You are skilled in woodcraft and stealth, allowing you to range ahead of your companions during expeditions. Rogue V2s who embrace this archetype are at home in the wilderness and among barbarians and fighters, as they serve as the eyes and ears of war bands across the world. Compared to other Rogue V2s, you are skilled at surviving in the wilds.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Survivalist|Rogue2||Scout (UA)|UARangerAndRogue2|3"
+					"subclassFeature": "Survivalist|Rogue V2||Scout (UA)|UARangerAndRogue V2|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Skirmisher|Rogue2||Scout (UA)|UARangerAndRogue2|3"
+					"subclassFeature": "Skirmisher|Rogue V2||Scout (UA)|UARangerAndRogue V2|3"
 				}
 			]
 		},
 		{
 			"name": "Skirmisher",
-			"source": "UARangerAndRogue2",
+			"source": "UARangerAndRogue V2",
 			"page": 2,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Scout (UA)",
-			"subclassSource": "UARangerAndRogue2",
+			"subclassSource": "UARangerAndRogue V2",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -2762,12 +2762,12 @@
 		},
 		{
 			"name": "Survivalist",
-			"source": "UARangerAndRogue2",
+			"source": "UARangerAndRogue V2",
 			"page": 2,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Scout (UA)",
-			"subclassSource": "UARangerAndRogue2",
+			"subclassSource": "UARangerAndRogue V2",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -2776,12 +2776,12 @@
 		},
 		{
 			"name": "Superior Mobility",
-			"source": "UARangerAndRogue2",
+			"source": "UARangerAndRogue V2",
 			"page": 2,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Scout (UA)",
-			"subclassSource": "UARangerAndRogue2",
+			"subclassSource": "UARangerAndRogue V2",
 			"level": 9,
 			"header": 2,
 			"entries": [
@@ -2790,12 +2790,12 @@
 		},
 		{
 			"name": "Ambush Master",
-			"source": "UARangerAndRogue2",
+			"source": "UARangerAndRogue V2",
 			"page": 2,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Scout (UA)",
-			"subclassSource": "UARangerAndRogue2",
+			"subclassSource": "UARangerAndRogue V2",
 			"level": 13,
 			"header": 2,
 			"entries": [
@@ -2805,12 +2805,12 @@
 		},
 		{
 			"name": "Sudden Strike",
-			"source": "UARangerAndRogue2",
+			"source": "UARangerAndRogue V2",
 			"page": 2,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Scout (UA)",
-			"subclassSource": "UARangerAndRogue2",
+			"subclassSource": "UARangerAndRogue V2",
 			"level": 17,
 			"header": 2,
 			"entries": [
@@ -2821,7 +2821,7 @@
 			"name": "Inquisitive",
 			"source": "XGE",
 			"page": 45,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Inquisitive",
 			"subclassSource": "XGE",
@@ -2830,15 +2830,15 @@
 				"As an archetypal Inquisitive, you excel at rooting out secrets and unraveling mysteries. You rely on your sharp eye for detail, but also on your finely honed ability to read the words and deeds of other creatures to determine their true intent. You excel at defeating creatures that hide among and prey upon ordinary folk, and your mastery of lore and your keen deductions make you well equipped to expose and end hidden evils.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Ear for Deceit|Rogue2||Inquisitive|XGE|3"
+					"subclassFeature": "Ear for Deceit|Rogue V2||Inquisitive|XGE|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Eye for Detail|Rogue2||Inquisitive|XGE|3"
+					"subclassFeature": "Eye for Detail|Rogue V2||Inquisitive|XGE|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Insightful Fighting|Rogue2||Inquisitive|XGE|3"
+					"subclassFeature": "Insightful Fighting|Rogue V2||Inquisitive|XGE|3"
 				}
 			]
 		},
@@ -2846,7 +2846,7 @@
 			"name": "Ear for Deceit",
 			"source": "XGE",
 			"page": 45,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Inquisitive",
 			"subclassSource": "XGE",
@@ -2860,7 +2860,7 @@
 			"name": "Eye for Detail",
 			"source": "XGE",
 			"page": 45,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Inquisitive",
 			"subclassSource": "XGE",
@@ -2874,7 +2874,7 @@
 			"name": "Insightful Fighting",
 			"source": "XGE",
 			"page": 45,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Inquisitive",
 			"subclassSource": "XGE",
@@ -2889,7 +2889,7 @@
 			"name": "Steady Eye",
 			"source": "XGE",
 			"page": 45,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Inquisitive",
 			"subclassSource": "XGE",
@@ -2903,7 +2903,7 @@
 			"name": "Unerring Eye",
 			"source": "XGE",
 			"page": 45,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Inquisitive",
 			"subclassSource": "XGE",
@@ -2918,7 +2918,7 @@
 			"name": "Eye for Weakness",
 			"source": "XGE",
 			"page": 45,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Inquisitive",
 			"subclassSource": "XGE",
@@ -2932,7 +2932,7 @@
 			"name": "Mastermind",
 			"source": "XGE",
 			"page": 46,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Mastermind",
 			"subclassSource": "XGE",
@@ -2941,11 +2941,11 @@
 				"Your focus is on people and on the influence and secrets they have. Many spies, courtiers, and schemers follow this archetype, leading lives of intrigue. Words are your weapons as often as knives or poison, and secrets and favors are some of your favorite treasures.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Master of Intrigue|Rogue2||Mastermind|XGE|3"
+					"subclassFeature": "Master of Intrigue|Rogue V2||Mastermind|XGE|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Master of Tactics|Rogue2||Mastermind|XGE|3"
+					"subclassFeature": "Master of Tactics|Rogue V2||Mastermind|XGE|3"
 				}
 			]
 		},
@@ -2953,7 +2953,7 @@
 			"name": "Master of Intrigue",
 			"source": "XGE",
 			"page": 46,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Mastermind",
 			"subclassSource": "XGE",
@@ -2968,7 +2968,7 @@
 			"name": "Master of Tactics",
 			"source": "XGE",
 			"page": 46,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Mastermind",
 			"subclassSource": "XGE",
@@ -2982,7 +2982,7 @@
 			"name": "Insightful Manipulator",
 			"source": "XGE",
 			"page": 46,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Mastermind",
 			"subclassSource": "XGE",
@@ -3006,7 +3006,7 @@
 			"name": "Misdirection",
 			"source": "XGE",
 			"page": 46,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Mastermind",
 			"subclassSource": "XGE",
@@ -3020,7 +3020,7 @@
 			"name": "Soul of Deceit",
 			"source": "XGE",
 			"page": 46,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Mastermind",
 			"subclassSource": "XGE",
@@ -3035,20 +3035,20 @@
 			"name": "Scout",
 			"source": "XGE",
 			"page": 47,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Scout",
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"You are skilled in stealth and surviving far from the streets of a city, allowing you to scout ahead of your companions during expeditions. Rogue2s who embrace this archetype are at home in the wilderness and among barbarians and rangers, and many Scouts serve as the eyes and ears of war bands. Ambusher, spy, bounty hunter\u2014these are just a few of the roles that Scouts assume as they range the world.",
+				"You are skilled in stealth and surviving far from the streets of a city, allowing you to scout ahead of your companions during expeditions. Rogue V2s who embrace this archetype are at home in the wilderness and among barbarians and rangers, and many Scouts serve as the eyes and ears of war bands. Ambusher, spy, bounty hunter\u2014these are just a few of the roles that Scouts assume as they range the world.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Skirmisher|Rogue2||Scout|XGE|3"
+					"subclassFeature": "Skirmisher|Rogue V2||Scout|XGE|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Survivalist|Rogue2||Scout|XGE|3"
+					"subclassFeature": "Survivalist|Rogue V2||Scout|XGE|3"
 				}
 			]
 		},
@@ -3056,7 +3056,7 @@
 			"name": "Skirmisher",
 			"source": "XGE",
 			"page": 47,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Scout",
 			"subclassSource": "XGE",
@@ -3070,7 +3070,7 @@
 			"name": "Survivalist",
 			"source": "XGE",
 			"page": 47,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Scout",
 			"subclassSource": "XGE",
@@ -3084,7 +3084,7 @@
 			"name": "Superior Mobility",
 			"source": "XGE",
 			"page": 47,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Scout",
 			"subclassSource": "XGE",
@@ -3098,7 +3098,7 @@
 			"name": "Ambush Master",
 			"source": "XGE",
 			"page": 47,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Scout",
 			"subclassSource": "XGE",
@@ -3113,7 +3113,7 @@
 			"name": "Sudden Strike",
 			"source": "XGE",
 			"page": 47,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Scout",
 			"subclassSource": "XGE",
@@ -3127,7 +3127,7 @@
 			"name": "Swashbuckler",
 			"source": "XGE",
 			"page": 48,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Swashbuckler",
 			"subclassSource": "XGE",
@@ -3137,11 +3137,11 @@
 				"A Swashbuckler excels in single combat, and can fight with two weapons while safely darting away from an opponent.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Fancy Footwork|Rogue2||Swashbuckler|XGE|3"
+					"subclassFeature": "Fancy Footwork|Rogue V2||Swashbuckler|XGE|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Rakish Audacity|Rogue2||Swashbuckler|XGE|3"
+					"subclassFeature": "Rakish Audacity|Rogue V2||Swashbuckler|XGE|3"
 				}
 			]
 		},
@@ -3149,7 +3149,7 @@
 			"name": "Fancy Footwork",
 			"source": "XGE",
 			"page": 48,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Swashbuckler",
 			"subclassSource": "XGE",
@@ -3163,7 +3163,7 @@
 			"name": "Rakish Audacity",
 			"source": "XGE",
 			"page": 48,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Swashbuckler",
 			"subclassSource": "XGE",
@@ -3178,7 +3178,7 @@
 			"name": "Panache",
 			"source": "XGE",
 			"page": 48,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Swashbuckler",
 			"subclassSource": "XGE",
@@ -3194,7 +3194,7 @@
 			"name": "Elegant Maneuver",
 			"source": "XGE",
 			"page": 48,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Swashbuckler",
 			"subclassSource": "XGE",
@@ -3208,7 +3208,7 @@
 			"name": "Master Duelist",
 			"source": "XGE",
 			"page": 48,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "PHB",
 			"subclassShortName": "Swashbuckler",
 			"subclassSource": "XGE",
@@ -3222,7 +3222,7 @@
 			"name": "Psi-Bolstered Knack",
 			"source": "TCE",
 			"page": 63,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "TCE",
 			"subclassShortName": "Soulknife",
 			"subclassSource": "TCE",
@@ -3235,7 +3235,7 @@
 			"name": "Psychic Whispers",
 			"source": "TCE",
 			"page": 63,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "TCE",
 			"subclassShortName": "Soulknife",
 			"subclassSource": "TCE",
@@ -3249,7 +3249,7 @@
 			"name": "Homing Strikes",
 			"source": "TCE",
 			"page": 63,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "TCE",
 			"subclassShortName": "Soulknife",
 			"subclassSource": "TCE",
@@ -3262,7 +3262,7 @@
 			"name": "Psychic Teleportation",
 			"source": "TCE",
 			"page": 63,
-			"className": "Rogue2",
+			"className": "Rogue V2",
 			"classSource": "TCE",
 			"subclassShortName": "Soulknife",
 			"subclassSource": "TCE",
