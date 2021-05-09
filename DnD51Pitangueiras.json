@@ -1648,7 +1648,7 @@
 			]
 		},
 		{
-			"name": "Storm Sphere V3",
+			"name": "Storm Sphere V4",
 			"source": "DnD51Pitangueiras",
 			"page": 166,
 			"otherSources": [
@@ -2314,7 +2314,7 @@
 			"data": {}
 		},
 		{
-			"name": "Storm Sphere V3",
+			"name": "Storm Sphere V4",
 			"source": "DnD51Pitangueiras",
 			"data": {
 				"Save": "Strength",
@@ -2323,6 +2323,7 @@
 				"Higher Spell Slot Die": "d6",
 				"Higher Spell Slot Dice": "1",
 				"Target": "Each creature in a 20-foot-radius sphere centered on a point you choose within range",
+				"Spell Attack": "Ranged",
 				"Secondary Damage": "4d6",
 				"Secondary Damage Type": "Lightning",
 				"Secondary Higher Spell Slot Die": "d6",
