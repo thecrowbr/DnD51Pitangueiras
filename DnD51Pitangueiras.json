@@ -3,7 +3,7 @@
 		"sources": [
 			{
 				"json": "DnD51Pitangueiras",
-				"abbreviation": "DnD5P",
+				"abbreviation": "DnD51P",
 				"full": "D&D 5.1 Pitangueiras",
 				"url": "https://github.com/thecrowbr/DnD51Pitangueiras",
 				"authors": [
@@ -733,13 +733,15 @@
 				{
 					"name": "Assassin",
 					"shortName": "Assassin",
-					"source": "PHB",
+					"source": "DnD51Pitangueiras",
 					"page": 97,
 					"subclassFeatures": [
 						"Assassin|Rogue V2||Assassin||3",
+						"Supreme Sneak|Rogue V2||Assassin||9",
 						"Infiltration Expertise|Rogue V2||Assassin||9",
+						"Use Magic Device|Rogue V2||Assassin||13",
 						"Impostor|Rogue V2||Assassin||13",
-						"Death Strike|Rogue V2||Assassin||17"
+						"Assassin's Reflexes|Rogue V2||Assassin||17"
 					]
 				},
 				{
@@ -1759,24 +1761,40 @@
 		},
 		{
 			"name": "Assassin",
-			"source": "PHB",
+			"source": "DnD51Pitangueiras",
 			"page": 97,
 			"className": "Rogue V2",
-			"classSource": "PHB",
+			"classSource": "DnD51Pitangueiras",
 			"subclassShortName": "Assassin",
-			"subclassSource": "PHB",
+			"subclassSource": "DnD51Pitangueiras",
 			"level": 3,
 			"entries": [
 				"You focus your training on the grim art of death. Those who adhere to this archetype are diverse - hired killers, spies, bounty hunters, and even specially anointed priests trained to exterminate the enemies of their deity. Stealth, poison, and disguise help you eliminate your foes with deadly efficiency.",
 				"Your archetype grants you features at 3rd level and then again at 9th, 13th, and 17th level.",
 				{
 					"type": "refSubclassFeature",
+					"subclassFeature": "Fast Hands|Rogue V2||Assassin||3",
 					"subclassFeature": "Assassinate|Rogue V2||Assassin||3"
 				},
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Bonus Proficiencies|Rogue V2||Assassin||3"
 				}
+			]
+		},
+		{
+			"name": "Fast Hands",
+			"source": "DnD51Pitangueiras",
+			"page": 97,
+			"srd": true,
+			"className": "Rogue V2",
+			"classSource": "DnD51Pitangueiras",
+			"subclassShortName": "Assassin",
+			"subclassSource": "DnD51Pitangueiras",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				"Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity ({@skill Sleight of Hand}) check, use your {@item thieves' tools|phb} to disarm a trap or open a lock, or take the {@action Use an Object} action."
 			]
 		},
 		{
@@ -1808,6 +1826,21 @@
 			]
 		},
 		{
+			"name": "Supreme Sneak",
+			"source": "DnD51Pitangueiras",
+			"page": 97,
+			"srd": true,
+			"className": "Rogue V2",
+			"classSource": "DnD51Pitangueiras",
+			"subclassShortName": "Assassin",
+			"subclassSource": "DnD51Pitangueiras",
+			"level": 9,
+			"header": 2,
+			"entries": [
+				"Starting at 9th level, you have advantage on a Dexterity ({@skill Stealth}) check if you move no more than half your speed on the same turn."
+			]
+		},
+		{
 			"name": "Infiltration Expertise",
 			"source": "PHB",
 			"page": 97,
@@ -1820,6 +1853,21 @@
 			"entries": [
 				"Starting at 9th level, you can unfailingly create false identities for yourself. You must spend seven days and 25 gp to establish the history, profession, and affiliations for an identity. You can't establish an identity that belongs to someone else. For example, you might acquire appropriate clothing, letters of introduction, and official-looking certification to establish yourself as a member of a trading house from a remote city so you can insinuate yourself into the company of other wealthy merchants.",
 				"Thereafter, if you adopt the new identity as a disguise, other creatures believe you to be that person until given an obvious reason not to."
+			]
+		},
+		{
+			"name": "Use Magic Device",
+			"source": "DnD51Pitangueiras",
+			"page": 97,
+			"srd": true,
+			"className": "Rogue V2",
+			"classSource": "DnD51Pitangueiras",
+			"subclassShortName": "Assassin",
+			"subclassSource": "DnD51Pitangueiras",
+			"level": 13,
+			"header": 2,
+			"entries": [
+				"By 13th level, you have learned enough about the workings of magic that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of magic items."
 			]
 		},
 		{
@@ -1838,17 +1886,18 @@
 			]
 		},
 		{
-			"name": "Death Strike",
-			"source": "PHB",
+			"name": "Assassin's Reflexes",
+			"source": "DnD51Pitangueiras",
 			"page": 97,
+			"srd": true,
 			"className": "Rogue V2",
-			"classSource": "PHB",
+			"classSource": "DnD51Pitangueiras",
 			"subclassShortName": "Assassin",
-			"subclassSource": "PHB",
+			"subclassSource": "DnD51Pitangueiras",
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"Starting at 17th level, you become a master of instant death. When you attack and hit a creature that is surprised, it must make a Constitution saving throw (DC 8 + your Dexterity modifier + your proficiency bonus). On a failed save, double the damage of your attack against the creature."
+				"When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can't use this feature when you are surprised."
 			]
 		},
 		{
@@ -5160,7 +5209,7 @@
 						},
 						"subclass": {
 							"name": "Horizon Walker (UA)",
-							"source": "UARangerAndRogue"
+							"source": "UARangerAndRogue V2"
 						}
 					},
 					{
@@ -5180,7 +5229,7 @@
 						},
 						"subclass": {
 							"name": "Horizon Walker (UA)",
-							"source": "UARangerAndRogue"
+							"source": "UARangerAndRogue V2"
 						}
 					},
 					{
