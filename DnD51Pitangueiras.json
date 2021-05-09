@@ -2034,7 +2034,7 @@
 			]
 		},
 		{
-			"name": "_Elemental Weapon V6",
+			"name": "_Elemental Weapon V7",
 			"source": "DnD51Pitangueiras",
 			"page": 237,
 			"level": 2,
@@ -2345,7 +2345,7 @@
 			"data": {}
 		},
 		{
-			"name": "_Elemental Weapon V6",
+			"name": "_Elemental Weapon V7",
 			"source": "DnD51Pitangueiras",
 			"data": {
 				"Damage": "1d4",
@@ -2357,7 +2357,7 @@
 			},
 			"shapedData": {
 				"primaryDamageCondition": "auto",
-				"includeDescription": "on"
+				"includeSpellDescription": "on"
 			}
 		}
 	]
