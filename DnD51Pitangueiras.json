@@ -1648,7 +1648,7 @@
 			]
 		},
 		{
-			"name": "_Storm Sphere V2",
+			"name": "Storm Sphere V2",
 			"source": "DnD51Pitangueiras",
 			"page": 166,
 			"otherSources": [
@@ -2034,7 +2034,7 @@
 			]
 		},
 		{
-			"name": "_Elemental Weapon V2",
+			"name": "Elemental Weapon V2",
 			"source": "DnD51Pitangueiras",
 			"page": 237,
 			"level": 2,
@@ -2314,7 +2314,7 @@
 			"data": {}
 		},
 		{
-			"name": "_Storm Sphere V2",
+			"name": "Storm Sphere V2",
 			"source": "DnD51Pitangueiras",
 			"data": {
 				"Save": "Strength",
@@ -2335,17 +2335,17 @@
 			}
 		},
 		{
-			"name": "Absorb Elements V2",
+			"name": "_Absorb Elements V2",
 			"source": "DnD51Pitangueiras",
 			"data": {}
 		},
 		{
-			"name": "Protection from Evil and Good V2",
+			"name": "_Protection from Evil and Good V2",
 			"source": "DnD51Pitangueiras",
 			"data": {}
 		},
 		{
-			"name": "_Elemental Weapon V2",
+			"name": "Elemental Weapon V2",
 			"source": "DnD51Pitangueiras",
 			"data": {
 				"Damage": "1d4",
