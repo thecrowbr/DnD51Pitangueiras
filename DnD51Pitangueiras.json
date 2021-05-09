@@ -12,7 +12,7 @@
 				"convertedBy": [
 					"TheCrow"
 				],
-				"version": "2.12"
+				"version": "2.13"
 			}
 		],
 		"dateAdded": 1620268448,
@@ -733,7 +733,7 @@
 				{
 					"name": "Assassin",
 					"shortName": "Assassin",
-					"source": "DnD51Pitangueiras",
+					"source": "PHB",
 					"page": 97,
 					"subclassFeatures": [
 						"Assassin|Rogue V2||Assassin||3",
@@ -1761,12 +1761,12 @@
 		},
 		{
 			"name": "Assassin",
-			"source": "DnD51Pitangueiras",
+			"source": "PHB",
 			"page": 97,
 			"className": "Rogue V2",
-			"classSource": "DnD51Pitangueiras",
+			"classSource": "PHB",
 			"subclassShortName": "Assassin",
-			"subclassSource": "DnD51Pitangueiras",
+			"subclassSource": "PHB",
 			"level": 3,
 			"entries": [
 				"You focus your training on the grim art of death. Those who adhere to this archetype are diverse - hired killers, spies, bounty hunters, and even specially anointed priests trained to exterminate the enemies of their deity. Stealth, poison, and disguise help you eliminate your foes with deadly efficiency.",
