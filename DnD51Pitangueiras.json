@@ -2034,7 +2034,7 @@
 			]
 		},
 		{
-			"name": "_Elemental Weapon V2",
+			"name": "_Elemental Weapon V3",
 			"source": "DnD51Pitangueiras",
 			"page": 237,
 			"level": 2,
@@ -2345,14 +2345,15 @@
 			"data": {}
 		},
 		{
-			"name": "Elemental Weapon V2",
+			"name": "_Elemental Weapon V3",
 			"source": "DnD51Pitangueiras",
 			"data": {
 				"Damage": "1d4",
 				"Damage Type": "Acid, cold, fire, lightning, or thunder",
 				"Higher Spell Slot Die": "d4",
 				"Higher Spell Slot Dice": "1",
-				"Target": "A nonmagical weapon"
+				"Target": "A nonmagical weapon",
+				"Include Spell Description In Attack": "on"
 			},
 			"shapedData": {
 				"primaryDamageCondition": "auto"
