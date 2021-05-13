@@ -12,7 +12,7 @@
 				"convertedBy": [
 					"TheCrow"
 				],
-				"version": "4.0"
+				"version": "4.1"
 			}
 		],
 		"dateAdded": 1620268448,
@@ -15182,7 +15182,7 @@
 				}
 			],
 			"entries": [
-				"Until the spell ends, one willing creature you touch can't be, or has advantage on any new saving throw for being {@condition charmed}, {@condition frightened} or possessed by aberrations, celestials, elementals, fey, fiends, and undead. Creatures of those types also have disadvantage on attack rolls against the target."
+				"Until the spell ends, one willing creature you touch can't be, or has advantage on any new saving throw if {@condition charmed}, {@condition frightened} or possessed by aberrations, celestials, elementals, fey, fiends, and undead. Creatures of those types also have disadvantage on attack rolls against the target."
 			],
 			"areaTags": [
 				"ST"
