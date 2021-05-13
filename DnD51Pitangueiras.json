@@ -12,7 +12,7 @@
 				"convertedBy": [
 					"TheCrow"
 				],
-				"version": "2.13"
+				"version": "2.14"
 			}
 		],
 		"dateAdded": 1620268448,
@@ -5035,7 +5035,7 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "_Absorb Elements V2",
+			"name": "Absorb Elements V2",
 			"source": "DnD51Pitangueiras",
 			"page": 150,
 			"otherSources": [
@@ -5072,14 +5072,14 @@
 				}
 			],
 			"entries": [
-				"The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra {@damage 1d6} damage of the triggering type, and the spell ends."
+				"The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra {@damage 1d10} damage of the triggering type, and the spell ends."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "At Higher Levels",
 					"entries": [
-						"When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by {@scaledamage 1d6|1-9|1d6} for each slot level above 1st."
+						"When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by {@scaledamage 1d10|1-9|1d10} for each slot level above 1st."
 					]
 				}
 			],
@@ -5120,7 +5120,7 @@
 			}
 		},
 		{
-			"name": "_Protection from Evil and Good V2",
+			"name": "Protection from Evil and Good V2",
 			"source": "DnD51Pitangueiras",
 			"page": 270,
 			"level": 1,
@@ -5156,11 +5156,7 @@
 				}
 			],
 			"entries": [
-				"Until the spell ends, one willing creature you touch can't be {@condition charmed} and has advantage on any new saving throw if already {@condition charmed}, {@condition frightened} or {@condition possessed} by aberrations, celestials, elementals, fey, fiends, and undead. Creatures of those types also have disadvantage on attack rolls against the target.",
-				"-----",
-				"{@italic old}",
-				"Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.",
-				"The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be {@condition charmed}, {@condition frightened}, or possessed by them. If the target is already {@condition charmed}, {@condition frightened}, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect."
+				"Until the spell ends, one willing creature you touch can't be, or has advantage on any new saving throw for being {@condition charmed}, {@condition frightened} or possessed by aberrations, celestials, elementals, fey, fiends, and undead. Creatures of those types also have disadvantage on attack rolls against the target."
 			],
 			"areaTags": [
 				"ST"
@@ -5640,13 +5636,22 @@
 				"secondaryDamageCondition": "attack"
 			}
 		},
+
 		{
-			"name": "_Absorb Elements V2",
+			"name": "Absorb Elements",
 			"source": "DnD51Pitangueiras",
-			"data": {}
+			"data": {
+				"Damage": "1d10",
+				"Damage Type": "Triggering",
+				"Higher Spell Slot Die": "d10",
+				"Higher Spell Slot Dice": "1"
+			},
+			"shapedData": {
+				"primaryDamageCondition": "auto"
+			}
 		},
 		{
-			"name": "_Protection from Evil and Good V2",
+			"name": "Protection from Evil and Good V2",
 			"source": "DnD51Pitangueiras",
 			"data": {}
 		},
