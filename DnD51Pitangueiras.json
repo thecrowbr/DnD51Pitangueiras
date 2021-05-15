@@ -13494,7 +13494,7 @@
 				"ED"
 			],
 			"entries": [
-		"You can spend 6 ki points to create a 20 foot {@creature Water Elemental} around the Monk, who controls it from the inside. The {@creature Water Elemental} has separate stats, monk can still be attacked (with disadvantage, and he gains resistance from fire), duration 10 minutes."
+		"You can spend 6 ki points, 20 ft of water, to create a {@creature Water Elemental} around the Monk, who controls it from the inside. The {@creature Water Elemental} has separate stats, monk can still be attacked (with disadvantage, and he gains resistance from fire), duration 10 minutes."
 			]
 		},
 		{	"name": "Rush of the Sea V2",
