@@ -12,7 +12,7 @@
 				"convertedBy": [
 					"TheCrow"
 				],
-				"version": "4.2"
+				"version": "4.3"
 			}
 		],
 		"dateAdded": 1620268448,
@@ -13525,6 +13525,78 @@
 			],
 			"entries": [
 				"Whenever you take the Patient Defense action, you can use your reaction against the attacking creature to knock it {@condition prone}."
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Concentration",
+			"source": "PHB",
+			"page": 192,
+			"srd": true,
+			"time": [
+				"Varies"
+			],
+			"entries": [
+				"Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends.",
+				"If a spell must be maintained with concentration, that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end concentration at any time (no action required).",
+				"Normal activity, such as moving and attacking, doesn't interfere with concentration. The following factors can break concentration:",
+				{
+					"type": "list",
+					"items": [
+						"{@b Casting another spell that requires concentration.} You lose concentration on a spell if you cast another spell that requires concentration. You can't concentrate on two spells at once.",
+						"{@b Taking damage.} Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.",
+						"{@b Being incapacitated or killed.} You lose concentration on a spell if you are {@condition incapacitated} or if you die."
+					]
+				},
+				"The DM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a spell."
+			]
+		},
+		{
+			"name": "ConcentrationV2",
+			"source": "DnD51Pitangueiras",
+			"page": 192,
+			"srd": true,
+			"time": [
+				"Varies"
+			],
+			"entries": [
+				"{@italic Work In Progress Pitangueiras)",
+				"Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends.",
+				"If a spell must be maintained with concentration, that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end concentration at any time (no action required).",
+				"Normal activity, such as moving and attacking, doesn't interfere with concentration. The following factors can break concentration:",
+				{
+					"type": "list",
+					"items": [
+						"{@b Casting another spell that requires concentration.} You lose concentration on a spell if you cast another spell that requires concentration. You can't concentrate on two spells at once.",
+						"{@b Being incapacitated or killed.} You lose concentration on a spell if you are {@condition incapacitated} or if you die."
+					]
+				},
+				"The DM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a spell."
+			]
+		},
+		{
+			"name": "Channeling",
+			"source": "DnD51Pitangueiras",
+			"page": 192,
+			"srd": true,
+			"time": [
+				"Varies"
+			],
+			"entries": [
+				"{@italic Work In Progress Pitangueiras)",
+				"Some spells require you to maintain channelling in order to keep their magic active. If you lose channelling, such a spell ends.",
+				"If a spell must be maintained with channelling, that fact appears in its Duration entry, and the spell specifies how long you can channel on it. You can end channelling at any time (no action required).",
+				"Normal activity, such as moving and attacking, doesn't interfere with channelling. The following factors can break channelling:",
+				{
+					"type": "list",
+					"items": [
+						"{@b Casting another spell that requires channelling.} You lose channelling on a spell if you cast another spell that requires channelling. You can't channel on two spells at once.",
+						"{@b Taking damage.} Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your channelling. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.",
+						"{@b Being incapacitated or killed.} You lose channelling on a spell if you are {@condition incapacitated} or if you die."
+					]
+				},
+				"The DM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain channelling on a spell."
 			]
 		}
 	],
