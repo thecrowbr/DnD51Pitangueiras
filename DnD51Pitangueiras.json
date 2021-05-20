@@ -12,7 +12,7 @@
 				"convertedBy": [
 					"TheCrow"
 				],
-				"version": "5.3"
+				"version": "5.4"
 			}
 		],
 		"dateAdded": 1620268448,
@@ -2028,53 +2028,53 @@
 				}
 			},
 			"classFeatures": [
-				"Fighting Style|Fighter V2||1",
-				"Martial Versatility|Fighter V2||1|UAClassFeatureVariants",
-				"Second Wind|Fighter V2||1",
-				"Maneuver Versatility|Fighter V2||1|UAClassFeatureVariants",
-				"Action Surge|Fighter V2||2",
+				"Fighting Style|Fighter||1",
+				"Martial Versatility|Fighter||1|UAClassFeatureVariants",
+				"Second Wind|Fighter||1",
+				"Maneuver Versatility|Fighter||1|UAClassFeatureVariants",
+				"Action Surge|Fighter||2",
 				{
-					"classFeature": "Martial Archetype|Fighter V2||3",
+					"classFeature": "Martial Archetype|Fighter||3",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Fighter V2||4",
-				"Proficiency Versatility|Fighter V2||4|UAClassFeatureVariants",
-				"Martial Versatility|Fighter V2||4|TCE",
-				"Extra Attack|Fighter V2||5",
-				"Ability Score Improvement|Fighter V2||6",
-				"Proficiency Versatility|Fighter V2||6|UAClassFeatureVariants",
+				"Ability Score Improvement|Fighter||4",
+				"Proficiency Versatility|Fighter||4|UAClassFeatureVariants",
+				"Martial Versatility|Fighter||4|TCE",
+				"Extra Attack|Fighter||5",
+				"Ability Score Improvement|Fighter||6",
+				"Proficiency Versatility|Fighter||6|UAClassFeatureVariants",
 				{
-					"classFeature": "Martial Archetype feature|Fighter V2||7",
+					"classFeature": "Martial Archetype feature|Fighter||7",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Fighter V2||8",
-				"Proficiency Versatility|Fighter V2||8|UAClassFeatureVariants",
-				"Indomitable|Fighter V2||9",
+				"Ability Score Improvement|Fighter||8",
+				"Proficiency Versatility|Fighter||8|UAClassFeatureVariants",
+				"Indomitable|Fighter||9",
 				{
-					"classFeature": "Martial Archetype feature|Fighter V2||10",
+					"classFeature": "Martial Archetype feature|Fighter||10",
 					"gainSubclassFeature": true
 				},
-				"Extra Attack (2)|Fighter V2||11",
-				"Ability Score Improvement|Fighter V2||12",
-				"Proficiency Versatility|Fighter V2||12|UAClassFeatureVariants",
-				"Indomitable (two uses)|Fighter V2||13",
-				"Ability Score Improvement|Fighter V2||14",
-				"Proficiency Versatility|Fighter V2||14|UAClassFeatureVariants",
+				"Extra Attack (2)|Fighter||11",
+				"Ability Score Improvement|Fighter||12",
+				"Proficiency Versatility|Fighter||12|UAClassFeatureVariants",
+				"Indomitable (two uses)|Fighter||13",
+				"Ability Score Improvement|Fighter||14",
+				"Proficiency Versatility|Fighter||14|UAClassFeatureVariants",
 				{
-					"classFeature": "Martial Archetype feature|Fighter V2||15",
+					"classFeature": "Martial Archetype feature|Fighter||15",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Fighter V2||16",
-				"Proficiency Versatility|Fighter V2||16|UAClassFeatureVariants",
-				"Action Surge (two uses)|Fighter V2||17",
-				"Indomitable (three uses)|Fighter V2||17",
+				"Ability Score Improvement|Fighter||16",
+				"Proficiency Versatility|Fighter||16|UAClassFeatureVariants",
+				"Action Surge (two uses)|Fighter||17",
+				"Indomitable (three uses)|Fighter||17",
 				{
-					"classFeature": "Martial Archetype feature|Fighter V2||18",
+					"classFeature": "Martial Archetype feature|Fighter||18",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Fighter V2||19",
-				"Proficiency Versatility|Fighter V2||19|UAClassFeatureVariants",
-				"Extra Attack (3)|Fighter V2||20"
+				"Ability Score Improvement|Fighter||19",
+				"Proficiency Versatility|Fighter||19|UAClassFeatureVariants",
+				"Extra Attack (3)|Fighter||20"
 			],
 			"subclassTitle": "Martial Archetype",
 			"subclasses": [
@@ -2085,15 +2085,15 @@
 					"page": 73,
 					"subclassFeatures": [
 						"Battle Master V2|Fighter V2||Battle Master V2|DnD51Pitangueiras|3",
-						"Additional Maneuvers|Fighter V2||Battle Master V2||7",
+						"Additional Maneuvers|Fighter||Battle Master||7",
 						"Additional Superiority Dice V2|Fighter V2||Battle Master V2|DnD51Pitangueiras|7",
-						"Know Your Enemy|Fighter V2||Battle Master V2||7",
-						"Additional Maneuvers|Fighter V2||Battle Master V2||10",
-						"Improved Combat Superiority (d10)|Fighter V2||Battle Master V2||10",
-						"Additional Maneuvers|Fighter V2||Battle Master V2||15",
+						"Know Your Enemy|Fighter||Battle Master||7",
+						"Additional Maneuvers|Fighter||Battle Master||10",
+						"Improved Combat Superiority (d10)|Fighter||Battle Master||10",
+						"Additional Maneuvers|Fighter||Battle Master||15",
 						"Additional Superiority Dice V2|Fighter V2||Battle Master V2|DnD51Pitangueiras|15",
-						"Relentless|Fighter V2||Battle Master V2||15",
-						"Improved Combat Superiority (d12)|Fighter V2||Battle Master V2||18"
+						"Relentless|Fighter||Battle Master||15",
+						"Improved Combat Superiority (d12)|Fighter||Battle Master||18"
 					]
 				},
 				{
@@ -2103,11 +2103,11 @@
 					"page": 72,
 					"srd": true,
 					"subclassFeatures": [
-						"Champion|Fighter V2||Champion||3",
-						"Remarkable Athlete|Fighter V2||Champion||7",
-						"Additional Fighting Style|Fighter V2||Champion||10",
-						"Superior Critical|Fighter V2||Champion||15",
-						"Survivor|Fighter V2||Champion||18"
+						"Champion|Fighter||Champion||3",
+						"Remarkable Athlete|Fighter||Champion||7",
+						"Additional Fighting Style|Fighter||Champion||10",
+						"Superior Critical|Fighter||Champion||15",
+						"Survivor|Fighter||Champion||18"
 					]
 				},
 				{
@@ -2170,8 +2170,8 @@
 								}
 							],
 							"colLabels": [
-								"{@filter Cantrips Known|spells|level=0|subclass=Fighter V2: Eldritch Knight}",
-								"{@filter Spells Known|spells|subclass=Fighter V2: Eldritch Knight}"
+								"{@filter Cantrips Known|spells|level=0|subclass=Fighter: Eldritch Knight}",
+								"{@filter Spells Known|spells|subclass=Fighter: Eldritch Knight}"
 							],
 							"rows": [
 								[
@@ -2265,10 +2265,10 @@
 								}
 							],
 							"colLabels": [
-								"{@filter 1st|spells|level=1|subclass=Fighter V2: Eldritch Knight}",
-								"{@filter 2nd|spells|level=2|subclass=Fighter V2: Eldritch Knight}",
-								"{@filter 3rd|spells|level=3|subclass=Fighter V2: Eldritch Knight}",
-								"{@filter 4th|spells|level=4|subclass=Fighter V2: Eldritch Knight}"
+								"{@filter 1st|spells|level=1|subclass=Fighter: Eldritch Knight}",
+								"{@filter 2nd|spells|level=2|subclass=Fighter: Eldritch Knight}",
+								"{@filter 3rd|spells|level=3|subclass=Fighter: Eldritch Knight}",
+								"{@filter 4th|spells|level=4|subclass=Fighter: Eldritch Knight}"
 							],
 							"rows": [
 								[
@@ -2395,11 +2395,11 @@
 						}
 					],
 					"subclassFeatures": [
-						"Eldritch Knight|Fighter V2||Eldritch Knight||3",
-						"War Magic|Fighter V2||Eldritch Knight||7",
-						"Eldritch Strike|Fighter V2||Eldritch Knight||10",
-						"Arcane Charge|Fighter V2||Eldritch Knight||15",
-						"Improved War Magic|Fighter V2||Eldritch Knight||18"
+						"Eldritch Knight|Fighter||Eldritch Knight||3",
+						"War Magic|Fighter||Eldritch Knight||7",
+						"Eldritch Strike|Fighter||Eldritch Knight||10",
+						"Arcane Charge|Fighter||Eldritch Knight||15",
+						"Improved War Magic|Fighter||Eldritch Knight||18"
 					]
 				},
 				{
@@ -2408,11 +2408,11 @@
 					"source": "SCAG",
 					"page": 128,
 					"subclassFeatures": [
-						"Purple Dragon Knight (Banneret)|Fighter V2||Purple Dragon Knight (Banneret)|SCAG|3",
-						"Royal Envoy|Fighter V2||Purple Dragon Knight (Banneret)|SCAG|7",
-						"Inspiring Surge|Fighter V2||Purple Dragon Knight (Banneret)|SCAG|10",
-						"Bulwark|Fighter V2||Purple Dragon Knight (Banneret)|SCAG|15",
-						"Inspiring Surge|Fighter V2||Purple Dragon Knight (Banneret)|SCAG|18"
+						"Purple Dragon Knight (Banneret)|Fighter||Purple Dragon Knight (Banneret)|SCAG|3",
+						"Royal Envoy|Fighter||Purple Dragon Knight (Banneret)|SCAG|7",
+						"Inspiring Surge|Fighter||Purple Dragon Knight (Banneret)|SCAG|10",
+						"Bulwark|Fighter||Purple Dragon Knight (Banneret)|SCAG|15",
+						"Inspiring Surge|Fighter||Purple Dragon Knight (Banneret)|SCAG|18"
 					]
 				},
 				{
@@ -2422,11 +2422,11 @@
 					"page": 3,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Cavalier|Fighter V2||Cavalier (UA)|UAKitsOfOld|3",
-						"Ferocious Charger|Fighter V2||Cavalier (UA)|UAKitsOfOld|7",
-						"Improved Combat Superiority|Fighter V2||Cavalier (UA)|UAKitsOfOld|10",
-						"Relentless|Fighter V2||Cavalier (UA)|UAKitsOfOld|15",
-						"Improved Combat Superiority|Fighter V2||Cavalier (UA)|UAKitsOfOld|18"
+						"Cavalier|Fighter||Cavalier (UA)|UAKitsOfOld|3",
+						"Ferocious Charger|Fighter||Cavalier (UA)|UAKitsOfOld|7",
+						"Improved Combat Superiority|Fighter||Cavalier (UA)|UAKitsOfOld|10",
+						"Relentless|Fighter||Cavalier (UA)|UAKitsOfOld|15",
+						"Improved Combat Superiority|Fighter||Cavalier (UA)|UAKitsOfOld|18"
 					]
 				},
 				{
@@ -2435,12 +2435,12 @@
 					"source": "UAKitsOfOld",
 					"page": 4,
 					"subclassFeatures": [
-						"Scout|Fighter V2||Scout (UA)|UAKitsOfOld|3",
-						"Additional Superiority Die|Fighter V2||Scout (UA)|UAKitsOfOld|7",
-						"Improved Combat Superiority|Fighter V2||Scout (UA)|UAKitsOfOld|10",
-						"Relentless|Fighter V2||Scout (UA)|UAKitsOfOld|15",
-						"Additional Superiority Die|Fighter V2||Scout (UA)|UAKitsOfOld|15",
-						"Improved Combat Superiority|Fighter V2||Scout (UA)|UAKitsOfOld|18"
+						"Scout|Fighter||Scout (UA)|UAKitsOfOld|3",
+						"Additional Superiority Die|Fighter||Scout (UA)|UAKitsOfOld|7",
+						"Improved Combat Superiority|Fighter||Scout (UA)|UAKitsOfOld|10",
+						"Relentless|Fighter||Scout (UA)|UAKitsOfOld|15",
+						"Additional Superiority Die|Fighter||Scout (UA)|UAKitsOfOld|15",
+						"Improved Combat Superiority|Fighter||Scout (UA)|UAKitsOfOld|18"
 					]
 				},
 				{
@@ -2450,11 +2450,11 @@
 					"page": 2,
 					"spellcastingAbility": "wis",
 					"subclassFeatures": [
-						"Monster Hunter|Fighter V2||Monster Hunter (UA)|UAGothicHeroes|3",
-						"Monster Slayer|Fighter V2||Monster Hunter (UA)|UAGothicHeroes|7",
-						"Improved Combat Superiority|Fighter V2||Monster Hunter (UA)|UAGothicHeroes|10",
-						"Relentless|Fighter V2||Monster Hunter (UA)|UAGothicHeroes|15",
-						"Improved Combat Superiority|Fighter V2||Monster Hunter (UA)|UAGothicHeroes|18"
+						"Monster Hunter|Fighter||Monster Hunter (UA)|UAGothicHeroes|3",
+						"Monster Slayer|Fighter||Monster Hunter (UA)|UAGothicHeroes|7",
+						"Improved Combat Superiority|Fighter||Monster Hunter (UA)|UAGothicHeroes|10",
+						"Relentless|Fighter||Monster Hunter (UA)|UAGothicHeroes|15",
+						"Improved Combat Superiority|Fighter||Monster Hunter (UA)|UAGothicHeroes|18"
 					]
 				},
 				{
@@ -2464,14 +2464,14 @@
 					"page": 1,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Arcane Archer|Fighter V2||Arcane Archer (UA)|UAFighter|3",
-						"Conjure Arrows|Fighter V2||Arcane Archer (UA)|UAFighter|7",
-						"Extra Arcane Shot|Fighter V2||Arcane Archer (UA)|UAFighter|7",
-						"Extra Arcane Shot|Fighter V2||Arcane Archer (UA)|UAFighter|10",
-						"Ever-Ready Arrow|Fighter V2||Arcane Archer (UA)|UAFighter|15",
-						"Extra Arcane Shot|Fighter V2||Arcane Archer (UA)|UAFighter|15",
-						"Deadly Arrow|Fighter V2||Arcane Archer (UA)|UAFighter|18",
-						"Extra Arcane Shot|Fighter V2||Arcane Archer (UA)|UAFighter|18"
+						"Arcane Archer|Fighter||Arcane Archer (UA)|UAFighter|3",
+						"Conjure Arrows|Fighter||Arcane Archer (UA)|UAFighter|7",
+						"Extra Arcane Shot|Fighter||Arcane Archer (UA)|UAFighter|7",
+						"Extra Arcane Shot|Fighter||Arcane Archer (UA)|UAFighter|10",
+						"Ever-Ready Arrow|Fighter||Arcane Archer (UA)|UAFighter|15",
+						"Extra Arcane Shot|Fighter||Arcane Archer (UA)|UAFighter|15",
+						"Deadly Arrow|Fighter||Arcane Archer (UA)|UAFighter|18",
+						"Extra Arcane Shot|Fighter||Arcane Archer (UA)|UAFighter|18"
 					]
 				},
 				{
@@ -2480,11 +2480,11 @@
 					"source": "UAFighter",
 					"page": 2,
 					"subclassFeatures": [
-						"Knight|Fighter V2||Knight (UA)|UAFighter|3",
-						"Noble Cavalry|Fighter V2||Knight (UA)|UAFighter|7",
-						"Hold the Line|Fighter V2||Knight (UA)|UAFighter|10",
-						"Rapid Strike|Fighter V2||Knight (UA)|UAFighter|15",
-						"Defender's Blade|Fighter V2||Knight (UA)|UAFighter|18"
+						"Knight|Fighter||Knight (UA)|UAFighter|3",
+						"Noble Cavalry|Fighter||Knight (UA)|UAFighter|7",
+						"Hold the Line|Fighter||Knight (UA)|UAFighter|10",
+						"Rapid Strike|Fighter||Knight (UA)|UAFighter|15",
+						"Defender's Blade|Fighter||Knight (UA)|UAFighter|18"
 					]
 				},
 				{
@@ -2494,11 +2494,11 @@
 					"page": 3,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Samurai|Fighter V2||Samurai (UA)|UAFighter|3",
-						"Elegant Courtier|Fighter V2||Samurai (UA)|UAFighter|7",
-						"Unbreakable Will|Fighter V2||Samurai (UA)|UAFighter|10",
-						"Rapid Strike|Fighter V2||Samurai (UA)|UAFighter|15",
-						"Strength Before Death|Fighter V2||Samurai (UA)|UAFighter|18"
+						"Samurai|Fighter||Samurai (UA)|UAFighter|3",
+						"Elegant Courtier|Fighter||Samurai (UA)|UAFighter|7",
+						"Unbreakable Will|Fighter||Samurai (UA)|UAFighter|10",
+						"Rapid Strike|Fighter||Samurai (UA)|UAFighter|15",
+						"Strength Before Death|Fighter||Samurai (UA)|UAFighter|18"
 					]
 				},
 				{
@@ -2507,11 +2507,11 @@
 					"source": "UAFighter",
 					"page": 3,
 					"subclassFeatures": [
-						"Sharpshooter|Fighter V2||Sharpshooter (UA)|UAFighter|3",
-						"Careful Eyes|Fighter V2||Sharpshooter (UA)|UAFighter|7",
-						"Close-Quarters Shooting|Fighter V2||Sharpshooter (UA)|UAFighter|10",
-						"Rapid Strike|Fighter V2||Sharpshooter (UA)|UAFighter|15",
-						"Snap Shot|Fighter V2||Sharpshooter (UA)|UAFighter|18"
+						"Sharpshooter|Fighter||Sharpshooter (UA)|UAFighter|3",
+						"Careful Eyes|Fighter||Sharpshooter (UA)|UAFighter|7",
+						"Close-Quarters Shooting|Fighter||Sharpshooter (UA)|UAFighter|10",
+						"Rapid Strike|Fighter||Sharpshooter (UA)|UAFighter|15",
+						"Snap Shot|Fighter||Sharpshooter (UA)|UAFighter|18"
 					]
 				},
 				{
@@ -2521,13 +2521,13 @@
 					"page": 2,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Arcane Archer v2|Fighter V2||Arcane Archer v2 (UA)|UARevisedSubclasses|3",
-						"Curving Shot|Fighter V2||Arcane Archer v2 (UA)|UARevisedSubclasses|7",
-						"Extra Arcane Shot|Fighter V2||Arcane Archer v2 (UA)|UARevisedSubclasses|7",
-						"Extra Arcane Shot|Fighter V2||Arcane Archer v2 (UA)|UARevisedSubclasses|10",
-						"Ever-Ready Shot|Fighter V2||Arcane Archer v2 (UA)|UARevisedSubclasses|15",
-						"Extra Arcane Shot|Fighter V2||Arcane Archer v2 (UA)|UARevisedSubclasses|15",
-						"Extra Arcane Shot|Fighter V2||Arcane Archer v2 (UA)|UARevisedSubclasses|18"
+						"Arcane Archer v2|Fighter||Arcane Archer v2 (UA)|UARevisedSubclasses|3",
+						"Curving Shot|Fighter||Arcane Archer v2 (UA)|UARevisedSubclasses|7",
+						"Extra Arcane Shot|Fighter||Arcane Archer v2 (UA)|UARevisedSubclasses|7",
+						"Extra Arcane Shot|Fighter||Arcane Archer v2 (UA)|UARevisedSubclasses|10",
+						"Ever-Ready Shot|Fighter||Arcane Archer v2 (UA)|UARevisedSubclasses|15",
+						"Extra Arcane Shot|Fighter||Arcane Archer v2 (UA)|UARevisedSubclasses|15",
+						"Extra Arcane Shot|Fighter||Arcane Archer v2 (UA)|UARevisedSubclasses|18"
 					]
 				},
 				{
@@ -2537,11 +2537,11 @@
 					"page": 2,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Cavalier v2|Fighter V2||Cavalier v2 (UA)|UARevisedClassOptions|3",
-						"Ferocious Charger|Fighter V2||Cavalier v2 (UA)|UARevisedClassOptions|7",
-						"Improved Combat Superiority|Fighter V2||Cavalier v2 (UA)|UARevisedClassOptions|10",
-						"Relentless|Fighter V2||Cavalier v2 (UA)|UARevisedClassOptions|15",
-						"Improved Combat Superiority|Fighter V2||Cavalier v2 (UA)|UARevisedClassOptions|18"
+						"Cavalier v2|Fighter||Cavalier v2 (UA)|UARevisedClassOptions|3",
+						"Ferocious Charger|Fighter||Cavalier v2 (UA)|UARevisedClassOptions|7",
+						"Improved Combat Superiority|Fighter||Cavalier v2 (UA)|UARevisedClassOptions|10",
+						"Relentless|Fighter||Cavalier v2 (UA)|UARevisedClassOptions|15",
+						"Improved Combat Superiority|Fighter||Cavalier v2 (UA)|UARevisedClassOptions|18"
 					]
 				},
 				{
@@ -2566,14 +2566,14 @@
 						}
 					],
 					"subclassFeatures": [
-						"Arcane Archer|Fighter V2||Arcane Archer|XGE|3",
-						"Magic Arrow|Fighter V2||Arcane Archer|XGE|7",
-						"Curving Shot|Fighter V2||Arcane Archer|XGE|7",
-						"Additional Arcane Shot Option|Fighter V2||Arcane Archer|XGE|7",
-						"Additional Arcane Shot Option|Fighter V2||Arcane Archer|XGE|10",
-						"Ever-Ready Shot|Fighter V2||Arcane Archer|XGE|15",
-						"Additional Arcane Shot Option|Fighter V2||Arcane Archer|XGE|15",
-						"Additional Arcane Shot Option|Fighter V2||Arcane Archer|XGE|18"
+						"Arcane Archer|Fighter||Arcane Archer|XGE|3",
+						"Magic Arrow|Fighter||Arcane Archer|XGE|7",
+						"Curving Shot|Fighter||Arcane Archer|XGE|7",
+						"Additional Arcane Shot Option|Fighter||Arcane Archer|XGE|7",
+						"Additional Arcane Shot Option|Fighter||Arcane Archer|XGE|10",
+						"Ever-Ready Shot|Fighter||Arcane Archer|XGE|15",
+						"Additional Arcane Shot Option|Fighter||Arcane Archer|XGE|15",
+						"Additional Arcane Shot Option|Fighter||Arcane Archer|XGE|18"
 					]
 				},
 				{
@@ -2582,11 +2582,11 @@
 					"source": "XGE",
 					"page": 30,
 					"subclassFeatures": [
-						"Cavalier|Fighter V2||Cavalier|XGE|3",
-						"Warding Maneuver|Fighter V2||Cavalier|XGE|7",
-						"Hold the Line|Fighter V2||Cavalier|XGE|10",
-						"Ferocious Charger|Fighter V2||Cavalier|XGE|15",
-						"Vigilant Defender|Fighter V2||Cavalier|XGE|18"
+						"Cavalier|Fighter||Cavalier|XGE|3",
+						"Warding Maneuver|Fighter||Cavalier|XGE|7",
+						"Hold the Line|Fighter||Cavalier|XGE|10",
+						"Ferocious Charger|Fighter||Cavalier|XGE|15",
+						"Vigilant Defender|Fighter||Cavalier|XGE|18"
 					]
 				},
 				{
@@ -2595,11 +2595,11 @@
 					"source": "XGE",
 					"page": 31,
 					"subclassFeatures": [
-						"Samurai|Fighter V2||Samurai|XGE|3",
-						"Elegant Courtier|Fighter V2||Samurai|XGE|7",
-						"Tireless Spirit|Fighter V2||Samurai|XGE|10",
-						"Rapid Strike|Fighter V2||Samurai|XGE|15",
-						"Strength before Death|Fighter V2||Samurai|XGE|18"
+						"Samurai|Fighter||Samurai|XGE|3",
+						"Elegant Courtier|Fighter||Samurai|XGE|7",
+						"Tireless Spirit|Fighter||Samurai|XGE|10",
+						"Rapid Strike|Fighter||Samurai|XGE|15",
+						"Strength before Death|Fighter||Samurai|XGE|18"
 					]
 				},
 				{
@@ -2608,11 +2608,11 @@
 					"source": "UAThreeSubclasses",
 					"page": 2,
 					"subclassFeatures": [
-						"Brute|Fighter V2||Brute (UA)|UAThreeSubclasses|3",
-						"Brutish Durability|Fighter V2||Brute (UA)|UAThreeSubclasses|7",
-						"Additional Fighting Style|Fighter V2||Brute (UA)|UAThreeSubclasses|10",
-						"Devastating Critical|Fighter V2||Brute (UA)|UAThreeSubclasses|15",
-						"Survivor|Fighter V2||Brute (UA)|UAThreeSubclasses|18"
+						"Brute|Fighter||Brute (UA)|UAThreeSubclasses|3",
+						"Brutish Durability|Fighter||Brute (UA)|UAThreeSubclasses|7",
+						"Additional Fighting Style|Fighter||Brute (UA)|UAThreeSubclasses|10",
+						"Devastating Critical|Fighter||Brute (UA)|UAThreeSubclasses|15",
+						"Survivor|Fighter||Brute (UA)|UAThreeSubclasses|18"
 					]
 				},
 				{
@@ -2622,11 +2622,11 @@
 					"page": 1,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Rune Knight|Fighter V2||Rune Knight (UA)|UAFighterRangerRogue|3",
-						"Defensive Runes|Fighter V2||Rune Knight (UA)|UAFighterRangerRogue|7",
-						"Great Stature|Fighter V2||Rune Knight (UA)|UAFighterRangerRogue|10",
-						"Rune Magic Mastery|Fighter V2||Rune Knight (UA)|UAFighterRangerRogue|15",
-						"Blessing of the All Father|Fighter V2||Rune Knight (UA)|UAFighterRangerRogue|18"
+						"Rune Knight|Fighter||Rune Knight (UA)|UAFighterRangerRogue|3",
+						"Defensive Runes|Fighter||Rune Knight (UA)|UAFighterRangerRogue|7",
+						"Great Stature|Fighter||Rune Knight (UA)|UAFighterRangerRogue|10",
+						"Rune Magic Mastery|Fighter||Rune Knight (UA)|UAFighterRangerRogue|15",
+						"Blessing of the All Father|Fighter||Rune Knight (UA)|UAFighterRangerRogue|18"
 					]
 				},
 				{
@@ -2636,12 +2636,12 @@
 					"page": 1,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Psychic Warrior|Fighter V2||Psychic Warrior (UA)|UAFighterRogueWizard|3",
-						"Strength of Mind|Fighter V2||Psychic Warrior (UA)|UAFighterRogueWizard|7",
-						"Telekinetic Bulwark|Fighter V2||Psychic Warrior (UA)|UAFighterRogueWizard|10",
-						"Psionic Armament Improvement|Fighter V2||Psychic Warrior (UA)|UAFighterRogueWizard|10",
-						"Agonizing Strikes|Fighter V2||Psychic Warrior (UA)|UAFighterRogueWizard|15",
-						"Psychic Dreadnaught|Fighter V2||Psychic Warrior (UA)|UAFighterRogueWizard|18"
+						"Psychic Warrior|Fighter||Psychic Warrior (UA)|UAFighterRogueWizard|3",
+						"Strength of Mind|Fighter||Psychic Warrior (UA)|UAFighterRogueWizard|7",
+						"Telekinetic Bulwark|Fighter||Psychic Warrior (UA)|UAFighterRogueWizard|10",
+						"Psionic Armament Improvement|Fighter||Psychic Warrior (UA)|UAFighterRogueWizard|10",
+						"Agonizing Strikes|Fighter||Psychic Warrior (UA)|UAFighterRogueWizard|15",
+						"Psychic Dreadnaught|Fighter||Psychic Warrior (UA)|UAFighterRogueWizard|18"
 					]
 				},
 				{
@@ -2650,11 +2650,11 @@
 					"source": "EGW",
 					"page": 183,
 					"subclassFeatures": [
-						"Echo Knight|Fighter V2||Echo Knight|EGW|3",
-						"Echo Avatar|Fighter V2||Echo Knight|EGW|7",
-						"Shadow Martyr|Fighter V2||Echo Knight|EGW|10",
-						"Reclaim Potential|Fighter V2||Echo Knight|EGW|15",
-						"Legion of One|Fighter V2||Echo Knight|EGW|18"
+						"Echo Knight|Fighter||Echo Knight|EGW|3",
+						"Echo Avatar|Fighter||Echo Knight|EGW|7",
+						"Shadow Martyr|Fighter||Echo Knight|EGW|10",
+						"Reclaim Potential|Fighter||Echo Knight|EGW|15",
+						"Legion of One|Fighter||Echo Knight|EGW|18"
 					]
 				},
 				{
@@ -2664,11 +2664,11 @@
 					"page": 2,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Psi Knight|Fighter V2||Psi Knight (UA)|UA2020PsionicOptionsRevisited|3",
-						"Telekinetic Adept|Fighter V2||Psi Knight (UA)|UA2020PsionicOptionsRevisited|7",
-						"Psi-Enhanced Metabolism|Fighter V2||Psi Knight (UA)|UA2020PsionicOptionsRevisited|10",
-						"Bulwark of Force|Fighter V2||Psi Knight (UA)|UA2020PsionicOptionsRevisited|15",
-						"Telekinetic Master|Fighter V2||Psi Knight (UA)|UA2020PsionicOptionsRevisited|18"
+						"Psi Knight|Fighter||Psi Knight (UA)|UA2020PsionicOptionsRevisited|3",
+						"Telekinetic Adept|Fighter||Psi Knight (UA)|UA2020PsionicOptionsRevisited|7",
+						"Psi-Enhanced Metabolism|Fighter||Psi Knight (UA)|UA2020PsionicOptionsRevisited|10",
+						"Bulwark of Force|Fighter||Psi Knight (UA)|UA2020PsionicOptionsRevisited|15",
+						"Telekinetic Master|Fighter||Psi Knight (UA)|UA2020PsionicOptionsRevisited|18"
 					]
 				},
 				{
@@ -2677,11 +2677,11 @@
 					"source": "TCE",
 					"page": 42,
 					"subclassFeatures": [
-						"Psi Warrior|Fighter V2||Psi Warrior|TCE|3",
-						"Telekinetic Adept|Fighter V2||Psi Warrior|TCE|7",
-						"Guarded Mind|Fighter V2||Psi Warrior|TCE|10",
-						"Bulwark of Force|Fighter V2||Psi Warrior|TCE|15",
-						"Telekinetic Master|Fighter V2||Psi Warrior|TCE|18"
+						"Psi Warrior|Fighter||Psi Warrior|TCE|3",
+						"Telekinetic Adept|Fighter||Psi Warrior|TCE|7",
+						"Guarded Mind|Fighter||Psi Warrior|TCE|10",
+						"Bulwark of Force|Fighter||Psi Warrior|TCE|15",
+						"Telekinetic Master|Fighter||Psi Warrior|TCE|18"
 					]
 				},
 				{
@@ -2690,20 +2690,20 @@
 					"source": "TCE",
 					"page": 44,
 					"subclassFeatures": [
-						"Rune Knight|Fighter V2||Rune Knight|TCE|3",
-						"Runic Shield|Fighter V2||Rune Knight|TCE|7",
-						"Additional Rune Known|Fighter V2||Rune Knight|TCE|7",
-						"Great Stature|Fighter V2||Rune Knight|TCE|10",
-						"Additional Rune Known|Fighter V2||Rune Knight|TCE|10",
-						"Master of Runes|Fighter V2||Rune Knight|TCE|15",
-						"Additional Rune Known|Fighter V2||Rune Knight|TCE|15",
-						"Runic Juggernaut|Fighter V2||Rune Knight|TCE|18"
+						"Rune Knight|Fighter||Rune Knight|TCE|3",
+						"Runic Shield|Fighter||Rune Knight|TCE|7",
+						"Additional Rune Known|Fighter||Rune Knight|TCE|7",
+						"Great Stature|Fighter||Rune Knight|TCE|10",
+						"Additional Rune Known|Fighter||Rune Knight|TCE|10",
+						"Master of Runes|Fighter||Rune Knight|TCE|15",
+						"Additional Rune Known|Fighter||Rune Knight|TCE|15",
+						"Runic Juggernaut|Fighter||Rune Knight|TCE|18"
 					]
 				}
 			],
 			"fluff": [
 				{
-					"name": "Fighter V2",
+					"name": "Fighter",
 					"type": "section",
 					"entries": [
 						"A human in clanging plate armor holds her shield before her as she runs toward the massed goblins. An elf behind her, clad in studded leather armor, peppers the goblins with arrows loosed from his exquisite bow. The half-orc nearby shouts orders, helping the two combatants coordinate their assault to the best advantage.",
@@ -2727,7 +2727,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Creating a Fighter V2",
+							"name": "Creating a Fighter",
 							"entries": [
 								"As you build your fighter, think about two related elements of your character's background: Where did you get your combat training, and what set you apart from the mundane warriors around you? Were you particularly ruthless? Did you get extra help from a mentor, perhaps because of your exceptional dedication? What drove you to this training in the first place? A threat to your homeland, a thirst for revenge, or a need to prove yourself might all have been factors.",
 								"You might have enjoyed formal training in a noble's army or in a local militia. Perhaps you trained in a war academy, learning strategy, tactics, and military history. Or you might be self-taught\u2014unpolished but well tested. Did you take up the sword as a way to escape the limits of life on a farm, or are you following a proud family tradition? Where did you acquire your weapons and armor? They might have been military issue or family heirlooms, or perhaps you scrimped and saved for years to buy them. Your armaments are now among your most important possessions\u2014the only things that stand between you and death's embrace.",
@@ -2895,7 +2895,7 @@
 													"exact": 5
 												}
 											},
-											"Street Fighter V2. Your trainer excels at urban combat, combining close-quarters work with silence and efficiency."
+											"Street Fighter. Your trainer excels at urban combat, combining close-quarters work with silence and efficiency."
 										],
 										[
 											{
@@ -6927,7 +6927,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 1,
 			"entries": [
@@ -7019,7 +7019,7 @@
 		{	"name": "Maneuver Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 5,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 1,
 			"isClassFeatureVariant": true,
@@ -7031,7 +7031,7 @@
 		{	"name": "Martial Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 12,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 1,
 			"isClassFeatureVariant": true,
@@ -7044,7 +7044,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 1,
 			"entries": [
@@ -7056,7 +7056,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 2,
 			"entries": [
@@ -7068,7 +7068,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 3,
 			"entries": [
@@ -7079,7 +7079,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 4,
 			"entries": [
@@ -7090,7 +7090,7 @@
 		{	"name": "Martial Versatility",
 			"source": "TCE",
 			"page": 41,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 4,
 			"isClassFeatureVariant": true,
@@ -7109,7 +7109,7 @@
 		{	"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 4,
 			"isClassFeatureVariant": true,
@@ -7123,7 +7123,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 5,
 			"entries": [
@@ -7135,7 +7135,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 6,
 			"entries": [
@@ -7146,7 +7146,7 @@
 		{	"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 6,
 			"isClassFeatureVariant": true,
@@ -7160,7 +7160,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 7,
 			"entries": [
@@ -7171,7 +7171,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 8,
 			"entries": [
@@ -7182,7 +7182,7 @@
 		{	"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 8,
 			"isClassFeatureVariant": true,
@@ -7196,7 +7196,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 9,
 			"entries": [
@@ -7208,7 +7208,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 10,
 			"entries": [
@@ -7219,7 +7219,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 11,
 			"entries": [
@@ -7230,7 +7230,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 12,
 			"entries": [
@@ -7241,7 +7241,7 @@
 		{	"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 12,
 			"isClassFeatureVariant": true,
@@ -7255,7 +7255,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 13,
 			"entries": [
@@ -7266,7 +7266,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 14,
 			"entries": [
@@ -7277,7 +7277,7 @@
 		{	"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 14,
 			"isClassFeatureVariant": true,
@@ -7291,7 +7291,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 15,
 			"entries": [
@@ -7302,7 +7302,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 16,
 			"entries": [
@@ -7313,7 +7313,7 @@
 		{	"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 16,
 			"isClassFeatureVariant": true,
@@ -7327,7 +7327,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 17,
 			"entries": [
@@ -7338,7 +7338,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 17,
 			"entries": [
@@ -7349,7 +7349,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 18,
 			"entries": [
@@ -7360,7 +7360,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 19,
 			"entries": [
@@ -7371,7 +7371,7 @@
 		{	"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 19,
 			"isClassFeatureVariant": true,
@@ -7385,7 +7385,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"level": 20,
 			"entries": [
@@ -13613,7 +13613,7 @@
 		{	"name": "Echo Knight",
 			"source": "EGW",
 			"page": 183,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Echo Knight",
 			"subclassSource": "EGW",
@@ -13622,18 +13622,18 @@
 				"A mysterious and feared frontline warrior of the Kryn Dynasty, the Echo Knight has mastered the art of using dunamis to summon the fading shades of unrealized timelines to aid them in battle. Surrounded by echoes of their own might, they charge into the fray as a cycling swarm of shadows and strikes.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Manifest Echo|Fighter V2||Echo Knight|EGW|3"
+					"subclassFeature": "Manifest Echo|Fighter||Echo Knight|EGW|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Unleash Incarnation|Fighter V2||Echo Knight|EGW|3"
+					"subclassFeature": "Unleash Incarnation|Fighter||Echo Knight|EGW|3"
 				}
 			]
 		},
 		{	"name": "Manifest Echo",
 			"source": "EGW",
 			"page": 183,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Echo Knight",
 			"subclassSource": "EGW",
@@ -13657,7 +13657,7 @@
 		{	"name": "Unleash Incarnation",
 			"source": "EGW",
 			"page": 183,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Echo Knight",
 			"subclassSource": "EGW",
@@ -13672,7 +13672,7 @@
 		{	"name": "Echo Avatar",
 			"source": "EGW",
 			"page": 183,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Echo Knight",
 			"subclassSource": "EGW",
@@ -13686,7 +13686,7 @@
 		{	"name": "Shadow Martyr",
 			"source": "EGW",
 			"page": 183,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Echo Knight",
 			"subclassSource": "EGW",
@@ -13701,7 +13701,7 @@
 		{	"name": "Reclaim Potential",
 			"source": "EGW",
 			"page": 183,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Echo Knight",
 			"subclassSource": "EGW",
@@ -13716,7 +13716,7 @@
 		{	"name": "Legion of One",
 			"source": "EGW",
 			"page": 183,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Echo Knight",
 			"subclassSource": "EGW",
@@ -13740,7 +13740,7 @@
 				"Those who emulate the archetypal Battle Master V2 employ martial techniques passed down through generations. To a Battle Master V2, combat is an academic field, sometimes including subjects beyond battle such as weaponsmithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master V2 archetype, but those who do are well-rounded fighters of great skill and knowledge.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Student of War|Fighter V2||Battle Master V2||3"
+					"subclassFeature": "Student of War|Fighter||Battle Master||3"
 				},
 				{
 					"type": "refSubclassFeature",
@@ -13748,15 +13748,15 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Maneuvers|Fighter V2||Battle Master V2||3"
+					"subclassFeature": "Maneuvers|Fighter||Battle Master||3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Maneuver Options|Fighter V2||Battle Master V2||3|UAClassFeatureVariants"
+					"subclassFeature": "Maneuver Options|Fighter||Battle Master||3|UAClassFeatureVariants"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Maneuver Options|Fighter V2||Battle Master V2||3|TCE"
+					"subclassFeature": "Maneuver Options|Fighter||Battle Master||3|TCE"
 				}
 			]
 		},
@@ -13822,16 +13822,16 @@
 		{	"name": "Maneuver Options",
 			"source": "TCE",
 			"page": 41,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
-			"subclassShortName": "Battle Master V2",
+			"subclassShortName": "Battle Master",
 			"subclassSource": "PHB",
 			"level": 3,
 			"isClassFeatureVariant": true,
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level fighter {@variantrule optional class features|tce|optional feature}}",
-				"If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters V2 but also to characters who have a special feature like the Superior Technique fighting style or the Martial Adept feat.",
+				"If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters but also to characters who have a special feature like the Superior Technique fighting style or the Martial Adept feat.",
 				{
 					"type": "entries",
 					"entries": [
@@ -13875,16 +13875,16 @@
 		{	"name": "Maneuver Options",
 			"source": "UAClassFeatureVariants",
 			"page": 5,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
-			"subclassShortName": "Battle Master V2",
+			"subclassShortName": "Battle Master",
 			"subclassSource": "PHB",
 			"level": 3,
 			"isClassFeatureVariant": true,
 			"header": 1,
 			"entries": [
 				"{@i 1st-level feature (enhances Maneuvers)}",
-				"If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters V2 and to characters who have the Superior Technique fighting style or the Martial Adept feat.",
+				"If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters and to characters who have the Superior Technique fighting style or the Martial Adept feat.",
 				{
 					"type": "entries",
 					"entries": [
@@ -13928,9 +13928,9 @@
 		{	"name": "Maneuvers",
 			"source": "PHB",
 			"page": 73,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
-			"subclassShortName": "Battle Master V2",
+			"subclassShortName": "Battle Master",
 			"subclassSource": "PHB",
 			"level": 3,
 			"header": 1,
@@ -14011,9 +14011,9 @@
 		{	"name": "Student of War",
 			"source": "PHB",
 			"page": 73,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
-			"subclassShortName": "Battle Master V2",
+			"subclassShortName": "Battle Master",
 			"subclassSource": "PHB",
 			"level": 3,
 			"header": 1,
@@ -14024,9 +14024,9 @@
 		{	"name": "Additional Maneuvers",
 			"source": "PHB",
 			"page": 73,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
-			"subclassShortName": "Battle Master V2",
+			"subclassShortName": "Battle Master",
 			"subclassSource": "PHB",
 			"level": 7,
 			"header": 2,
@@ -14050,9 +14050,9 @@
 		{	"name": "Know Your Enemy",
 			"source": "PHB",
 			"page": 73,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
-			"subclassShortName": "Battle Master V2",
+			"subclassShortName": "Battle Master",
 			"subclassSource": "PHB",
 			"level": 7,
 			"header": 2,
@@ -14067,7 +14067,7 @@
 						"Armor Class",
 						"Current hit points",
 						"Total class levels (if any)",
-						"Fighter V2 class levels (if any)"
+						"Fighter class levels (if any)"
 					]
 				}
 			]
@@ -14075,9 +14075,9 @@
 		{	"name": "Additional Maneuvers",
 			"source": "PHB",
 			"page": 73,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
-			"subclassShortName": "Battle Master V2",
+			"subclassShortName": "Battle Master",
 			"subclassSource": "PHB",
 			"level": 10,
 			"header": 2,
@@ -14088,9 +14088,9 @@
 		{	"name": "Improved Combat Superiority (d10)",
 			"source": "PHB",
 			"page": 73,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
-			"subclassShortName": "Battle Master V2",
+			"subclassShortName": "Battle Master",
 			"subclassSource": "PHB",
 			"level": 10,
 			"header": 2,
@@ -14101,9 +14101,9 @@
 		{	"name": "Additional Maneuvers",
 			"source": "PHB",
 			"page": 73,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
-			"subclassShortName": "Battle Master V2",
+			"subclassShortName": "Battle Master",
 			"subclassSource": "PHB",
 			"level": 15,
 			"header": 2,
@@ -14127,9 +14127,9 @@
 		{	"name": "Relentless",
 			"source": "PHB",
 			"page": 73,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
-			"subclassShortName": "Battle Master V2",
+			"subclassShortName": "Battle Master",
 			"subclassSource": "PHB",
 			"level": 15,
 			"header": 2,
@@ -14140,9 +14140,9 @@
 		{	"name": "Improved Combat Superiority (d12)",
 			"source": "PHB",
 			"page": 73,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
-			"subclassShortName": "Battle Master V2",
+			"subclassShortName": "Battle Master",
 			"subclassSource": "PHB",
 			"level": 18,
 			"header": 2,
@@ -14154,7 +14154,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Champion",
 			"subclassSource": "PHB",
@@ -14163,7 +14163,7 @@
 				"The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Improved Critical|Fighter V2||Champion||3"
+					"subclassFeature": "Improved Critical|Fighter||Champion||3"
 				}
 			]
 		},
@@ -14171,7 +14171,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Champion",
 			"subclassSource": "PHB",
@@ -14185,7 +14185,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Champion",
 			"subclassSource": "PHB",
@@ -14200,7 +14200,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Champion",
 			"subclassSource": "PHB",
@@ -14214,7 +14214,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Champion",
 			"subclassSource": "PHB",
@@ -14228,7 +14228,7 @@
 			"source": "PHB",
 			"page": 72,
 			"srd": true,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Champion",
 			"subclassSource": "PHB",
@@ -14241,7 +14241,7 @@
 		{	"name": "Eldritch Knight",
 			"source": "PHB",
 			"page": 74,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Eldritch Knight",
 			"subclassSource": "PHB",
@@ -14250,18 +14250,18 @@
 				"The archetypal Eldritch Knight combines the martial mastery common to all fighters with a careful study of magic. Eldritch Knights use magical techniques similar to those practiced by wizards. They focus their study on two of the eight schools of magic\u2014abjuration and evocation. Abjuration spells grant an Eldritch Knight additional protection in battle, and evocation spells deal damage to many foes at once, extending the fighter's reach in combat. These knights learn a comparatively small number of spells, committing them to memory instead of keeping them in a spellbook.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Spellcasting|Fighter V2||Eldritch Knight||3"
+					"subclassFeature": "Spellcasting|Fighter||Eldritch Knight||3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Weapon Bond|Fighter V2||Eldritch Knight||3"
+					"subclassFeature": "Weapon Bond|Fighter||Eldritch Knight||3"
 				}
 			]
 		},
 		{	"name": "Spellcasting",
 			"source": "PHB",
 			"page": 74,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Eldritch Knight",
 			"subclassSource": "PHB",
@@ -14335,7 +14335,7 @@
 		{	"name": "Weapon Bond",
 			"source": "PHB",
 			"page": 74,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Eldritch Knight",
 			"subclassSource": "PHB",
@@ -14350,7 +14350,7 @@
 		{	"name": "War Magic",
 			"source": "PHB",
 			"page": 74,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Eldritch Knight",
 			"subclassSource": "PHB",
@@ -14363,7 +14363,7 @@
 		{	"name": "Eldritch Strike",
 			"source": "PHB",
 			"page": 74,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Eldritch Knight",
 			"subclassSource": "PHB",
@@ -14376,7 +14376,7 @@
 		{	"name": "Arcane Charge",
 			"source": "PHB",
 			"page": 74,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Eldritch Knight",
 			"subclassSource": "PHB",
@@ -14389,7 +14389,7 @@
 		{	"name": "Improved War Magic",
 			"source": "PHB",
 			"page": 74,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Eldritch Knight",
 			"subclassSource": "PHB",
@@ -14402,7 +14402,7 @@
 		{	"name": "Purple Dragon Knight (Banneret)",
 			"source": "SCAG",
 			"page": 128,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Purple Dragon Knight (Banneret)",
 			"subclassSource": "SCAG",
@@ -14413,18 +14413,18 @@
 				"A knight prefers to lead through deeds, not words. As a knight spearheads an attack, the knight's actions can awaken reserves of courage and conviction in allies that they never suspected they had.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Restriction: Knighthood|Fighter V2||Purple Dragon Knight (Banneret)|SCAG|3"
+					"subclassFeature": "Restriction: Knighthood|Fighter||Purple Dragon Knight (Banneret)|SCAG|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Rallying Cry|Fighter V2||Purple Dragon Knight (Banneret)|SCAG|3"
+					"subclassFeature": "Rallying Cry|Fighter||Purple Dragon Knight (Banneret)|SCAG|3"
 				}
 			]
 		},
 		{	"name": "Rallying Cry",
 			"source": "SCAG",
 			"page": 128,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Purple Dragon Knight (Banneret)",
 			"subclassSource": "SCAG",
@@ -14438,7 +14438,7 @@
 		{	"name": "Restriction: Knighthood",
 			"source": "SCAG",
 			"page": 128,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Purple Dragon Knight (Banneret)",
 			"subclassSource": "SCAG",
@@ -14452,7 +14452,7 @@
 		{	"name": "Royal Envoy",
 			"source": "SCAG",
 			"page": 128,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Purple Dragon Knight (Banneret)",
 			"subclassSource": "SCAG",
@@ -14467,7 +14467,7 @@
 		{	"name": "Inspiring Surge",
 			"source": "SCAG",
 			"page": 128,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Purple Dragon Knight (Banneret)",
 			"subclassSource": "SCAG",
@@ -14481,7 +14481,7 @@
 		{	"name": "Bulwark",
 			"source": "SCAG",
 			"page": 128,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Purple Dragon Knight (Banneret)",
 			"subclassSource": "SCAG",
@@ -14494,7 +14494,7 @@
 		{	"name": "Inspiring Surge",
 			"source": "SCAG",
 			"page": 128,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Purple Dragon Knight (Banneret)",
 			"subclassSource": "SCAG",
@@ -14507,7 +14507,7 @@
 		{	"name": "Psi Warrior",
 			"source": "TCE",
 			"page": 42,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psi Warrior",
 			"subclassSource": "TCE",
@@ -14517,14 +14517,14 @@
 				"As a Psi Warrior, you might have honed your psionic abilities through solo discipline, unlocked it under the tutelage of a master, or refined it at an academy dedicated to wielding the mind's power as both weapon and shield.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psionic Power|Fighter V2||Psi Warrior|TCE|3"
+					"subclassFeature": "Psionic Power|Fighter||Psi Warrior|TCE|3"
 				}
 			]
 		},
 		{	"name": "Psionic Power",
 			"source": "TCE",
 			"page": 42,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psi Warrior",
 			"subclassSource": "TCE",
@@ -14542,15 +14542,15 @@
 					"entries": [
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Protective Field|Fighter V2|TCE|Psi Warrior|TCE|3"
+							"subclassFeature": "Protective Field|Fighter|TCE|Psi Warrior|TCE|3"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Psionic Strike|Fighter V2|TCE|Psi Warrior|TCE|3"
+							"subclassFeature": "Psionic Strike|Fighter|TCE|Psi Warrior|TCE|3"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Telekinetic Movement|Fighter V2|TCE|Psi Warrior|TCE|3"
+							"subclassFeature": "Telekinetic Movement|Fighter|TCE|Psi Warrior|TCE|3"
 						}
 					]
 				}
@@ -14559,7 +14559,7 @@
 		{	"name": "Telekinetic Adept",
 			"source": "TCE",
 			"page": 42,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psi Warrior",
 			"subclassSource": "TCE",
@@ -14574,11 +14574,11 @@
 					"entries": [
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Psi-Powered Leap.|Fighter V2|TCE|Psi Warrior|TCE|7"
+							"subclassFeature": "Psi-Powered Leap.|Fighter|TCE|Psi Warrior|TCE|7"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Telekinetic Thrust.|Fighter V2|TCE|Psi Warrior|TCE|7"
+							"subclassFeature": "Telekinetic Thrust.|Fighter|TCE|Psi Warrior|TCE|7"
 						}
 					]
 				}
@@ -14587,7 +14587,7 @@
 		{	"name": "Guarded Mind",
 			"source": "TCE",
 			"page": 42,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psi Warrior",
 			"subclassSource": "TCE",
@@ -14601,7 +14601,7 @@
 		{	"name": "Bulwark of Force",
 			"source": "TCE",
 			"page": 42,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psi Warrior",
 			"subclassSource": "TCE",
@@ -14616,7 +14616,7 @@
 		{	"name": "Telekinetic Master",
 			"source": "TCE",
 			"page": 42,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psi Warrior",
 			"subclassSource": "TCE",
@@ -14631,7 +14631,7 @@
 		{	"name": "Rune Knight",
 			"source": "TCE",
 			"page": 44,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Rune Knight",
 			"subclassSource": "TCE",
@@ -14640,22 +14640,22 @@
 				"Rune Knights enhance their martial prowess using the supernatural power of runes, an ancient practice that originated with giants. Rune cutters can be found among any family of giants, and you likely learned your methods first or second hand from such a mystical artisan. Whether you found the giant's work carved into a hill or cave, learned of the runes from a sage, or met the giant in person, you studied the giant's craft and learned how to apply magic runes to empower your equipment.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiencies|Fighter V2||Rune Knight|TCE|3"
+					"subclassFeature": "Bonus Proficiencies|Fighter||Rune Knight|TCE|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Rune Carver|Fighter V2||Rune Knight|TCE|3"
+					"subclassFeature": "Rune Carver|Fighter||Rune Knight|TCE|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Giant's Might|Fighter V2||Rune Knight|TCE|3"
+					"subclassFeature": "Giant's Might|Fighter||Rune Knight|TCE|3"
 				}
 			]
 		},
 		{	"name": "Bonus Proficiencies",
 			"source": "TCE",
 			"page": 44,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Rune Knight",
 			"subclassSource": "TCE",
@@ -14669,7 +14669,7 @@
 		{	"name": "Giant's Might",
 			"source": "TCE",
 			"page": 44,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Rune Knight",
 			"subclassSource": "TCE",
@@ -14692,7 +14692,7 @@
 		{	"name": "Rune Carver",
 			"source": "TCE",
 			"page": 44,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Rune Knight",
 			"subclassSource": "TCE",
@@ -14706,7 +14706,7 @@
 					"type": "table",
 					"caption": "Runes Known",
 					"colLabels": [
-						"Fighter V2 Level",
+						"Fighter Level",
 						"Number of Runes"
 					],
 					"colStyles": [
@@ -14770,7 +14770,7 @@
 		{	"name": "Additional Rune Known",
 			"source": "TCE",
 			"page": 44,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Rune Knight",
 			"subclassSource": "TCE",
@@ -14784,7 +14784,7 @@
 		{	"name": "Runic Shield",
 			"source": "TCE",
 			"page": 44,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Rune Knight",
 			"subclassSource": "TCE",
@@ -14799,7 +14799,7 @@
 		{	"name": "Additional Rune Known",
 			"source": "TCE",
 			"page": 44,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Rune Knight",
 			"subclassSource": "TCE",
@@ -14813,7 +14813,7 @@
 		{	"name": "Great Stature",
 			"source": "TCE",
 			"page": 44,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Rune Knight",
 			"subclassSource": "TCE",
@@ -14828,7 +14828,7 @@
 		{	"name": "Additional Rune Known",
 			"source": "TCE",
 			"page": 44,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Rune Knight",
 			"subclassSource": "TCE",
@@ -14842,7 +14842,7 @@
 		{	"name": "Master of Runes",
 			"source": "TCE",
 			"page": 44,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Rune Knight",
 			"subclassSource": "TCE",
@@ -14856,7 +14856,7 @@
 		{	"name": "Runic Juggernaut",
 			"source": "TCE",
 			"page": 44,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Rune Knight",
 			"subclassSource": "TCE",
@@ -14870,7 +14870,7 @@
 		{	"name": "Psi Knight",
 			"source": "UA2020PsionicOptionsRevisited",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psi Knight (UA)",
 			"subclassSource": "UA2020PsionicOptionsRevisited",
@@ -14880,26 +14880,26 @@
 				"As a Psi Knight, you might have honed your psionic abilities through solo discipline, unlocked it under the tutelage of a master, or refined it at an academy dedicated to wielding the mind's power as both weapon and shield.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psionic Talent|Fighter V2||Psi Knight (UA)|UA2020PsionicOptionsRevisited|3"
+					"subclassFeature": "Psionic Talent|Fighter||Psi Knight (UA)|UA2020PsionicOptionsRevisited|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psionic Talent Options|Fighter V2||Psi Knight (UA)|UA2020PsionicOptionsRevisited|3"
+					"subclassFeature": "Psionic Talent Options|Fighter||Psi Knight (UA)|UA2020PsionicOptionsRevisited|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Changing the Die's Size|Fighter V2||Psi Knight (UA)|UA2020PsionicOptionsRevisited|3"
+					"subclassFeature": "Changing the Die's Size|Fighter||Psi Knight (UA)|UA2020PsionicOptionsRevisited|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psi Replenishment|Fighter V2||Psi Knight (UA)|UA2020PsionicOptionsRevisited|3"
+					"subclassFeature": "Psi Replenishment|Fighter||Psi Knight (UA)|UA2020PsionicOptionsRevisited|3"
 				}
 			]
 		},
 		{	"name": "Changing the Die's Size",
 			"source": "UA2020PsionicOptionsRevisited",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psi Knight (UA)",
 			"subclassSource": "UA2020PsionicOptionsRevisited",
@@ -14914,7 +14914,7 @@
 		{	"name": "Psi Replenishment",
 			"source": "UA2020PsionicOptionsRevisited",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psi Knight (UA)",
 			"subclassSource": "UA2020PsionicOptionsRevisited",
@@ -14927,7 +14927,7 @@
 		{	"name": "Psionic Talent",
 			"source": "UA2020PsionicOptionsRevisited",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psi Knight (UA)",
 			"subclassSource": "UA2020PsionicOptionsRevisited",
@@ -14941,7 +14941,7 @@
 		{	"name": "Psionic Talent Options",
 			"source": "UA2020PsionicOptionsRevisited",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psi Knight (UA)",
 			"subclassSource": "UA2020PsionicOptionsRevisited",
@@ -14975,7 +14975,7 @@
 		{	"name": "Telekinetic Adept",
 			"source": "UA2020PsionicOptionsRevisited",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psi Knight (UA)",
 			"subclassSource": "UA2020PsionicOptionsRevisited",
@@ -15005,7 +15005,7 @@
 		{	"name": "Psi-Enhanced Metabolism",
 			"source": "UA2020PsionicOptionsRevisited",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psi Knight (UA)",
 			"subclassSource": "UA2020PsionicOptionsRevisited",
@@ -15019,7 +15019,7 @@
 		{	"name": "Bulwark of Force",
 			"source": "UA2020PsionicOptionsRevisited",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psi Knight (UA)",
 			"subclassSource": "UA2020PsionicOptionsRevisited",
@@ -15033,7 +15033,7 @@
 		{	"name": "Telekinetic Master",
 			"source": "UA2020PsionicOptionsRevisited",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psi Knight (UA)",
 			"subclassSource": "UA2020PsionicOptionsRevisited",
@@ -15047,7 +15047,7 @@
 		{	"name": "Arcane Archer",
 			"source": "UAFighter",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer (UA)",
 			"subclassSource": "UAFighter",
@@ -15056,22 +15056,22 @@
 				"An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. Among elves, Arcane Archers are some of their most elite warriors. These archers stand watch over the fringes of elven domains, keeping a keen eye out for trespassers and using magic-infused arrows to defeat monsters and invaders before they can reach elven settlements. Over the centuries, the methods of these elf archers have been learned by members of other races who can also balance arcane aptitude with archery.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Arcane Arrow|Fighter V2||Arcane Archer (UA)|UAFighter|3"
+					"subclassFeature": "Arcane Arrow|Fighter||Arcane Archer (UA)|UAFighter|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Archer's Lore|Fighter V2||Arcane Archer (UA)|UAFighter|3"
+					"subclassFeature": "Archer's Lore|Fighter||Arcane Archer (UA)|UAFighter|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Arcane Shots|Fighter V2||Arcane Archer (UA)|UAFighter|3"
+					"subclassFeature": "Arcane Shots|Fighter||Arcane Archer (UA)|UAFighter|3"
 				}
 			]
 		},
 		{	"name": "Arcane Arrow",
 			"source": "UAFighter",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer (UA)",
 			"subclassSource": "UAFighter",
@@ -15110,7 +15110,7 @@
 		{	"name": "Arcane Shots",
 			"source": "UAFighter",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer (UA)",
 			"subclassSource": "UAFighter",
@@ -15161,7 +15161,7 @@
 		{	"name": "Archer's Lore",
 			"source": "UAFighter",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer (UA)",
 			"subclassSource": "UAFighter",
@@ -15175,7 +15175,7 @@
 		{	"name": "Conjure Arrows",
 			"source": "UAFighter",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer (UA)",
 			"subclassSource": "UAFighter",
@@ -15188,7 +15188,7 @@
 		{	"name": "Extra Arcane Shot",
 			"source": "UAFighter",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer (UA)",
 			"subclassSource": "UAFighter",
@@ -15201,7 +15201,7 @@
 		{	"name": "Extra Arcane Shot",
 			"source": "UAFighter",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer (UA)",
 			"subclassSource": "UAFighter",
@@ -15214,7 +15214,7 @@
 		{	"name": "Ever-Ready Arrow",
 			"source": "UAFighter",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer (UA)",
 			"subclassSource": "UAFighter",
@@ -15227,7 +15227,7 @@
 		{	"name": "Extra Arcane Shot",
 			"source": "UAFighter",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer (UA)",
 			"subclassSource": "UAFighter",
@@ -15240,7 +15240,7 @@
 		{	"name": "Deadly Arrow",
 			"source": "UAFighter",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer (UA)",
 			"subclassSource": "UAFighter",
@@ -15253,7 +15253,7 @@
 		{	"name": "Extra Arcane Shot",
 			"source": "UAFighter",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer (UA)",
 			"subclassSource": "UAFighter",
@@ -15266,7 +15266,7 @@
 		{	"name": "Knight",
 			"source": "UAFighter",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Knight (UA)",
 			"subclassSource": "UAFighter",
@@ -15275,18 +15275,18 @@
 				"The Knight is a colossus on the battlefield who can shrug off attacks and protect allies from harm. Knights fight from the saddle when they can, and in combat they are expected to seek out and lock down the mightiest of the enemy's forces. On adventures, they are the armored bulwark that strives to keep the rest of the party safe.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Born to the Saddle|Fighter V2||Knight (UA)|UAFighter|3"
+					"subclassFeature": "Born to the Saddle|Fighter||Knight (UA)|UAFighter|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Implacable Mark|Fighter V2||Knight (UA)|UAFighter|3"
+					"subclassFeature": "Implacable Mark|Fighter||Knight (UA)|UAFighter|3"
 				}
 			]
 		},
 		{	"name": "Born to the Saddle",
 			"source": "UAFighter",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Knight (UA)",
 			"subclassSource": "UAFighter",
@@ -15299,7 +15299,7 @@
 		{	"name": "Implacable Mark",
 			"source": "UAFighter",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Knight (UA)",
 			"subclassSource": "UAFighter",
@@ -15315,7 +15315,7 @@
 		{	"name": "Noble Cavalry",
 			"source": "UAFighter",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Knight (UA)",
 			"subclassSource": "UAFighter",
@@ -15328,7 +15328,7 @@
 		{	"name": "Hold the Line",
 			"source": "UAFighter",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Knight (UA)",
 			"subclassSource": "UAFighter",
@@ -15341,7 +15341,7 @@
 		{	"name": "Rapid Strike",
 			"source": "UAFighter",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Knight (UA)",
 			"subclassSource": "UAFighter",
@@ -15354,7 +15354,7 @@
 		{	"name": "Defender's Blade",
 			"source": "UAFighter",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Knight (UA)",
 			"subclassSource": "UAFighter",
@@ -15368,7 +15368,7 @@
 		{	"name": "Samurai",
 			"source": "UAFighter",
 			"page": 3,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Samurai (UA)",
 			"subclassSource": "UAFighter",
@@ -15377,14 +15377,14 @@
 				"The Samurai is a fighter who draws on an implacable fighting spirit to overcome enemies. A Samurai's willpower is nearly unbreakable, and the enemies in a Samurai's path have two choices: yield or die fighting.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Fighting Spirit|Fighter V2||Samurai (UA)|UAFighter|3"
+					"subclassFeature": "Fighting Spirit|Fighter||Samurai (UA)|UAFighter|3"
 				}
 			]
 		},
 		{	"name": "Fighting Spirit",
 			"source": "UAFighter",
 			"page": 3,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Samurai (UA)",
 			"subclassSource": "UAFighter",
@@ -15398,7 +15398,7 @@
 		{	"name": "Elegant Courtier",
 			"source": "UAFighter",
 			"page": 3,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Samurai (UA)",
 			"subclassSource": "UAFighter",
@@ -15412,7 +15412,7 @@
 		{	"name": "Unbreakable Will",
 			"source": "UAFighter",
 			"page": 3,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Samurai (UA)",
 			"subclassSource": "UAFighter",
@@ -15425,7 +15425,7 @@
 		{	"name": "Rapid Strike",
 			"source": "UAFighter",
 			"page": 3,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Samurai (UA)",
 			"subclassSource": "UAFighter",
@@ -15438,7 +15438,7 @@
 		{	"name": "Strength Before Death",
 			"source": "UAFighter",
 			"page": 3,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Samurai (UA)",
 			"subclassSource": "UAFighter",
@@ -15452,7 +15452,7 @@
 		{	"name": "Sharpshooter",
 			"source": "UAFighter",
 			"page": 3,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Sharpshooter (UA)",
 			"subclassSource": "UAFighter",
@@ -15461,14 +15461,14 @@
 				"The Sharpshooter is a master of ranged combat. An excellent sniper and eagle-eyed scout, this fighter is a perilous foe who can defeat an entire war band so long as they are kept at range.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Steady Aim|Fighter V2||Sharpshooter (UA)|UAFighter|3"
+					"subclassFeature": "Steady Aim|Fighter||Sharpshooter (UA)|UAFighter|3"
 				}
 			]
 		},
 		{	"name": "Steady Aim",
 			"source": "UAFighter",
 			"page": 3,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Sharpshooter (UA)",
 			"subclassSource": "UAFighter",
@@ -15489,7 +15489,7 @@
 		{	"name": "Careful Eyes",
 			"source": "UAFighter",
 			"page": 3,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Sharpshooter (UA)",
 			"subclassSource": "UAFighter",
@@ -15503,7 +15503,7 @@
 		{	"name": "Close-Quarters Shooting",
 			"source": "UAFighter",
 			"page": 3,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Sharpshooter (UA)",
 			"subclassSource": "UAFighter",
@@ -15517,7 +15517,7 @@
 		{	"name": "Rapid Strike",
 			"source": "UAFighter",
 			"page": 3,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Sharpshooter (UA)",
 			"subclassSource": "UAFighter",
@@ -15530,7 +15530,7 @@
 		{	"name": "Snap Shot",
 			"source": "UAFighter",
 			"page": 3,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Sharpshooter (UA)",
 			"subclassSource": "UAFighter",
@@ -15543,7 +15543,7 @@
 		{	"name": "Rune Knight",
 			"source": "UAFighterRangerRogue",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Rune Knight (UA)",
 			"subclassSource": "UAFighterRangerRogue",
@@ -15552,26 +15552,26 @@
 				"You discovered how to enhance your martial prowess using the supernatural power of runes. The ancient practice of rune magic originated with giants. {@i Skiltgravr} (\"rune cutters\") can be found among any type of giants, and you likely learned your methods first or second hand from such a mystical artisan. Whether you found the giant's work carved into a hill or cave, learned of the runes from a traveling sage, or met the giant in person, you studied the giant's craft. In time, you learned how to carve and apply runes to your equipment and how to invoke their magic, ultimately becoming a Rune Knight.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiencies|Fighter V2||Rune Knight (UA)|UAFighterRangerRogue|3"
+					"subclassFeature": "Bonus Proficiencies|Fighter||Rune Knight (UA)|UAFighterRangerRogue|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Rune Magic|Fighter V2||Rune Knight (UA)|UAFighterRangerRogue|3"
+					"subclassFeature": "Rune Magic|Fighter||Rune Knight (UA)|UAFighterRangerRogue|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Rune Options|Fighter V2||Rune Knight (UA)|UAFighterRangerRogue|3"
+					"subclassFeature": "Rune Options|Fighter||Rune Knight (UA)|UAFighterRangerRogue|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Giant Might|Fighter V2||Rune Knight (UA)|UAFighterRangerRogue|3"
+					"subclassFeature": "Giant Might|Fighter||Rune Knight (UA)|UAFighterRangerRogue|3"
 				}
 			]
 		},
 		{	"name": "Bonus Proficiencies",
 			"source": "UAFighterRangerRogue",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Rune Knight (UA)",
 			"subclassSource": "UAFighterRangerRogue",
@@ -15585,7 +15585,7 @@
 		{	"name": "Giant Might",
 			"source": "UAFighterRangerRogue",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Rune Knight (UA)",
 			"subclassSource": "UAFighterRangerRogue",
@@ -15608,7 +15608,7 @@
 		{	"name": "Rune Magic",
 			"source": "UAFighterRangerRogue",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Rune Knight (UA)",
 			"subclassSource": "UAFighterRangerRogue",
@@ -15625,7 +15625,7 @@
 		{	"name": "Rune Options",
 			"source": "UAFighterRangerRogue",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Rune Knight (UA)",
 			"subclassSource": "UAFighterRangerRogue",
@@ -15668,7 +15668,7 @@
 		{	"name": "Defensive Runes",
 			"source": "UAFighterRangerRogue",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Rune Knight (UA)",
 			"subclassSource": "UAFighterRangerRogue",
@@ -15683,7 +15683,7 @@
 		{	"name": "Great Stature",
 			"source": "UAFighterRangerRogue",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Rune Knight (UA)",
 			"subclassSource": "UAFighterRangerRogue",
@@ -15698,7 +15698,7 @@
 		{	"name": "Rune Magic Mastery",
 			"source": "UAFighterRangerRogue",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Rune Knight (UA)",
 			"subclassSource": "UAFighterRangerRogue",
@@ -15713,7 +15713,7 @@
 		{	"name": "Blessing of the All Father",
 			"source": "UAFighterRangerRogue",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Rune Knight (UA)",
 			"subclassSource": "UAFighterRangerRogue",
@@ -15727,7 +15727,7 @@
 		{	"name": "Psychic Warrior",
 			"source": "UAFighterRogueWizard",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psychic Warrior (UA)",
 			"subclassSource": "UAFighterRogueWizard",
@@ -15737,18 +15737,18 @@
 				"As a Psychic Warrior, you might have honed your psionic abilities through your own disciplined practice, unlocked it under the tutelage of a master, or developed it at an academy dedicated to wielding the mind's power as both weapon and shield.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psionic Armament|Fighter V2||Psychic Warrior (UA)|UAFighterRogueWizard|3"
+					"subclassFeature": "Psionic Armament|Fighter||Psychic Warrior (UA)|UAFighterRogueWizard|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Telekinetic Hand|Fighter V2||Psychic Warrior (UA)|UAFighterRogueWizard|3"
+					"subclassFeature": "Telekinetic Hand|Fighter||Psychic Warrior (UA)|UAFighterRogueWizard|3"
 				}
 			]
 		},
 		{	"name": "Psionic Armament",
 			"source": "UAFighterRogueWizard",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psychic Warrior (UA)",
 			"subclassSource": "UAFighterRogueWizard",
@@ -15776,7 +15776,7 @@
 		{	"name": "Telekinetic Hand",
 			"source": "UAFighterRogueWizard",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psychic Warrior (UA)",
 			"subclassSource": "UAFighterRogueWizard",
@@ -15790,7 +15790,7 @@
 		{	"name": "Strength of Mind",
 			"source": "UAFighterRogueWizard",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psychic Warrior (UA)",
 			"subclassSource": "UAFighterRogueWizard",
@@ -15805,7 +15805,7 @@
 		{	"name": "Psionic Armament Improvement",
 			"source": "UAFighterRogueWizard",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psychic Warrior (UA)",
 			"subclassSource": "UAFighterRogueWizard",
@@ -15819,7 +15819,7 @@
 		{	"name": "Telekinetic Bulwark",
 			"source": "UAFighterRogueWizard",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psychic Warrior (UA)",
 			"subclassSource": "UAFighterRogueWizard",
@@ -15834,7 +15834,7 @@
 		{	"name": "Agonizing Strikes",
 			"source": "UAFighterRogueWizard",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psychic Warrior (UA)",
 			"subclassSource": "UAFighterRogueWizard",
@@ -15849,7 +15849,7 @@
 		{	"name": "Psychic Dreadnaught",
 			"source": "UAFighterRogueWizard",
 			"page": 1,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Psychic Warrior (UA)",
 			"subclassSource": "UAFighterRogueWizard",
@@ -15872,7 +15872,7 @@
 		{	"name": "Monster Hunter",
 			"source": "UAGothicHeroes",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Monster Hunter (UA)",
 			"subclassSource": "UAGothicHeroes",
@@ -15881,22 +15881,22 @@
 				"As an archetypal Monster Hunter, you are an expert at defeating supernatural threats. Typically mentored by an older, experienced Monster Hunter, you learn to overcome a variety of unnatural defenses and attacks, including those of undead, lycanthropes, and other creatures of horror.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiencies|Fighter V2||Monster Hunter (UA)|UAGothicHeroes|3"
+					"subclassFeature": "Bonus Proficiencies|Fighter||Monster Hunter (UA)|UAGothicHeroes|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Combat Superiority|Fighter V2||Monster Hunter (UA)|UAGothicHeroes|3"
+					"subclassFeature": "Combat Superiority|Fighter||Monster Hunter (UA)|UAGothicHeroes|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Hunter's Mysticism|Fighter V2||Monster Hunter (UA)|UAGothicHeroes|3"
+					"subclassFeature": "Hunter's Mysticism|Fighter||Monster Hunter (UA)|UAGothicHeroes|3"
 				}
 			]
 		},
 		{	"name": "Bonus Proficiencies",
 			"source": "UAGothicHeroes",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Monster Hunter (UA)",
 			"subclassSource": "UAGothicHeroes",
@@ -15909,7 +15909,7 @@
 		{	"name": "Combat Superiority",
 			"source": "UAGothicHeroes",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Monster Hunter (UA)",
 			"subclassSource": "UAGothicHeroes",
@@ -15955,7 +15955,7 @@
 		{	"name": "Hunter's Mysticism",
 			"source": "UAGothicHeroes",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Monster Hunter (UA)",
 			"subclassSource": "UAGothicHeroes",
@@ -15969,7 +15969,7 @@
 		{	"name": "Monster Slayer",
 			"source": "UAGothicHeroes",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Monster Hunter (UA)",
 			"subclassSource": "UAGothicHeroes",
@@ -15982,7 +15982,7 @@
 		{	"name": "Improved Combat Superiority",
 			"source": "UAGothicHeroes",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Monster Hunter (UA)",
 			"subclassSource": "UAGothicHeroes",
@@ -15995,7 +15995,7 @@
 		{	"name": "Relentless",
 			"source": "UAGothicHeroes",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Monster Hunter (UA)",
 			"subclassSource": "UAGothicHeroes",
@@ -16008,7 +16008,7 @@
 		{	"name": "Improved Combat Superiority",
 			"source": "UAGothicHeroes",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Monster Hunter (UA)",
 			"subclassSource": "UAGothicHeroes",
@@ -16021,7 +16021,7 @@
 		{	"name": "Cavalier",
 			"source": "UAKitsOfOld",
 			"page": 3,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier (UA)",
 			"subclassSource": "UAKitsOfOld",
@@ -16030,22 +16030,22 @@
 				"The archetypal Cavalier excels at mounted combat. Usually born to nobility and raised in a royal court, a Cavalier is equally at home leading a cavalry charge or exchanging witty repartee at a state dinner.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiencies|Fighter V2||Cavalier (UA)|UAKitsOfOld|3"
+					"subclassFeature": "Bonus Proficiencies|Fighter||Cavalier (UA)|UAKitsOfOld|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Born to the Saddle|Fighter V2||Cavalier (UA)|UAKitsOfOld|3"
+					"subclassFeature": "Born to the Saddle|Fighter||Cavalier (UA)|UAKitsOfOld|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Combat Superiority|Fighter V2||Cavalier (UA)|UAKitsOfOld|3"
+					"subclassFeature": "Combat Superiority|Fighter||Cavalier (UA)|UAKitsOfOld|3"
 				}
 			]
 		},
 		{	"name": "Bonus Proficiencies",
 			"source": "UAKitsOfOld",
 			"page": 3,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier (UA)",
 			"subclassSource": "UAKitsOfOld",
@@ -16058,7 +16058,7 @@
 		{	"name": "Born to the Saddle",
 			"source": "UAKitsOfOld",
 			"page": 3,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier (UA)",
 			"subclassSource": "UAKitsOfOld",
@@ -16071,7 +16071,7 @@
 		{	"name": "Combat Superiority",
 			"source": "UAKitsOfOld",
 			"page": 3,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier (UA)",
 			"subclassSource": "UAKitsOfOld",
@@ -16118,7 +16118,7 @@
 		{	"name": "Ferocious Charger",
 			"source": "UAKitsOfOld",
 			"page": 3,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier (UA)",
 			"subclassSource": "UAKitsOfOld",
@@ -16131,7 +16131,7 @@
 		{	"name": "Improved Combat Superiority",
 			"source": "UAKitsOfOld",
 			"page": 3,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier (UA)",
 			"subclassSource": "UAKitsOfOld",
@@ -16144,7 +16144,7 @@
 		{	"name": "Relentless",
 			"source": "UAKitsOfOld",
 			"page": 3,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier (UA)",
 			"subclassSource": "UAKitsOfOld",
@@ -16157,7 +16157,7 @@
 		{	"name": "Improved Combat Superiority",
 			"source": "UAKitsOfOld",
 			"page": 3,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier (UA)",
 			"subclassSource": "UAKitsOfOld",
@@ -16170,7 +16170,7 @@
 		{	"name": "Scout",
 			"source": "UAKitsOfOld",
 			"page": 4,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Scout (UA)",
 			"subclassSource": "UAKitsOfOld",
@@ -16179,22 +16179,22 @@
 				"The archetypal Scout excels at finding safe passage through dangerous regions. Scouts usually favor light armor and ranged weapons, but they are comfortable using heavier gear when faced with intense fighting.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiencies|Fighter V2||Scout (UA)|UAKitsOfOld|3"
+					"subclassFeature": "Bonus Proficiencies|Fighter||Scout (UA)|UAKitsOfOld|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Combat Superiority|Fighter V2||Scout (UA)|UAKitsOfOld|3"
+					"subclassFeature": "Combat Superiority|Fighter||Scout (UA)|UAKitsOfOld|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Natural Explorer|Fighter V2||Scout (UA)|UAKitsOfOld|3"
+					"subclassFeature": "Natural Explorer|Fighter||Scout (UA)|UAKitsOfOld|3"
 				}
 			]
 		},
 		{	"name": "Bonus Proficiencies",
 			"source": "UAKitsOfOld",
 			"page": 4,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Scout (UA)",
 			"subclassSource": "UAKitsOfOld",
@@ -16207,7 +16207,7 @@
 		{	"name": "Combat Superiority",
 			"source": "UAKitsOfOld",
 			"page": 4,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Scout (UA)",
 			"subclassSource": "UAKitsOfOld",
@@ -16252,7 +16252,7 @@
 		{	"name": "Natural Explorer",
 			"source": "UAKitsOfOld",
 			"page": 4,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Scout (UA)",
 			"subclassSource": "UAKitsOfOld",
@@ -16278,7 +16278,7 @@
 		{	"name": "Additional Superiority Die",
 			"source": "UAKitsOfOld",
 			"page": 4,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Scout (UA)",
 			"subclassSource": "UAKitsOfOld",
@@ -16291,7 +16291,7 @@
 		{	"name": "Improved Combat Superiority",
 			"source": "UAKitsOfOld",
 			"page": 4,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Scout (UA)",
 			"subclassSource": "UAKitsOfOld",
@@ -16304,7 +16304,7 @@
 		{	"name": "Additional Superiority Die",
 			"source": "UAKitsOfOld",
 			"page": 4,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Scout (UA)",
 			"subclassSource": "UAKitsOfOld",
@@ -16317,7 +16317,7 @@
 		{	"name": "Relentless",
 			"source": "UAKitsOfOld",
 			"page": 4,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Scout (UA)",
 			"subclassSource": "UAKitsOfOld",
@@ -16330,7 +16330,7 @@
 		{	"name": "Improved Combat Superiority",
 			"source": "UAKitsOfOld",
 			"page": 4,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Scout (UA)",
 			"subclassSource": "UAKitsOfOld",
@@ -16343,7 +16343,7 @@
 		{	"name": "Cavalier v2",
 			"source": "UARevisedClassOptions",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier v2 (UA)",
 			"subclassSource": "UARevisedClassOptions",
@@ -16352,26 +16352,26 @@
 				"The archetypal Cavalier excels at mounted combat. Usually born among the nobility and raised at court, a Cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Drawn to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiencies|Fighter V2||Cavalier v2 (UA)|UARevisedClassOptions|3"
+					"subclassFeature": "Bonus Proficiencies|Fighter||Cavalier v2 (UA)|UARevisedClassOptions|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Born to the Saddle|Fighter V2||Cavalier v2 (UA)|UARevisedClassOptions|3"
+					"subclassFeature": "Born to the Saddle|Fighter||Cavalier v2 (UA)|UARevisedClassOptions|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Combat Superiority|Fighter V2||Cavalier v2 (UA)|UARevisedClassOptions|3"
+					"subclassFeature": "Combat Superiority|Fighter||Cavalier v2 (UA)|UARevisedClassOptions|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Maneuvers|Fighter V2||Cavalier v2 (UA)|UARevisedClassOptions|3"
+					"subclassFeature": "Maneuvers|Fighter||Cavalier v2 (UA)|UARevisedClassOptions|3"
 				}
 			]
 		},
 		{	"name": "Bonus Proficiencies",
 			"source": "UARevisedClassOptions",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier v2 (UA)",
 			"subclassSource": "UARevisedClassOptions",
@@ -16384,7 +16384,7 @@
 		{	"name": "Born to the Saddle",
 			"source": "UARevisedClassOptions",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier v2 (UA)",
 			"subclassSource": "UARevisedClassOptions",
@@ -16398,7 +16398,7 @@
 		{	"name": "Combat Superiority",
 			"source": "UARevisedClassOptions",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier v2 (UA)",
 			"subclassSource": "UARevisedClassOptions",
@@ -16436,7 +16436,7 @@
 		{	"name": "Maneuvers",
 			"source": "UARevisedClassOptions",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier v2 (UA)",
 			"subclassSource": "UARevisedClassOptions",
@@ -16470,7 +16470,7 @@
 		{	"name": "Ferocious Charger",
 			"source": "UARevisedClassOptions",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier v2 (UA)",
 			"subclassSource": "UARevisedClassOptions",
@@ -16483,7 +16483,7 @@
 		{	"name": "Improved Combat Superiority",
 			"source": "UARevisedClassOptions",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier v2 (UA)",
 			"subclassSource": "UARevisedClassOptions",
@@ -16496,7 +16496,7 @@
 		{	"name": "Relentless",
 			"source": "UARevisedClassOptions",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier v2 (UA)",
 			"subclassSource": "UARevisedClassOptions",
@@ -16509,7 +16509,7 @@
 		{	"name": "Improved Combat Superiority",
 			"source": "UARevisedClassOptions",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier v2 (UA)",
 			"subclassSource": "UARevisedClassOptions",
@@ -16522,7 +16522,7 @@
 		{	"name": "Arcane Archer v2",
 			"source": "UARevisedSubclasses",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer v2 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -16531,26 +16531,26 @@
 				"An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. Among elves, Arcane Archers are some of their most elite warriors. These archers stand watch over the fringes of elven domains, keeping a keen eye out for trespassers and using magic-infused arrows to defeat monsters and invaders before they can reach elven settlements. Over the centuries, the methods of these elf archers have been learned by members of other races who can also balance arcane aptitude with archery.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Magic Arrow|Fighter V2||Arcane Archer v2 (UA)|UARevisedSubclasses|3"
+					"subclassFeature": "Magic Arrow|Fighter||Arcane Archer v2 (UA)|UARevisedSubclasses|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Arcane Arrow|Fighter V2||Arcane Archer v2 (UA)|UARevisedSubclasses|3"
+					"subclassFeature": "Arcane Arrow|Fighter||Arcane Archer v2 (UA)|UARevisedSubclasses|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Archer's Lore|Fighter V2||Arcane Archer v2 (UA)|UARevisedSubclasses|3"
+					"subclassFeature": "Archer's Lore|Fighter||Arcane Archer v2 (UA)|UARevisedSubclasses|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Arcane Shot|Fighter V2||Arcane Archer v2 (UA)|UARevisedSubclasses|3"
+					"subclassFeature": "Arcane Shot|Fighter||Arcane Archer v2 (UA)|UARevisedSubclasses|3"
 				}
 			]
 		},
 		{	"name": "Arcane Arrow",
 			"source": "UARevisedSubclasses",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer v2 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -16565,7 +16565,7 @@
 		{	"name": "Arcane Shot",
 			"source": "UARevisedSubclasses",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer v2 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -16617,7 +16617,7 @@
 		{	"name": "Archer's Lore",
 			"source": "UARevisedSubclasses",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer v2 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -16630,7 +16630,7 @@
 		{	"name": "Magic Arrow",
 			"source": "UARevisedSubclasses",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer v2 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -16643,7 +16643,7 @@
 		{	"name": "Curving Shot",
 			"source": "UARevisedSubclasses",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer v2 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -16656,7 +16656,7 @@
 		{	"name": "Extra Arcane Shot",
 			"source": "UARevisedSubclasses",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer v2 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -16669,7 +16669,7 @@
 		{	"name": "Extra Arcane Shot",
 			"source": "UARevisedSubclasses",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer v2 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -16682,7 +16682,7 @@
 		{	"name": "Ever-Ready Shot",
 			"source": "UARevisedSubclasses",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer v2 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -16695,7 +16695,7 @@
 		{	"name": "Extra Arcane Shot",
 			"source": "UARevisedSubclasses",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer v2 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -16708,7 +16708,7 @@
 		{	"name": "Extra Arcane Shot",
 			"source": "UARevisedSubclasses",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer v2 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -16721,7 +16721,7 @@
 		{	"name": "Brute",
 			"source": "UAThreeSubclasses",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Brute (UA)",
 			"subclassSource": "UAThreeSubclasses",
@@ -16730,14 +16730,14 @@
 				"Brutes are simple warriors who rely on mighty attacks and their own durability to overcome their enemies. Some brutes combine this physical might with tactical cunning. Others just hit things until those things stop hitting back.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Brute Force|Fighter V2||Brute (UA)|UAThreeSubclasses|3"
+					"subclassFeature": "Brute Force|Fighter||Brute (UA)|UAThreeSubclasses|3"
 				}
 			]
 		},
 		{	"name": "Brute Force",
 			"source": "UAThreeSubclasses",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Brute (UA)",
 			"subclassSource": "UAThreeSubclasses",
@@ -16749,7 +16749,7 @@
 					"type": "table",
 					"caption": "Brute Bonus Damage",
 					"colLabels": [
-						"Fighter V2 Level",
+						"Fighter Level",
 						"Damage Increase"
 					],
 					"colStyles": [
@@ -16780,7 +16780,7 @@
 		{	"name": "Brutish Durability",
 			"source": "UAThreeSubclasses",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Brute (UA)",
 			"subclassSource": "UAThreeSubclasses",
@@ -16794,7 +16794,7 @@
 		{	"name": "Additional Fighting Style",
 			"source": "UAThreeSubclasses",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Brute (UA)",
 			"subclassSource": "UAThreeSubclasses",
@@ -16807,7 +16807,7 @@
 		{	"name": "Devastating Critical",
 			"source": "UAThreeSubclasses",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Brute (UA)",
 			"subclassSource": "UAThreeSubclasses",
@@ -16820,7 +16820,7 @@
 		{	"name": "Survivor",
 			"source": "UAThreeSubclasses",
 			"page": 2,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Brute (UA)",
 			"subclassSource": "UAThreeSubclasses",
@@ -16833,7 +16833,7 @@
 		{	"name": "Arcane Archer",
 			"source": "XGE",
 			"page": 28,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer",
 			"subclassSource": "XGE",
@@ -16842,22 +16842,22 @@
 				"An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. Arcane Archers are some of the most elite warriors among the elves. They stand watch over the fringes of elven domains, keeping a keen eye out for trespassers and using magic-infused arrows to defeat monsters and invaders before they can reach elven settlements. Over the centuries, the methods of these elf archers have been learned by members of other races who can also balance arcane aptitude with archery.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Arcane Archer Lore|Fighter V2||Arcane Archer|XGE|3"
+					"subclassFeature": "Arcane Archer Lore|Fighter||Arcane Archer|XGE|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Arcane Shot|Fighter V2||Arcane Archer|XGE|3"
+					"subclassFeature": "Arcane Shot|Fighter||Arcane Archer|XGE|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Arcane Shot Options|Fighter V2||Arcane Archer|XGE|3"
+					"subclassFeature": "Arcane Shot Options|Fighter||Arcane Archer|XGE|3"
 				}
 			]
 		},
 		{	"name": "Arcane Archer Lore",
 			"source": "XGE",
 			"page": 28,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer",
 			"subclassSource": "XGE",
@@ -16870,7 +16870,7 @@
 		{	"name": "Arcane Shot",
 			"source": "XGE",
 			"page": 28,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer",
 			"subclassSource": "XGE",
@@ -16885,7 +16885,7 @@
 		{	"name": "Arcane Shot Options",
 			"source": "XGE",
 			"page": 28,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer",
 			"subclassSource": "XGE",
@@ -16944,7 +16944,7 @@
 		{	"name": "Additional Arcane Shot Option",
 			"source": "XGE",
 			"page": 28,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer",
 			"subclassSource": "XGE",
@@ -16957,7 +16957,7 @@
 		{	"name": "Curving Shot",
 			"source": "XGE",
 			"page": 28,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer",
 			"subclassSource": "XGE",
@@ -16970,7 +16970,7 @@
 		{	"name": "Magic Arrow",
 			"source": "XGE",
 			"page": 28,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer",
 			"subclassSource": "XGE",
@@ -16983,7 +16983,7 @@
 		{	"name": "Additional Arcane Shot Option",
 			"source": "XGE",
 			"page": 28,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer",
 			"subclassSource": "XGE",
@@ -16996,7 +16996,7 @@
 		{	"name": "Additional Arcane Shot Option",
 			"source": "XGE",
 			"page": 28,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer",
 			"subclassSource": "XGE",
@@ -17009,7 +17009,7 @@
 		{	"name": "Ever-Ready Shot",
 			"source": "XGE",
 			"page": 28,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer",
 			"subclassSource": "XGE",
@@ -17022,7 +17022,7 @@
 		{	"name": "Additional Arcane Shot Option",
 			"source": "XGE",
 			"page": 28,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Arcane Archer",
 			"subclassSource": "XGE",
@@ -17035,7 +17035,7 @@
 		{	"name": "Cavalier",
 			"source": "XGE",
 			"page": 30,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier",
 			"subclassSource": "XGE",
@@ -17044,22 +17044,22 @@
 				"The archetypal Cavalier excels at mounted combat. Usually born among the nobility and raised at court, a Cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Compelled to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiency|Fighter V2||Cavalier|XGE|3"
+					"subclassFeature": "Bonus Proficiency|Fighter||Cavalier|XGE|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Born to the Saddle|Fighter V2||Cavalier|XGE|3"
+					"subclassFeature": "Born to the Saddle|Fighter||Cavalier|XGE|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Unwavering Mark|Fighter V2||Cavalier|XGE|3"
+					"subclassFeature": "Unwavering Mark|Fighter||Cavalier|XGE|3"
 				}
 			]
 		},
 		{	"name": "Bonus Proficiency",
 			"source": "XGE",
 			"page": 30,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier",
 			"subclassSource": "XGE",
@@ -17072,7 +17072,7 @@
 		{	"name": "Born to the Saddle",
 			"source": "XGE",
 			"page": 30,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier",
 			"subclassSource": "XGE",
@@ -17086,7 +17086,7 @@
 		{	"name": "Unwavering Mark",
 			"source": "XGE",
 			"page": 30,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier",
 			"subclassSource": "XGE",
@@ -17102,7 +17102,7 @@
 		{	"name": "Warding Maneuver",
 			"source": "XGE",
 			"page": 30,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier",
 			"subclassSource": "XGE",
@@ -17116,7 +17116,7 @@
 		{	"name": "Hold the Line",
 			"source": "XGE",
 			"page": 30,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier",
 			"subclassSource": "XGE",
@@ -17129,7 +17129,7 @@
 		{	"name": "Ferocious Charger",
 			"source": "XGE",
 			"page": 30,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier",
 			"subclassSource": "XGE",
@@ -17142,7 +17142,7 @@
 		{	"name": "Vigilant Defender",
 			"source": "XGE",
 			"page": 30,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Cavalier",
 			"subclassSource": "XGE",
@@ -17155,7 +17155,7 @@
 		{	"name": "Samurai",
 			"source": "XGE",
 			"page": 31,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Samurai",
 			"subclassSource": "XGE",
@@ -17164,18 +17164,18 @@
 				"The Samurai is a fighter who draws on an implacable fighting spirit to overcome enemies. A Samurai's resolve is nearly unbreakable, and the enemies in a Samurai's path have two choices: yield or die fighting.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiency|Fighter V2||Samurai|XGE|3"
+					"subclassFeature": "Bonus Proficiency|Fighter||Samurai|XGE|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Fighting Spirit|Fighter V2||Samurai|XGE|3"
+					"subclassFeature": "Fighting Spirit|Fighter||Samurai|XGE|3"
 				}
 			]
 		},
 		{	"name": "Bonus Proficiency",
 			"source": "XGE",
 			"page": 31,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Samurai",
 			"subclassSource": "XGE",
@@ -17188,7 +17188,7 @@
 		{	"name": "Fighting Spirit",
 			"source": "XGE",
 			"page": 31,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Samurai",
 			"subclassSource": "XGE",
@@ -17202,7 +17202,7 @@
 		{	"name": "Elegant Courtier",
 			"source": "XGE",
 			"page": 31,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Samurai",
 			"subclassSource": "XGE",
@@ -17216,7 +17216,7 @@
 		{	"name": "Tireless Spirit",
 			"source": "XGE",
 			"page": 31,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Samurai",
 			"subclassSource": "XGE",
@@ -17229,7 +17229,7 @@
 		{	"name": "Rapid Strike",
 			"source": "XGE",
 			"page": 31,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Samurai",
 			"subclassSource": "XGE",
@@ -17242,7 +17242,7 @@
 		{	"name": "Strength before Death",
 			"source": "XGE",
 			"page": 31,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Samurai",
 			"subclassSource": "XGE",
@@ -17256,7 +17256,7 @@
 		{	"name": "Protective Field",
 			"source": "TCE",
 			"page": 42,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "TCE",
 			"subclassShortName": "Psi Warrior",
 			"subclassSource": "TCE",
@@ -17268,7 +17268,7 @@
 		{	"name": "Psionic Strike",
 			"source": "TCE",
 			"page": 42,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "TCE",
 			"subclassShortName": "Psi Warrior",
 			"subclassSource": "TCE",
@@ -17280,7 +17280,7 @@
 		{	"name": "Telekinetic Movement",
 			"source": "TCE",
 			"page": 42,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "TCE",
 			"subclassShortName": "Psi Warrior",
 			"subclassSource": "TCE",
@@ -17292,7 +17292,7 @@
 		{	"name": "Psi-Powered Leap.",
 			"source": "TCE",
 			"page": 42,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "TCE",
 			"subclassShortName": "Psi Warrior",
 			"subclassSource": "TCE",
@@ -17304,7 +17304,7 @@
 		{	"name": "Telekinetic Thrust.",
 			"source": "TCE",
 			"page": 42,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "TCE",
 			"subclassShortName": "Psi Warrior",
 			"subclassSource": "TCE",
