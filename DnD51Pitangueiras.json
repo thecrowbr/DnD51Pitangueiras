@@ -12,11 +12,11 @@
 				"convertedBy": [
 					"TheCrow"
 				],
-				"version": "5.2"
+				"version": "5.3"
 			}
 		],
 		"dateAdded": 1620268448,
-		"dateLastModified": 1621483989
+		"dateLastModified": 1621484259
 	},
 	"class": [
 		{	"name": "Cleric V2",
@@ -3561,11 +3561,11 @@
 						"Way of the Resolve V2|Monk V2||Resolve V2|DnD51Pitangueiras|3",
 						"Resolute Fists V2|Monk V2||Resolve V2|DnD51Pitangueiras|6",
 						"Between a Rock and a Hard Place V2|Monk V2||Resolve V2|DnD51Pitangueiras|6",
-						"Level 11 Skill Name1 {@italic Pitangueiras}|Monk V2||Resolve V2|DnD51Pitangueiras|11",
-						"Level 11 Skill Name2 {@italic Pitangueiras}|Monk V2||Resolve V2|DnD51Pitangueiras|11",
+						"Level 11 Skill Name1 {@italic Pitangueiras} V2|Monk V2||Resolve V2|DnD51Pitangueiras|11",
+						"Level 11 Skill Name2 {@italic Pitangueiras} V2|Monk V2||Resolve V2|DnD51Pitangueiras|11",
 						"Resolute Stance V2|Monk V2||Resolve V2|DnD51Pitangueiras|11",
-						"Level 17 Skill Name1 {@italic Pitangueiras}|Monk V2||Resolve V2|DnD51Pitangueiras|17",
-						"Level 17 Skill Name2 {@italic Pitangueiras}|Monk V2||Resolve V2|DnD51Pitangueiras|17"
+						"Level 17 Skill Name1 {@italic Pitangueiras} V2|Monk V2||Resolve V2|DnD51Pitangueiras|17",
+						"Level 17 Skill Name2 {@italic Pitangueiras} V2|Monk V2||Resolve V2|DnD51Pitangueiras|17"
 					]
 				},
 				{
@@ -17453,16 +17453,16 @@
 							"name": "Gong of the Summit (6th Level Required)"
 						},
 						{	"type": "refOptionalfeature",
-							"optionalfeature": "Level 3 Skill Name1 Pitangueiras|DnD51Pitangueiras",
-							"name": "Level 3 Skill Name1 Pitangueiras (3rd Level Required)"
+							"optionalfeature": "Level 3 Skill Name1 Pitangueiras V2|DnD51Pitangueiras",
+							"name": "Level 3 Skill Name1 Pitangueiras V2 (3rd Level Required)"
 						},
 						{	"type": "refOptionalfeature",
-							"optionalfeature": "Level 11 Skill Name1 Pitangueiras|DnD51Pitangueiras",
-							"name": "Level 11 Skill Name1 Pitangueiras (11th Level Required)"
+							"optionalfeature": "Level 11 Skill Name1 Pitangueiras V2|DnD51Pitangueiras",
+							"name": "Level 11 Skill Name1 Pitangueiras V2 (11th Level Required)"
 						},
 						{	"type": "refOptionalfeature",
-							"optionalfeature": "Level 17 Skill Name1 Pitangueiras|DnD51Pitangueiras",
-							"name": "Level 17 Skill Name1 Pitangueiras (17th Level Required)"
+							"optionalfeature": "Level 17 Skill Name1 Pitangueiras V2|DnD51Pitangueiras",
+							"name": "Level 17 Skill Name1 Pitangueiras V2 (17th Level Required)"
 						},
 						{	"type": "refOptionalfeature",
 							"optionalfeature": "Mist Stance",
@@ -18901,7 +18901,7 @@
 				"At 6th level, you gain the ability to... {@italic Pitangueiras}. You gain a +3 bonus to CA until the end of your next turn whenever you do not take the Movement action on your turn."
 			]
 		},
-		{	"name": "Level 11 Skill Name1 {@italic Pitangueiras}",
+		{	"name": "Level 11 Skill Name1 {@italic Pitangueiras} V2",
 			"source": "DnD51Pitangueiras",
 			"page": 35,
 			"className": "Monk V2",
@@ -18914,7 +18914,7 @@
 				"At 11th level, you gain the ability to... {@italic Pitangueiras}. You can spend 2 ki points to cast {@spell Calm Emotions}."
 			]
 		},
-		{	"name": "Level 11 Skill Name2 {@italic Pitangueiras}",
+		{	"name": "Level 11 Skill Name2 {@italic Pitangueiras} V2",
 			"source": "DnD51Pitangueiras",
 			"page": 35,
 			"className": "Monk V2",
@@ -18940,7 +18940,7 @@
 				"At 11th level, you gain the ability to... {@italic Pitangueiras}. When a creature misses you with a melee attack, you can use your reaction and spend 1 ki point to use Flurry of Blows."
 			]
 		},
-		{	"name": "Level 17 Skill Name1 {@italic Pitangueiras}",
+		{	"name": "Level 17 Skill Name1 {@italic Pitangueiras} V2",
 			"source": "DnD51Pitangueiras",
 			"page": 35,
 			"className": "Monk V2",
@@ -18953,7 +18953,7 @@
 				"At 17th level, you become... {@italic Pitangueiras}. You can spend 7 ki points to cast {@spell Circle of Power} as a bonus action."
 			]
 		},
-		{	"name": "Level 17 Skill Name2 {@italic Pitangueiras}",
+		{	"name": "Level 17 Skill Name2 {@italic Pitangueiras} V2",
 			"source": "DnD51Pitangueiras",
 			"page": 35,
 			"className": "Monk V2",
@@ -23642,7 +23642,7 @@
 				"As an action, you can spend 2 ki points as you channel the elemental forces of the earth to stomp the ground and cause a tremor that extends out from you. Each creature in a 20-foot-radius must make a Dexterity saving throw. On a failed save, a target takes {@damage 1d10} bludgeoning damage and is knocked {@condition prone}. On a successful save, the creature takes half that damage, but suffers no other effect."
 			]
 		},
-		{	"name": "Level 3 Skill Name1 Pitangueiras",
+		{	"name": "Level 3 Skill Name1 Pitangueiras V2",
 			"source": "DnD51Pitangueiras",
 			"page": 81,
 			"featureType": [
@@ -23652,7 +23652,7 @@
 				"You can spend 2 ki points to cast {@spell warding wind|XGE}."
 			]
 		},
-		{	"name": "Level 11 Skill Name1 Pitangueiras",
+		{	"name": "Level 11 Skill Name1 Pitangueiras V2",
 			"source": "DnD51Pitangueiras",
 			"page": 81,
 			"featureType": [
@@ -23662,7 +23662,7 @@
 				"You can spend ??? ki points to {@italic Pitangueiras}."
 			]
 		},
-		{	"name": "Level 17 Skill Name1 Pitangueiras",
+		{	"name": "Level 17 Skill Name1 Pitangueiras V2",
 			"source": "DnD51Pitangueiras",
 			"page": 81,
 			"featureType": [
