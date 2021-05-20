@@ -195,15 +195,15 @@
 					"page": 73,
 					"subclassFeatures": [
 						"Battle Master V2|Fighter V2||Battle Master V2|DnD51Pitangueiras|3",
-						"Additional Maneuvers|Fighter V2||Battle Master V2||7",
+						"Additional Maneuvers|Fighter||Battle Master||7",
 						"Additional Superiority Dice V2|Fighter V2||Battle Master V2|DnD51Pitangueiras|7",
-						"Know Your Enemy|Fighter V2||Battle Master V2||7",
-						"Additional Maneuvers|Fighter V2||Battle Master V2||10",
-						"Improved Combat Superiority (d10)|Fighter V2||Battle Master V2||10",
-						"Additional Maneuvers|Fighter V2||Battle Master V2||15",
+						"Know Your Enemy|Fighter||Battle Master||7",
+						"Additional Maneuvers|Fighter||Battle Master||10",
+						"Improved Combat Superiority (d10)|Fighter||Battle Master||10",
+						"Additional Maneuvers|Fighter||Battle Master||15",
 						"Additional Superiority Dice V2|Fighter V2||Battle Master V2|DnD51Pitangueiras|15",
-						"Relentless|Fighter V2||Battle Master V2||15",
-						"Improved Combat Superiority (d12)|Fighter V2||Battle Master V2||18"
+						"Relentless|Fighter||Battle Master||15",
+						"Improved Combat Superiority (d12)|Fighter||Battle Master||18"
 					]
 				},
 				{
@@ -1705,7 +1705,7 @@
 				"Those who emulate the archetypal Battle Master V2 employ martial techniques passed down through generations. To a Battle Master V2, combat is an academic field, sometimes including subjects beyond battle such as weaponsmithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master V2 archetype, but those who do are well-rounded fighters of great skill and knowledge.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Student of War|Fighter V2||Battle Master V2||3"
+					"subclassFeature": "Student of War|Fighter||Battle Master||3"
 				},
 				{
 					"type": "refSubclassFeature",
@@ -1713,15 +1713,15 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Maneuvers|Fighter V2||Battle Master V2||3"
+					"subclassFeature": "Maneuvers|Fighter||Battle Master||3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Maneuver Options|Fighter V2||Battle Master V2||3|UAClassFeatureVariants"
+					"subclassFeature": "Maneuver Options|Fighter||Battle Master||3|UAClassFeatureVariants"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Maneuver Options|Fighter V2||Battle Master V2||3|TCE"
+					"subclassFeature": "Maneuver Options|Fighter||Battle Master||3|TCE"
 				}
 			]
 		},
@@ -1893,9 +1893,9 @@
 		{	"name": "Maneuvers",
 			"source": "PHB",
 			"page": 73,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
-			"subclassShortName": "Battle Master V2",
+			"subclassShortName": "Battle Master",
 			"subclassSource": "PHB",
 			"level": 3,
 			"header": 1,
@@ -1976,9 +1976,9 @@
 		{	"name": "Student of War",
 			"source": "PHB",
 			"page": 73,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
-			"subclassShortName": "Battle Master V2",
+			"subclassShortName": "Battle Master",
 			"subclassSource": "PHB",
 			"level": 3,
 			"header": 1,
@@ -1989,9 +1989,9 @@
 		{	"name": "Additional Maneuvers",
 			"source": "PHB",
 			"page": 73,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
-			"subclassShortName": "Battle Master V2",
+			"subclassShortName": "Battle Master",
 			"subclassSource": "PHB",
 			"level": 7,
 			"header": 2,
@@ -2015,9 +2015,9 @@
 		{	"name": "Know Your Enemy",
 			"source": "PHB",
 			"page": 73,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
-			"subclassShortName": "Battle Master V2",
+			"subclassShortName": "Battle Master",
 			"subclassSource": "PHB",
 			"level": 7,
 			"header": 2,
@@ -2040,9 +2040,9 @@
 		{	"name": "Additional Maneuvers",
 			"source": "PHB",
 			"page": 73,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
-			"subclassShortName": "Battle Master V2",
+			"subclassShortName": "Battle Master",
 			"subclassSource": "PHB",
 			"level": 10,
 			"header": 2,
@@ -2053,9 +2053,9 @@
 		{	"name": "Improved Combat Superiority (d10)",
 			"source": "PHB",
 			"page": 73,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
-			"subclassShortName": "Battle Master V2",
+			"subclassShortName": "Battle Master",
 			"subclassSource": "PHB",
 			"level": 10,
 			"header": 2,
@@ -2066,9 +2066,9 @@
 		{	"name": "Additional Maneuvers",
 			"source": "PHB",
 			"page": 73,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
-			"subclassShortName": "Battle Master V2",
+			"subclassShortName": "Battle Master",
 			"subclassSource": "PHB",
 			"level": 15,
 			"header": 2,
@@ -2092,9 +2092,9 @@
 		{	"name": "Relentless",
 			"source": "PHB",
 			"page": 73,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
-			"subclassShortName": "Battle Master V2",
+			"subclassShortName": "Battle Master",
 			"subclassSource": "PHB",
 			"level": 15,
 			"header": 2,
@@ -2105,9 +2105,9 @@
 		{	"name": "Improved Combat Superiority (d12)",
 			"source": "PHB",
 			"page": 73,
-			"className": "Fighter V2",
+			"className": "Fighter",
 			"classSource": "PHB",
-			"subclassShortName": "Battle Master V2",
+			"subclassShortName": "Battle Master",
 			"subclassSource": "PHB",
 			"level": 18,
 			"header": 2,
