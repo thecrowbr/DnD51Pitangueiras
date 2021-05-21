@@ -623,10 +623,10 @@
 						}
 					],
 					"subclassFeatures": [
-						"Light Domain V2|Cleric V2||Light V2||1",
+						"Light Domain V2|Cleric V2||Light V2|DnD51Pitangueiras|1",
 						"Channel Divinity: Radiance of the Dawn|Cleric||Light||2",
 						"Improved Flare|Cleric||Light||6",
-						"Beacon of Light V2|Cleric V2||Light V2||8|DnD51Pitangueiras",
+						"Beacon of Light V2|Cleric V2||Light V2|DnD51Pitangueiras|8",
 						"Blessed Strikes|Cleric||Light||8|UAClassFeatureVariants",
 						"Blessed Strikes|Cleric||Light||8|TCE",
 						"Corona of Light|Cleric||Light||17"
@@ -2853,12 +2853,12 @@
 			]
 		},
 		{	"name": "Light Domain V2",
-			"source": "PHB",
+			"source": "DnD51Pitangueiras",
 			"page": 60,
 			"className": "Cleric V2",
 			"classSource": "PHB",
 			"subclassShortName": "Light V2",
-			"subclassSource": "PHB",
+			"subclassSource": "DnD51Pitangueiras",
 			"level": 1,
 			"entries": [
 				"Gods of light\u2014including Helm, Lathander, Pholtus, Branchala, the Silver Flame, Belenus, Apollo, and Re-Horakhty\u2014promote the ideals of rebirth and renewal, truth, vigilance, and beauty, often using the symbol of the sun. Some of these gods are portrayed as the sun itself or as a charioteer who guides the sun across the sky. Others are tireless sentinels whose eyes pierce every shadow and see through every deception. Some are deities of beauty and artistry, who teach that art is a vehicle for the soul's improvement. Clerics of a god of light are enlightened souls infused with radiance and the power of their gods' discerning vision, charged with chasing away lies and burning away darkness.",
@@ -2997,7 +2997,7 @@
 			"className": "Cleric V2",
 			"classSource": "PHB",
 			"subclassShortName": "Light V2",
-			"subclassSource": "PHB",
+			"subclassSource": "DnD51Pitangueiras",
 			"level": 8,
 			"header": 2,
 			"entries": [
