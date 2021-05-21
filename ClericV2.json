@@ -624,12 +624,12 @@
 					],
 					"subclassFeatures": [
 						"Light Domain V2|Cleric V2||Light V2||1",
-						"Channel Divinity: Radiance of the Dawn|Cleric||Light V2||2",
-						"Improved Flare|Cleric||Light V2||6",
+						"Channel Divinity: Radiance of the Dawn|Cleric||Light||2",
+						"Improved Flare|Cleric||Light||6",
 						"Beacon of Light V2|Cleric V2||Light V2||8|DnD51Pitangueiras",
-						"Blessed Strikes|Cleric||Light V2||8|UAClassFeatureVariants",
-						"Blessed Strikes|Cleric||Light V2||8|TCE",
-						"Corona of Light|Cleric||Light V2||17"
+						"Blessed Strikes|Cleric||Light||8|UAClassFeatureVariants",
+						"Blessed Strikes|Cleric||Light||8|TCE",
+						"Corona of Light|Cleric||Light||17"
 					]
 				},
 				{
@@ -2899,11 +2899,11 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Cantrip|Cleric||Light V2||1"
+					"subclassFeature": "Bonus Cantrip|Cleric||Light||1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Warding Flare|Cleric||Light V2||1"
+					"subclassFeature": "Warding Flare|Cleric||Light||1"
 				}
 			]
 		},
@@ -2912,7 +2912,7 @@
 			"page": 60,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Light V2",
+			"subclassShortName": "Light",
 			"subclassSource": "PHB",
 			"level": 1,
 			"header": 1,
@@ -2925,7 +2925,7 @@
 			"page": 60,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Light V2",
+			"subclassShortName": "Light",
 			"subclassSource": "PHB",
 			"level": 1,
 			"header": 1,
@@ -2939,7 +2939,7 @@
 			"page": 60,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Light V2",
+			"subclassShortName": "Light",
 			"subclassSource": "PHB",
 			"level": 2,
 			"header": 2,
@@ -2953,7 +2953,7 @@
 			"page": 60,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Light V2",
+			"subclassShortName": "Light",
 			"subclassSource": "PHB",
 			"level": 6,
 			"header": 2,
@@ -2966,7 +2966,7 @@
 			"page": 30,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Light V2",
+			"subclassShortName": "Light",
 			"subclassSource": "PHB",
 			"level": 8,
 			"isClassFeatureVariant": true,
@@ -2981,7 +2981,7 @@
 			"page": 4,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Light V2",
+			"subclassShortName": "Light",
 			"subclassSource": "PHB",
 			"level": 8,
 			"isClassFeatureVariant": true,
@@ -3009,7 +3009,7 @@
 			"page": 60,
 			"className": "Cleric",
 			"classSource": "PHB",
-			"subclassShortName": "Light V2",
+			"subclassShortName": "Light",
 			"subclassSource": "PHB",
 			"level": 17,
 			"header": 2,
