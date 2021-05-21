@@ -223,8 +223,8 @@
 				},
 				{
 					"colLabels": [
-						"{@filter Cantrips Known|spells|level=0|class=Sorcerer V2}",
-						"{@filter Spells Known|spells|class=Sorcerer V2}"
+						"{@filter Cantrips Known|spells|level=0|class=Sorcerer}",
+						"{@filter Spells Known|spells|class=Sorcerer}"
 					],
 					"rows": [
 						[
@@ -312,15 +312,15 @@
 				{
 					"title": "Spell Slots per Spell Level",
 					"colLabels": [
-						"{@filter 1st|spells|level=1|class=Sorcerer V2}",
-						"{@filter 2nd|spells|level=2|class=Sorcerer V2}",
-						"{@filter 3rd|spells|level=3|class=Sorcerer V2}",
-						"{@filter 4th|spells|level=4|class=Sorcerer V2}",
-						"{@filter 5th|spells|level=5|class=Sorcerer V2}",
-						"{@filter 6th|spells|level=6|class=Sorcerer V2}",
-						"{@filter 7th|spells|level=7|class=Sorcerer V2}",
-						"{@filter 8th|spells|level=8|class=Sorcerer V2}",
-						"{@filter 9th|spells|level=9|class=Sorcerer V2}"
+						"{@filter 1st|spells|level=1|class=Sorcerer}",
+						"{@filter 2nd|spells|level=2|class=Sorcerer}",
+						"{@filter 3rd|spells|level=3|class=Sorcerer}",
+						"{@filter 4th|spells|level=4|class=Sorcerer}",
+						"{@filter 5th|spells|level=5|class=Sorcerer}",
+						"{@filter 6th|spells|level=6|class=Sorcerer}",
+						"{@filter 7th|spells|level=7|class=Sorcerer}",
+						"{@filter 8th|spells|level=8|class=Sorcerer}",
+						"{@filter 9th|spells|level=9|class=Sorcerer}"
 					],
 					"rows": [
 						[
@@ -547,59 +547,59 @@
 				}
 			],
 			"classFeatures": [
-				"Spellcasting|Sorcerer V2||1",
+				"Spellcasting|Sorcerer||1",
 				{
-					"classFeature": "Sorcerous Origin|Sorcerer V2||1",
+					"classFeature": "Sorcerous Origin|Sorcerer||1",
 					"gainSubclassFeature": true
 				},
-				"Spell Versatility|Sorcerer V2||1|UAClassFeatureVariants",
-				"Font of Magic|Sorcerer V2||2",
-				"Font of Magic Options|Sorcerer V2||2|UAClassFeatureVariants",
-				"Metamagic|Sorcerer V2||3",
+				"Spell Versatility|Sorcerer||1|UAClassFeatureVariants",
+				"Font of Magic|Sorcerer||2",
+				"Font of Magic Options|Sorcerer||2|UAClassFeatureVariants",
+				"Metamagic|Sorcerer||3",
 				"Proof of Ancestry V2|Sorcerer V2|DnD51Pitangueiras|3|DnD51Pitangueiras",
-				"Metamagic Options|Sorcerer V2||3|UAClassFeatureVariants",
-				"Metamagic Options|Sorcerer V2||3|TCE",
-				"Ability Score Improvement|Sorcerer V2||4",
-				"Proficiency Versatility|Sorcerer V2||4|UAClassFeatureVariants",
-				"Sorcerous Versatility|Sorcerer V2||4|TCE",
-				"Magical Guidance|Sorcerer V2||5|TCE",
+				"Metamagic Options|Sorcerer||3|UAClassFeatureVariants",
+				"Metamagic Options|Sorcerer||3|TCE",
+				"Ability Score Improvement|Sorcerer||4",
+				"Proficiency Versatility|Sorcerer||4|UAClassFeatureVariants",
+				"Sorcerous Versatility|Sorcerer||4|TCE",
+				"Magical Guidance|Sorcerer||5|TCE",
 				{
-					"classFeature": "Sorcerous Origin feature|Sorcerer V2||6",
+					"classFeature": "Sorcerous Origin feature|Sorcerer||6",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Sorcerer V2||8",
-				"Proficiency Versatility|Sorcerer V2||8|UAClassFeatureVariants",
+				"Ability Score Improvement|Sorcerer||8",
+				"Proficiency Versatility|Sorcerer||8|UAClassFeatureVariants",
 				"Sorcerous Restoration V2|Sorcerer V2|DnD51Pitangueiras|9",
-				"Metamagic|Sorcerer V2||10",
-				"Ability Score Improvement|Sorcerer V2||12",
-				"Proficiency Versatility|Sorcerer V2||12|UAClassFeatureVariants",
+				"Metamagic|Sorcerer||10",
+				"Ability Score Improvement|Sorcerer||12",
+				"Proficiency Versatility|Sorcerer||12|UAClassFeatureVariants",
 				{
-					"classFeature": "Sorcerous Origin feature|Sorcerer V2||14",
+					"classFeature": "Sorcerous Origin feature|Sorcerer||14",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Sorcerer V2||16",
-				"Proficiency Versatility|Sorcerer V2||16|UAClassFeatureVariants",
-				"Metamagic|Sorcerer V2||17",
+				"Ability Score Improvement|Sorcerer||16",
+				"Proficiency Versatility|Sorcerer||16|UAClassFeatureVariants",
+				"Metamagic|Sorcerer||17",
 				{
-					"classFeature": "Sorcerous Origin feature|Sorcerer V2||18",
+					"classFeature": "Sorcerous Origin feature|Sorcerer||18",
 					"gainSubclassFeature": true
 				},
 				"Sorcerous Restoration V2|Sorcerer V2|DnD51Pitangueiras|17",
-				"Ability Score Improvement|Sorcerer V2||19",
-				"Proficiency Versatility|Sorcerer V2||19|UAClassFeatureVariants",
+				"Ability Score Improvement|Sorcerer||19",
+				"Proficiency Versatility|Sorcerer||19|UAClassFeatureVariants",
 				"Sorcerous Restoration V2|Sorcerer V2|DnD51Pitangueiras|20"
 			],
 			"subclassTitle": "Sorcerous Origin",
 			"subclasses": [
 				{
-					"name": "Draconic Bloodline",
+					"name": "Draconic Bloodline V2",
 					"shortName": "Draconic V2",
 					"source": "DnD51Pitangueiras",
 					"page": 102,
 					"srd": true,
 					"subclassFeatures": [
-						"Draconic Bloodline|Sorcerer V2||Draconic V2||1",
-						"Elemental Affinity|Sorcerer V2||Draconic V2||6",
+						"Draconic Bloodline|Sorcerer||Draconic||1",
+						"Elemental Affinity|Sorcerer||Draconic||6",
 						"Dragon Wings V2|Sorcerer V2||Draconic V2|DnD51Pitangueiras|6",
 						"Draconic Presence V2|Sorcerer V2||Draconic V2|DnD51Pitangueiras|14",
 						"Breath of the Dictatress V2|Sorcerer V2||Draconic V2|DnD51Pitangueiras|18"
@@ -611,10 +611,10 @@
 					"source": "PHB",
 					"page": 103,
 					"subclassFeatures": [
-						"Wild Magic|Sorcerer V2||Wild||1",
-						"Bend Luck|Sorcerer V2||Wild||6",
-						"Controlled Chaos|Sorcerer V2||Wild||14",
-						"Spell Bombardment|Sorcerer V2||Wild||18"
+						"Wild Magic|Sorcerer||Wild||1",
+						"Bend Luck|Sorcerer||Wild||6",
+						"Controlled Chaos|Sorcerer||Wild||14",
+						"Spell Bombardment|Sorcerer||Wild||18"
 					]
 				},
 				{
@@ -624,10 +624,10 @@
 					"page": 8,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Favored Soul|Sorcerer V2||Favored Soul (UA)|UAModifyingClasses|1",
-						"Extra Attack|Sorcerer V2||Favored Soul (UA)|UAModifyingClasses|6",
-						"Divine Wings|Sorcerer V2||Favored Soul (UA)|UAModifyingClasses|14",
-						"Power of the Chosen|Sorcerer V2||Favored Soul (UA)|UAModifyingClasses|18"
+						"Favored Soul|Sorcerer||Favored Soul (UA)|UAModifyingClasses|1",
+						"Extra Attack|Sorcerer||Favored Soul (UA)|UAModifyingClasses|6",
+						"Divine Wings|Sorcerer||Favored Soul (UA)|UAModifyingClasses|14",
+						"Power of the Chosen|Sorcerer||Favored Soul (UA)|UAModifyingClasses|18"
 					]
 				},
 				{
@@ -662,11 +662,11 @@
 						}
 					],
 					"subclassFeatures": [
-						"Storm Sorcery|Sorcerer V2||Storm (UA)|UAWaterborneAdventures|1",
-						"Heart of the Storm|Sorcerer V2||Storm (UA)|UAWaterborneAdventures|6",
-						"Storm Guide|Sorcerer V2||Storm (UA)|UAWaterborneAdventures|6",
-						"Storm's Fury|Sorcerer V2||Storm (UA)|UAWaterborneAdventures|14",
-						"Wind Soul|Sorcerer V2||Storm (UA)|UAWaterborneAdventures|18"
+						"Storm Sorcery|Sorcerer||Storm (UA)|UAWaterborneAdventures|1",
+						"Heart of the Storm|Sorcerer||Storm (UA)|UAWaterborneAdventures|6",
+						"Storm Guide|Sorcerer||Storm (UA)|UAWaterborneAdventures|6",
+						"Storm's Fury|Sorcerer||Storm (UA)|UAWaterborneAdventures|14",
+						"Wind Soul|Sorcerer||Storm (UA)|UAWaterborneAdventures|18"
 					]
 				},
 				{
@@ -676,10 +676,10 @@
 					"page": 2,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Shadow|Sorcerer V2||Shadow (UA)|UALightDarkUnderdark|1",
-						"Hound of Ill Omen|Sorcerer V2||Shadow (UA)|UALightDarkUnderdark|6",
-						"Shadow Walk|Sorcerer V2||Shadow (UA)|UALightDarkUnderdark|14",
-						"Shadow Form|Sorcerer V2||Shadow (UA)|UALightDarkUnderdark|18"
+						"Shadow|Sorcerer||Shadow (UA)|UALightDarkUnderdark|1",
+						"Hound of Ill Omen|Sorcerer||Shadow (UA)|UALightDarkUnderdark|6",
+						"Shadow Walk|Sorcerer||Shadow (UA)|UALightDarkUnderdark|14",
+						"Shadow Form|Sorcerer||Shadow (UA)|UALightDarkUnderdark|18"
 					]
 				},
 				{
@@ -689,10 +689,10 @@
 					"page": 1,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Favored Soul v2|Sorcerer V2||Favored Soul v2 (UA)|UASorcerer|1",
-						"Blessed Countenance|Sorcerer V2||Favored Soul v2 (UA)|UASorcerer|6",
-						"Divine Purity|Sorcerer V2||Favored Soul v2 (UA)|UASorcerer|14",
-						"Unearthly Recovery|Sorcerer V2||Favored Soul v2 (UA)|UASorcerer|18"
+						"Favored Soul v2|Sorcerer||Favored Soul v2 (UA)|UASorcerer|1",
+						"Blessed Countenance|Sorcerer||Favored Soul v2 (UA)|UASorcerer|6",
+						"Divine Purity|Sorcerer||Favored Soul v2 (UA)|UASorcerer|14",
+						"Unearthly Recovery|Sorcerer||Favored Soul v2 (UA)|UASorcerer|18"
 					]
 				},
 				{
@@ -701,10 +701,10 @@
 					"source": "UASorcerer",
 					"page": 1,
 					"subclassFeatures": [
-						"Phoenix Sorcery (UA)|Sorcerer V2||Phoenix (UA)|UASorcerer|1",
-						"Phoenix Spark|Sorcerer V2||Phoenix (UA)|UASorcerer|6",
-						"Nourishing Fire|Sorcerer V2||Phoenix (UA)|UASorcerer|14",
-						"Form of the Phoenix|Sorcerer V2||Phoenix (UA)|UASorcerer|18"
+						"Phoenix Sorcery (UA)|Sorcerer||Phoenix (UA)|UASorcerer|1",
+						"Phoenix Spark|Sorcerer||Phoenix (UA)|UASorcerer|6",
+						"Nourishing Fire|Sorcerer||Phoenix (UA)|UASorcerer|14",
+						"Form of the Phoenix|Sorcerer||Phoenix (UA)|UASorcerer|18"
 					]
 				},
 				{
@@ -713,10 +713,10 @@
 					"source": "UASorcerer",
 					"page": 2,
 					"subclassFeatures": [
-						"Sea Sorcery (UA)|Sorcerer V2||Sea (UA)|UASorcerer|1",
-						"Watery Defense|Sorcerer V2||Sea (UA)|UASorcerer|6",
-						"Shifting Form|Sorcerer V2||Sea (UA)|UASorcerer|14",
-						"Water Soul|Sorcerer V2||Sea (UA)|UASorcerer|18"
+						"Sea Sorcery (UA)|Sorcerer||Sea (UA)|UASorcerer|1",
+						"Watery Defense|Sorcerer||Sea (UA)|UASorcerer|6",
+						"Shifting Form|Sorcerer||Sea (UA)|UASorcerer|14",
+						"Water Soul|Sorcerer||Sea (UA)|UASorcerer|18"
 					]
 				},
 				{
@@ -725,10 +725,10 @@
 					"source": "UASorcerer",
 					"page": 3,
 					"subclassFeatures": [
-						"Stone Sorcery (UA)|Sorcerer V2||Stone (UA)|UASorcerer|1",
-						"Stone Aegis|Sorcerer V2||Stone (UA)|UASorcerer|6",
-						"Stone's Edge|Sorcerer V2||Stone (UA)|UASorcerer|14",
-						"Earth Master's Aegis|Sorcerer V2||Stone (UA)|UASorcerer|18"
+						"Stone Sorcery (UA)|Sorcerer||Stone (UA)|UASorcerer|1",
+						"Stone Aegis|Sorcerer||Stone (UA)|UASorcerer|6",
+						"Stone's Edge|Sorcerer||Stone (UA)|UASorcerer|14",
+						"Earth Master's Aegis|Sorcerer||Stone (UA)|UASorcerer|18"
 					]
 				},
 				{
@@ -737,10 +737,10 @@
 					"source": "PSK",
 					"page": 9,
 					"subclassFeatures": [
-						"Pyromancer (PSK)|Sorcerer V2||Pyromancer (PSK)|PSK|1",
-						"Fire in the Veins|Sorcerer V2||Pyromancer (PSK)|PSK|6",
-						"Pyromancer's Fury|Sorcerer V2||Pyromancer (PSK)|PSK|14",
-						"Fiery Soul|Sorcerer V2||Pyromancer (PSK)|PSK|18"
+						"Pyromancer (PSK)|Sorcerer||Pyromancer (PSK)|PSK|1",
+						"Fire in the Veins|Sorcerer||Pyromancer (PSK)|PSK|6",
+						"Pyromancer's Fury|Sorcerer||Pyromancer (PSK)|PSK|14",
+						"Fiery Soul|Sorcerer||Pyromancer (PSK)|PSK|18"
 					]
 				},
 				{
@@ -750,10 +750,10 @@
 					"page": 5,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Favored Soul v3|Sorcerer V2||Favored Soul v3 (UA)|UARevisedSubclasses|1",
-						"Empowered Healing|Sorcerer V2||Favored Soul v3 (UA)|UARevisedSubclasses|6",
-						"Angelic Form|Sorcerer V2||Favored Soul v3 (UA)|UARevisedSubclasses|14",
-						"Unearthly Recovery|Sorcerer V2||Favored Soul v3 (UA)|UARevisedSubclasses|18"
+						"Favored Soul v3|Sorcerer||Favored Soul v3 (UA)|UARevisedSubclasses|1",
+						"Empowered Healing|Sorcerer||Favored Soul v3 (UA)|UARevisedSubclasses|6",
+						"Angelic Form|Sorcerer||Favored Soul v3 (UA)|UARevisedSubclasses|14",
+						"Unearthly Recovery|Sorcerer||Favored Soul v3 (UA)|UARevisedSubclasses|18"
 					]
 				},
 				{
@@ -799,10 +799,10 @@
 						}
 					],
 					"subclassFeatures": [
-						"Divine Soul|Sorcerer V2||Divine Soul|XGE|1",
-						"Empowered Healing|Sorcerer V2||Divine Soul|XGE|6",
-						"Otherworldly Wings|Sorcerer V2||Divine Soul|XGE|14",
-						"Unearthly Recovery|Sorcerer V2||Divine Soul|XGE|18"
+						"Divine Soul|Sorcerer||Divine Soul|XGE|1",
+						"Empowered Healing|Sorcerer||Divine Soul|XGE|6",
+						"Otherworldly Wings|Sorcerer||Divine Soul|XGE|14",
+						"Unearthly Recovery|Sorcerer||Divine Soul|XGE|18"
 					]
 				},
 				{
@@ -820,10 +820,10 @@
 						}
 					],
 					"subclassFeatures": [
-						"Shadow Magic|Sorcerer V2||Shadow|XGE|1",
-						"Hound of Ill Omen|Sorcerer V2||Shadow|XGE|6",
-						"Shadow Walk|Sorcerer V2||Shadow|XGE|14",
-						"Umbral Form|Sorcerer V2||Shadow|XGE|18"
+						"Shadow Magic|Sorcerer||Shadow|XGE|1",
+						"Hound of Ill Omen|Sorcerer||Shadow|XGE|6",
+						"Shadow Walk|Sorcerer||Shadow|XGE|14",
+						"Umbral Form|Sorcerer||Shadow|XGE|18"
 					]
 				},
 				{
@@ -838,11 +838,11 @@
 						}
 					],
 					"subclassFeatures": [
-						"Storm Sorcery|Sorcerer V2||Storm|XGE|1",
-						"Heart of the Storm|Sorcerer V2||Storm|XGE|6",
-						"Storm Guide|Sorcerer V2||Storm|XGE|6",
-						"Storm's Fury|Sorcerer V2||Storm|XGE|14",
-						"Wind Soul|Sorcerer V2||Storm|XGE|18"
+						"Storm Sorcery|Sorcerer||Storm|XGE|1",
+						"Heart of the Storm|Sorcerer||Storm|XGE|6",
+						"Storm Guide|Sorcerer||Storm|XGE|6",
+						"Storm's Fury|Sorcerer||Storm|XGE|14",
+						"Wind Soul|Sorcerer||Storm|XGE|18"
 					]
 				},
 				{
@@ -851,10 +851,10 @@
 					"source": "UAGiantSoulSorcerer",
 					"page": 1,
 					"subclassFeatures": [
-						"Giant Soul (UA)|Sorcerer V2||Giant Soul (UA)|UAGiantSoulSorcerer|1",
-						"Soul of Lost Ostoria|Sorcerer V2||Giant Soul (UA)|UAGiantSoulSorcerer|6",
-						"Rage of Fallen Ostoria|Sorcerer V2||Giant Soul (UA)|UAGiantSoulSorcerer|14",
-						"Blessing of the All Father|Sorcerer V2||Giant Soul (UA)|UAGiantSoulSorcerer|18"
+						"Giant Soul (UA)|Sorcerer||Giant Soul (UA)|UAGiantSoulSorcerer|1",
+						"Soul of Lost Ostoria|Sorcerer||Giant Soul (UA)|UAGiantSoulSorcerer|6",
+						"Rage of Fallen Ostoria|Sorcerer||Giant Soul (UA)|UAGiantSoulSorcerer|14",
+						"Blessing of the All Father|Sorcerer||Giant Soul (UA)|UAGiantSoulSorcerer|18"
 					]
 				},
 				{
@@ -890,11 +890,11 @@
 						}
 					],
 					"subclassFeatures": [
-						"Aberrant Mind|Sorcerer V2||Aberrant Mind (UA)|UASorcererAndWarlock|1",
-						"Psionic Sorcery|Sorcerer V2||Aberrant Mind (UA)|UASorcererAndWarlock|6",
-						"Psychic Defenses|Sorcerer V2||Aberrant Mind (UA)|UASorcererAndWarlock|6",
-						"Revelation in Flesh|Sorcerer V2||Aberrant Mind (UA)|UASorcererAndWarlock|14",
-						"Warp Reality|Sorcerer V2||Aberrant Mind (UA)|UASorcererAndWarlock|18"
+						"Aberrant Mind|Sorcerer||Aberrant Mind (UA)|UASorcererAndWarlock|1",
+						"Psionic Sorcery|Sorcerer||Aberrant Mind (UA)|UASorcererAndWarlock|6",
+						"Psychic Defenses|Sorcerer||Aberrant Mind (UA)|UASorcererAndWarlock|6",
+						"Revelation in Flesh|Sorcerer||Aberrant Mind (UA)|UASorcererAndWarlock|14",
+						"Warp Reality|Sorcerer||Aberrant Mind (UA)|UASorcererAndWarlock|18"
 					]
 				},
 				{
@@ -930,10 +930,10 @@
 						}
 					],
 					"subclassFeatures": [
-						"Clockwork Soul|Sorcerer V2||Clockwork Soul (UA)|UA2020SubclassesPt2|1",
-						"Bulwark of Law|Sorcerer V2||Clockwork Soul (UA)|UA2020SubclassesPt2|6",
-						"Trance of Order|Sorcerer V2||Clockwork Soul (UA)|UA2020SubclassesPt2|14",
-						"Clockwork Cavalcade|Sorcerer V2||Clockwork Soul (UA)|UA2020SubclassesPt2|18"
+						"Clockwork Soul|Sorcerer||Clockwork Soul (UA)|UA2020SubclassesPt2|1",
+						"Bulwark of Law|Sorcerer||Clockwork Soul (UA)|UA2020SubclassesPt2|6",
+						"Trance of Order|Sorcerer||Clockwork Soul (UA)|UA2020SubclassesPt2|14",
+						"Clockwork Cavalcade|Sorcerer||Clockwork Soul (UA)|UA2020SubclassesPt2|18"
 					]
 				},
 				{
@@ -943,10 +943,10 @@
 					"page": 5,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Psionic Soul|Sorcerer V2||Psionic Soul (UA)|UA2020PsionicOptionsRevisited|1",
-						"Psychic Strike|Sorcerer V2||Psionic Soul (UA)|UA2020PsionicOptionsRevisited|6",
-						"Mind Over Body|Sorcerer V2||Psionic Soul (UA)|UA2020PsionicOptionsRevisited|14",
-						"Psychic Aura|Sorcerer V2||Psionic Soul (UA)|UA2020PsionicOptionsRevisited|18"
+						"Psionic Soul|Sorcerer||Psionic Soul (UA)|UA2020PsionicOptionsRevisited|1",
+						"Psychic Strike|Sorcerer||Psionic Soul (UA)|UA2020PsionicOptionsRevisited|6",
+						"Mind Over Body|Sorcerer||Psionic Soul (UA)|UA2020PsionicOptionsRevisited|14",
+						"Psychic Aura|Sorcerer||Psionic Soul (UA)|UA2020PsionicOptionsRevisited|18"
 					]
 				},
 				{
@@ -982,11 +982,11 @@
 						}
 					],
 					"subclassFeatures": [
-						"Aberrant Mind|Sorcerer V2||Aberrant Mind|TCE|1",
-						"Psionic Sorcery|Sorcerer V2||Aberrant Mind|TCE|6",
-						"Psychic Defenses|Sorcerer V2||Aberrant Mind|TCE|6",
-						"Revelation in Flesh|Sorcerer V2||Aberrant Mind|TCE|14",
-						"Warping Implosion|Sorcerer V2||Aberrant Mind|TCE|18"
+						"Aberrant Mind|Sorcerer||Aberrant Mind|TCE|1",
+						"Psionic Sorcery|Sorcerer||Aberrant Mind|TCE|6",
+						"Psychic Defenses|Sorcerer||Aberrant Mind|TCE|6",
+						"Revelation in Flesh|Sorcerer||Aberrant Mind|TCE|14",
+						"Warping Implosion|Sorcerer||Aberrant Mind|TCE|18"
 					]
 				},
 				{
@@ -1021,16 +1021,16 @@
 						}
 					],
 					"subclassFeatures": [
-						"Clockwork Soul|Sorcerer V2||Clockwork Soul|TCE|1",
-						"Bastion of Law|Sorcerer V2||Clockwork Soul|TCE|6",
-						"Trance of Order|Sorcerer V2||Clockwork Soul|TCE|14",
-						"Clockwork Cavalcade|Sorcerer V2||Clockwork Soul|TCE|18"
+						"Clockwork Soul|Sorcerer||Clockwork Soul|TCE|1",
+						"Bastion of Law|Sorcerer||Clockwork Soul|TCE|6",
+						"Trance of Order|Sorcerer||Clockwork Soul|TCE|14",
+						"Clockwork Cavalcade|Sorcerer||Clockwork Soul|TCE|18"
 					]
 				}
 			],
 			"fluff": [
 				{
-					"name": "Sorcerer V2",
+					"name": "Sorcerer",
 					"type": "section",
 					"entries": [
 						"Golden eyes flashing, a human stretches out her hand and unleashes the dragonfire that burns in her veins. As an inferno rages around her foes, leathery wings spread from her back and she takes to the air.",
@@ -1056,7 +1056,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Creating a Sorcerer V2",
+							"name": "Creating a Sorcerer",
 							"entries": [
 								"The most important question to consider when creating your sorcerer is the origin of your power. As a starting character, you'll choose an origin that ties to a draconic bloodline or the influence of wild magic, but the exact source of your power is up to you to decide. Is it a family curse, passed down to you from distant ancestors? Or did some extraordinary event leave you blessed with inherent magic but perhaps scarred as well?",
 								"How do you feel about the magical power coursing through you? Do you embrace it, try to master it, or revel in its unpredictable nature? Is it a blessing or a curse? Did you seek it out, or did it find you? Did you have the option to refuse it, and do you wish you had? What do you intend to do with it? Perhaps you feel like you've been given this power for some lofty purpose. Or you might decide that the power gives you the right to do what you want, to take what you want from those who lack such power. Perhaps your power links you to a powerful individual in the world\u2014the fey creature that blessed you at birth, the dragon who put a drop of its blood into your veins, the lich who created you as an experiment, or the deity who chose you to carry this power.",
@@ -1403,7 +1403,7 @@
 			"source": "PHB",
 			"page": 99,
 			"srd": true,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 1,
 			"entries": [
@@ -1414,7 +1414,7 @@
 		{	"name": "Spell Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 10,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 1,
 			"isClassFeatureVariant": true,
@@ -1427,7 +1427,7 @@
 			"source": "PHB",
 			"page": 99,
 			"srd": true,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 1,
 			"entries": [
@@ -1443,7 +1443,7 @@
 					"type": "entries",
 					"name": "Spell Slots",
 					"entries": [
-						"The Sorcerer V2 table shows how many spell slots you have to cast your {@filter sorcerer spells|spells|class=sorcerer} of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
+						"The Sorcerer table shows how many spell slots you have to cast your {@filter sorcerer spells|spells|class=sorcerer} of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
 						"For example, if you know the 1st-level spell {@spell burning hands} and have a 1st-level and a 2nd-level spell slot available, you can cast {@spell burning hands} using either slot."
 					]
 				},
@@ -1490,7 +1490,7 @@
 			"source": "PHB",
 			"page": 99,
 			"srd": true,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 2,
 			"header": 1,
@@ -1550,7 +1550,7 @@
 			"source": "PHB",
 			"page": 99,
 			"srd": true,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 2,
 			"entries": [
@@ -1564,14 +1564,14 @@
 				},
 				{
 					"type": "refClassFeature",
-					"classFeature": "Flexible Casting|Sorcerer V2||2"
+					"classFeature": "Flexible Casting|Sorcerer||2"
 				}
 			]
 		},
 		{	"name": "Font of Magic Options",
 			"source": "UAClassFeatureVariants",
 			"page": 10,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 2,
 			"isClassFeatureVariant": true,
@@ -1580,15 +1580,15 @@
 				"When you gain the Font of Magic feature, you get access to the following ways to spend your sorcery points.",
 				{
 					"type": "refClassFeature",
-					"classFeature": "Empowering Reserves|Sorcerer V2|UAClassFeatureVariants|2"
+					"classFeature": "Empowering Reserves|Sorcerer|UAClassFeatureVariants|2"
 				},
 				{
 					"type": "refClassFeature",
-					"classFeature": "Imbuing Touch|Sorcerer V2|UAClassFeatureVariants|2"
+					"classFeature": "Imbuing Touch|Sorcerer|UAClassFeatureVariants|2"
 				},
 				{
 					"type": "refClassFeature",
-					"classFeature": "Sorcerous Fortitude|Sorcerer V2|UAClassFeatureVariants|2"
+					"classFeature": "Sorcerous Fortitude|Sorcerer|UAClassFeatureVariants|2"
 				}
 			]
 		},
@@ -1596,7 +1596,7 @@
 			"source": "PHB",
 			"page": 99,
 			"srd": true,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 3,
 			"entries": [
@@ -1656,7 +1656,7 @@
 		{	"name": "Metamagic Options",
 			"source": "TCE",
 			"page": 65,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 3,
 			"isClassFeatureVariant": true,
@@ -1681,7 +1681,7 @@
 		{	"name": "Metamagic Options",
 			"source": "UAClassFeatureVariants",
 			"page": 10,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 3,
 			"isClassFeatureVariant": true,
@@ -1711,7 +1711,7 @@
 			"source": "PHB",
 			"page": 99,
 			"srd": true,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 4,
 			"entries": [
@@ -1722,7 +1722,7 @@
 		{	"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 4,
 			"isClassFeatureVariant": true,
@@ -1746,7 +1746,7 @@
 		{	"name": "Sorcerous Versatility",
 			"source": "TCE",
 			"page": 65,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 4,
 			"isClassFeatureVariant": true,
@@ -1757,7 +1757,7 @@
 					"type": "list",
 					"items": [
 						"Replace one of the options you chose for the Metamagic feature with a different {@filter Metamagic option|optionalfeatures|Feature Type=MM} available to you.",
-						"Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the {@filter sorcerer spell list|spells|level=0|class=Sorcerer V2}."
+						"Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the {@filter sorcerer spell list|spells|level=0|class=Sorcerer}."
 					]
 				}
 			]
@@ -1765,7 +1765,7 @@
 		{	"name": "Magical Guidance",
 			"source": "TCE",
 			"page": 65,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 5,
 			"isClassFeatureVariant": true,
@@ -1778,7 +1778,7 @@
 			"source": "PHB",
 			"page": 99,
 			"srd": true,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 6,
 			"entries": [
@@ -1789,7 +1789,7 @@
 			"source": "PHB",
 			"page": 99,
 			"srd": true,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 8,
 			"entries": [
@@ -1800,7 +1800,7 @@
 		{	"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 8,
 			"isClassFeatureVariant": true,
@@ -1814,7 +1814,7 @@
 			"source": "PHB",
 			"page": 99,
 			"srd": true,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 10,
 			"entries": [
@@ -1825,7 +1825,7 @@
 			"source": "PHB",
 			"page": 99,
 			"srd": true,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 12,
 			"entries": [
@@ -1836,7 +1836,7 @@
 		{	"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 12,
 			"isClassFeatureVariant": true,
@@ -1850,7 +1850,7 @@
 			"source": "PHB",
 			"page": 99,
 			"srd": true,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 14,
 			"entries": [
@@ -1861,7 +1861,7 @@
 			"source": "PHB",
 			"page": 99,
 			"srd": true,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 16,
 			"entries": [
@@ -1872,7 +1872,7 @@
 		{	"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 16,
 			"isClassFeatureVariant": true,
@@ -1886,7 +1886,7 @@
 			"source": "PHB",
 			"page": 99,
 			"srd": true,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 17,
 			"entries": [
@@ -1908,7 +1908,7 @@
 			"source": "PHB",
 			"page": 99,
 			"srd": true,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 18,
 			"entries": [
@@ -1919,7 +1919,7 @@
 			"source": "PHB",
 			"page": 99,
 			"srd": true,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 19,
 			"entries": [
@@ -1930,7 +1930,7 @@
 		{	"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"level": 19,
 			"isClassFeatureVariant": true,
@@ -1954,7 +1954,7 @@
 		{	"name": "Empowering Reserves",
 			"source": "UAClassFeatureVariants",
 			"page": 10,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "UAClassFeatureVariants",
 			"level": 2,
 			"isClassFeatureVariant": true,
@@ -1965,7 +1965,7 @@
 		{	"name": "Imbuing Touch",
 			"source": "UAClassFeatureVariants",
 			"page": 10,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "UAClassFeatureVariants",
 			"level": 2,
 			"isClassFeatureVariant": true,
@@ -1976,7 +1976,7 @@
 		{	"name": "Sorcerous Fortitude",
 			"source": "UAClassFeatureVariants",
 			"page": 10,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "UAClassFeatureVariants",
 			"level": 2,
 			"isClassFeatureVariant": true,
@@ -1990,20 +1990,20 @@
 			"source": "PHB",
 			"page": 102,
 			"srd": true,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
-			"subclassShortName": "Draconic V2",
+			"subclassShortName": "Draconic",
 			"subclassSource": "PHB",
 			"level": 1,
 			"entries": [
 				"Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Dragon Ancestor|Sorcerer V2||Draconic V2||1"
+					"subclassFeature": "Dragon Ancestor|Sorcerer||Draconic||1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Draconic Resilience|Sorcerer V2||Draconic V2||1"
+					"subclassFeature": "Draconic Resilience|Sorcerer||Draconic||1"
 				}
 			]
 		},
@@ -2011,9 +2011,9 @@
 			"source": "PHB",
 			"page": 102,
 			"srd": true,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
-			"subclassShortName": "Draconic V2",
+			"subclassShortName": "Draconic",
 			"subclassSource": "PHB",
 			"level": 1,
 			"header": 1,
@@ -2026,9 +2026,9 @@
 			"source": "PHB",
 			"page": 102,
 			"srd": true,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
-			"subclassShortName": "Draconic V2",
+			"subclassShortName": "Draconic",
 			"subclassSource": "PHB",
 			"level": 1,
 			"header": 1,
@@ -2095,9 +2095,9 @@
 			"source": "PHB",
 			"page": 102,
 			"srd": true,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
-			"subclassShortName": "Draconic V2",
+			"subclassShortName": "Draconic",
 			"subclassSource": "PHB",
 			"level": 6,
 			"header": 2,
@@ -2151,7 +2151,7 @@
 		{	"name": "Wild Magic",
 			"source": "PHB",
 			"page": 103,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Wild",
 			"subclassSource": "PHB",
@@ -2160,18 +2160,18 @@
 				"Your innate magic comes from the wild forces of chaos that underlie the order of creation. You might have endured exposure to some form of raw magic, perhaps through a planar portal leading to Limbo, the Elemental Planes, or the mysterious Far Realm. Perhaps you were blessed by a powerful fey creature or marked by a demon. Or your magic could be a fluke of your birth, with no apparent cause or reason. However it came to be, this chaotic magic churns within you, waiting for any outlet.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Wild Magic Surge|Sorcerer V2||Wild||1"
+					"subclassFeature": "Wild Magic Surge|Sorcerer||Wild||1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Tides of Chaos|Sorcerer V2||Wild||1"
+					"subclassFeature": "Tides of Chaos|Sorcerer||Wild||1"
 				}
 			]
 		},
 		{	"name": "Tides of Chaos",
 			"source": "PHB",
 			"page": 103,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Wild",
 			"subclassSource": "PHB",
@@ -2185,7 +2185,7 @@
 		{	"name": "Wild Magic Surge",
 			"source": "PHB",
 			"page": 103,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Wild",
 			"subclassSource": "PHB",
@@ -2416,7 +2416,7 @@
 		{	"name": "Bend Luck",
 			"source": "PHB",
 			"page": 103,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Wild",
 			"subclassSource": "PHB",
@@ -2429,7 +2429,7 @@
 		{	"name": "Controlled Chaos",
 			"source": "PHB",
 			"page": 103,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Wild",
 			"subclassSource": "PHB",
@@ -2442,7 +2442,7 @@
 		{	"name": "Spell Bombardment",
 			"source": "PHB",
 			"page": 103,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Wild",
 			"subclassSource": "PHB",
@@ -2455,7 +2455,7 @@
 		{	"name": "Pyromancer (PSK)",
 			"source": "PSK",
 			"page": 9,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Pyromancer (PSK)",
 			"subclassSource": "PSK",
@@ -2464,14 +2464,14 @@
 				"Your innate magic manifests in fire. You are your fire, and your fire is you.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Heart of Fire|Sorcerer V2||Pyromancer (PSK)|PSK|1"
+					"subclassFeature": "Heart of Fire|Sorcerer||Pyromancer (PSK)|PSK|1"
 				}
 			]
 		},
 		{	"name": "Heart of Fire",
 			"source": "PSK",
 			"page": 9,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Pyromancer (PSK)",
 			"subclassSource": "PSK",
@@ -2484,7 +2484,7 @@
 		{	"name": "Fire in the Veins",
 			"source": "PSK",
 			"page": 9,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Pyromancer (PSK)",
 			"subclassSource": "PSK",
@@ -2497,7 +2497,7 @@
 		{	"name": "Pyromancer's Fury",
 			"source": "PSK",
 			"page": 9,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Pyromancer (PSK)",
 			"subclassSource": "PSK",
@@ -2510,7 +2510,7 @@
 		{	"name": "Fiery Soul",
 			"source": "PSK",
 			"page": 9,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Pyromancer (PSK)",
 			"subclassSource": "PSK",
@@ -2523,7 +2523,7 @@
 		{	"name": "Aberrant Mind",
 			"source": "TCE",
 			"page": 66,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Aberrant Mind",
 			"subclassSource": "TCE",
@@ -2571,18 +2571,18 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psionic Spells|Sorcerer V2||Aberrant Mind|TCE|1"
+					"subclassFeature": "Psionic Spells|Sorcerer||Aberrant Mind|TCE|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Telepathic Speech|Sorcerer V2||Aberrant Mind|TCE|1"
+					"subclassFeature": "Telepathic Speech|Sorcerer||Aberrant Mind|TCE|1"
 				}
 			]
 		},
 		{	"name": "Psionic Spells",
 			"source": "TCE",
 			"page": 66,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Aberrant Mind",
 			"subclassSource": "TCE",
@@ -2596,7 +2596,7 @@
 					"type": "table",
 					"caption": "Psionic Spells",
 					"colLabels": [
-						"Sorcerer V2 Level",
+						"Sorcerer Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -2631,7 +2631,7 @@
 		{	"name": "Telepathic Speech",
 			"source": "TCE",
 			"page": 66,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Aberrant Mind",
 			"subclassSource": "TCE",
@@ -2646,7 +2646,7 @@
 		{	"name": "Psionic Sorcery",
 			"source": "TCE",
 			"page": 66,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Aberrant Mind",
 			"subclassSource": "TCE",
@@ -2661,7 +2661,7 @@
 		{	"name": "Psychic Defenses",
 			"source": "TCE",
 			"page": 66,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Aberrant Mind",
 			"subclassSource": "TCE",
@@ -2675,7 +2675,7 @@
 		{	"name": "Revelation in Flesh",
 			"source": "TCE",
 			"page": 66,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Aberrant Mind",
 			"subclassSource": "TCE",
@@ -2698,7 +2698,7 @@
 		{	"name": "Warping Implosion",
 			"source": "TCE",
 			"page": 66,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Aberrant Mind",
 			"subclassSource": "TCE",
@@ -2713,7 +2713,7 @@
 		{	"name": "Clockwork Soul",
 			"source": "TCE",
 			"page": 68,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Clockwork Soul",
 			"subclassSource": "TCE",
@@ -2722,18 +2722,18 @@
 				"The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it-a plane of existence shaped entirely by clockwork efficiency. You, or someone from your lineage, might have become entangled in the machinations of the modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. Whatever its origin within you, the power of order can seem strange to others, but for you, it is part of a vast and glorious system.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Clockwork Magic|Sorcerer V2||Clockwork Soul|TCE|1"
+					"subclassFeature": "Clockwork Magic|Sorcerer||Clockwork Soul|TCE|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Restore Balance|Sorcerer V2||Clockwork Soul|TCE|1"
+					"subclassFeature": "Restore Balance|Sorcerer||Clockwork Soul|TCE|1"
 				}
 			]
 		},
 		{	"name": "Clockwork Magic",
 			"source": "TCE",
 			"page": 68,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Clockwork Soul",
 			"subclassSource": "TCE",
@@ -2747,7 +2747,7 @@
 					"type": "table",
 					"caption": "Clockwork Spells",
 					"colLabels": [
-						"Sorcerer V2 Level",
+						"Sorcerer Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -2821,7 +2821,7 @@
 		{	"name": "Restore Balance",
 			"source": "TCE",
 			"page": 68,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Clockwork Soul",
 			"subclassSource": "TCE",
@@ -2836,7 +2836,7 @@
 		{	"name": "Bastion of Law",
 			"source": "TCE",
 			"page": 68,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Clockwork Soul",
 			"subclassSource": "TCE",
@@ -2851,7 +2851,7 @@
 		{	"name": "Trance of Order",
 			"source": "TCE",
 			"page": 68,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Clockwork Soul",
 			"subclassSource": "TCE",
@@ -2866,7 +2866,7 @@
 		{	"name": "Clockwork Cavalcade",
 			"source": "TCE",
 			"page": 68,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Clockwork Soul",
 			"subclassSource": "TCE",
@@ -2889,7 +2889,7 @@
 		{	"name": "Psionic Soul",
 			"source": "UA2020PsionicOptionsRevisited",
 			"page": 5,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Psionic Soul (UA)",
 			"subclassSource": "UA2020PsionicOptionsRevisited",
@@ -2954,14 +2954,14 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psionic Talent|Sorcerer V2||Psionic Soul (UA)|UA2020PsionicOptionsRevisited|1"
+					"subclassFeature": "Psionic Talent|Sorcerer||Psionic Soul (UA)|UA2020PsionicOptionsRevisited|1"
 				}
 			]
 		},
 		{	"name": "Psionic Talent",
 			"source": "UA2020PsionicOptionsRevisited",
 			"page": 5,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Psionic Soul (UA)",
 			"subclassSource": "UA2020PsionicOptionsRevisited",
@@ -3019,7 +3019,7 @@
 		{	"name": "Psychic Strike",
 			"source": "UA2020PsionicOptionsRevisited",
 			"page": 5,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Psionic Soul (UA)",
 			"subclassSource": "UA2020PsionicOptionsRevisited",
@@ -3033,7 +3033,7 @@
 		{	"name": "Mind Over Body",
 			"source": "UA2020PsionicOptionsRevisited",
 			"page": 5,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Psionic Soul (UA)",
 			"subclassSource": "UA2020PsionicOptionsRevisited",
@@ -3056,7 +3056,7 @@
 		{	"name": "Psychic Aura",
 			"source": "UA2020PsionicOptionsRevisited",
 			"page": 5,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Psionic Soul (UA)",
 			"subclassSource": "UA2020PsionicOptionsRevisited",
@@ -3071,7 +3071,7 @@
 		{	"name": "Clockwork Soul",
 			"source": "UA2020SubclassesPt2",
 			"page": 4,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Clockwork Soul (UA)",
 			"subclassSource": "UA2020SubclassesPt2",
@@ -3119,18 +3119,18 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Clockwork Magic|Sorcerer V2||Clockwork Soul (UA)|UA2020SubclassesPt2|1"
+					"subclassFeature": "Clockwork Magic|Sorcerer||Clockwork Soul (UA)|UA2020SubclassesPt2|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Restore Balance|Sorcerer V2||Clockwork Soul (UA)|UA2020SubclassesPt2|1"
+					"subclassFeature": "Restore Balance|Sorcerer||Clockwork Soul (UA)|UA2020SubclassesPt2|1"
 				}
 			]
 		},
 		{	"name": "Clockwork Magic",
 			"source": "UA2020SubclassesPt2",
 			"page": 4,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Clockwork Soul (UA)",
 			"subclassSource": "UA2020SubclassesPt2",
@@ -3143,7 +3143,7 @@
 					"type": "table",
 					"caption": "Clockwork Spells",
 					"colLabels": [
-						"Sorcerer V2 Level",
+						"Sorcerer Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -3178,7 +3178,7 @@
 		{	"name": "Restore Balance",
 			"source": "UA2020SubclassesPt2",
 			"page": 4,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Clockwork Soul (UA)",
 			"subclassSource": "UA2020SubclassesPt2",
@@ -3193,7 +3193,7 @@
 		{	"name": "Bulwark of Law",
 			"source": "UA2020SubclassesPt2",
 			"page": 4,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Clockwork Soul (UA)",
 			"subclassSource": "UA2020SubclassesPt2",
@@ -3208,7 +3208,7 @@
 		{	"name": "Trance of Order",
 			"source": "UA2020SubclassesPt2",
 			"page": 4,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Clockwork Soul (UA)",
 			"subclassSource": "UA2020SubclassesPt2",
@@ -3223,7 +3223,7 @@
 		{	"name": "Clockwork Cavalcade",
 			"source": "UA2020SubclassesPt2",
 			"page": 4,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Clockwork Soul (UA)",
 			"subclassSource": "UA2020SubclassesPt2",
@@ -3246,7 +3246,7 @@
 		{	"name": "Giant Soul (UA)",
 			"source": "UAGiantSoulSorcerer",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Giant Soul (UA)",
 			"subclassSource": "UAGiantSoulSorcerer",
@@ -3255,18 +3255,18 @@
 				"The giants once dwelled in a fabled realm known as Ostoria, a paradise for their folk that reflected their mastery of the mortal realm. In time, Ostoria fell, and the giants were scattered and broken. During that mythic era, the giants granted a few chosen individuals among the small folk a shard of their great power. These favored people were caught in the same tragedy that sundered Ostoria. Since that time, they have spread across the many worlds of the multiverse. Now and again, one of their descendants manifests the gifts imparted by the giants, granting them sorcerous magic that allows them to command the elements and gain the might of a giant.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Jotun Resilience|Sorcerer V2||Giant Soul (UA)|UAGiantSoulSorcerer|1"
+					"subclassFeature": "Jotun Resilience|Sorcerer||Giant Soul (UA)|UAGiantSoulSorcerer|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Mark of the Ordning|Sorcerer V2||Giant Soul (UA)|UAGiantSoulSorcerer|1"
+					"subclassFeature": "Mark of the Ordning|Sorcerer||Giant Soul (UA)|UAGiantSoulSorcerer|1"
 				}
 			]
 		},
 		{	"name": "Jotun Resilience",
 			"source": "UAGiantSoulSorcerer",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Giant Soul (UA)",
 			"subclassSource": "UAGiantSoulSorcerer",
@@ -3279,7 +3279,7 @@
 		{	"name": "Mark of the Ordning",
 			"source": "UAGiantSoulSorcerer",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Giant Soul (UA)",
 			"subclassSource": "UAGiantSoulSorcerer",
@@ -3337,7 +3337,7 @@
 		{	"name": "Soul of Lost Ostoria",
 			"source": "UAGiantSoulSorcerer",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Giant Soul (UA)",
 			"subclassSource": "UAGiantSoulSorcerer",
@@ -3392,7 +3392,7 @@
 		{	"name": "Rage of Fallen Ostoria",
 			"source": "UAGiantSoulSorcerer",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Giant Soul (UA)",
 			"subclassSource": "UAGiantSoulSorcerer",
@@ -3417,7 +3417,7 @@
 		{	"name": "Blessing of the All Father",
 			"source": "UAGiantSoulSorcerer",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Giant Soul (UA)",
 			"subclassSource": "UAGiantSoulSorcerer",
@@ -3431,7 +3431,7 @@
 		{	"name": "Shadow",
 			"source": "UALightDarkUnderdark",
 			"page": 2,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Shadow (UA)",
 			"subclassSource": "UALightDarkUnderdark",
@@ -3441,7 +3441,7 @@
 				"The power of shadow magic casts a strange pall over your physical presence. The spark of life that sustains you is muffled, as if it struggles to remain viable against the dark energy that imbues your soul. At your option, you can pick from or roll on the following table to create a unique quirk for your character.",
 				{
 					"type": "table",
-					"caption": "Shadow Sorcerer V2 Quirks",
+					"caption": "Shadow Sorcerer Quirks",
 					"colLabels": [
 						"d6",
 						"Quirk"
@@ -3479,18 +3479,18 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Eyes of the Dark|Sorcerer V2||Shadow (UA)|UALightDarkUnderdark|1"
+					"subclassFeature": "Eyes of the Dark|Sorcerer||Shadow (UA)|UALightDarkUnderdark|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Strength of the Grave|Sorcerer V2||Shadow (UA)|UALightDarkUnderdark|1"
+					"subclassFeature": "Strength of the Grave|Sorcerer||Shadow (UA)|UALightDarkUnderdark|1"
 				}
 			]
 		},
 		{	"name": "Eyes of the Dark",
 			"source": "UALightDarkUnderdark",
 			"page": 2,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Shadow (UA)",
 			"subclassSource": "UALightDarkUnderdark",
@@ -3503,7 +3503,7 @@
 		{	"name": "Strength of the Grave",
 			"source": "UALightDarkUnderdark",
 			"page": 2,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Shadow (UA)",
 			"subclassSource": "UALightDarkUnderdark",
@@ -3516,7 +3516,7 @@
 		{	"name": "Hound of Ill Omen",
 			"source": "UALightDarkUnderdark",
 			"page": 2,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Shadow (UA)",
 			"subclassSource": "UALightDarkUnderdark",
@@ -3538,7 +3538,7 @@
 		{	"name": "Shadow Walk",
 			"source": "UALightDarkUnderdark",
 			"page": 2,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Shadow (UA)",
 			"subclassSource": "UALightDarkUnderdark",
@@ -3551,7 +3551,7 @@
 		{	"name": "Shadow Form",
 			"source": "UALightDarkUnderdark",
 			"page": 2,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Shadow (UA)",
 			"subclassSource": "UALightDarkUnderdark",
@@ -3564,7 +3564,7 @@
 		{	"name": "Favored Soul",
 			"source": "UAModifyingClasses",
 			"page": 8,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Favored Soul (UA)",
 			"subclassSource": "UAModifyingClasses",
@@ -3573,18 +3573,18 @@
 				"You have been chosen by a deity, and bestowed with a fragment of their divine power. You have been fundamentally changed by the touch of this deity, which awakens powerful magical abilities inside you.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiency|Sorcerer V2||Favored Soul (UA)|UAModifyingClasses|1"
+					"subclassFeature": "Bonus Proficiency|Sorcerer||Favored Soul (UA)|UAModifyingClasses|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Chosen of the Gods|Sorcerer V2||Favored Soul (UA)|UAModifyingClasses|1"
+					"subclassFeature": "Chosen of the Gods|Sorcerer||Favored Soul (UA)|UAModifyingClasses|1"
 				}
 			]
 		},
 		{	"name": "Bonus Proficiency",
 			"source": "UAModifyingClasses",
 			"page": 8,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Favored Soul (UA)",
 			"subclassSource": "UAModifyingClasses",
@@ -3597,7 +3597,7 @@
 		{	"name": "Chosen of the Gods",
 			"source": "UAModifyingClasses",
 			"page": 8,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Favored Soul (UA)",
 			"subclassSource": "UAModifyingClasses",
@@ -3610,7 +3610,7 @@
 		{	"name": "Extra Attack",
 			"source": "UAModifyingClasses",
 			"page": 8,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Favored Soul (UA)",
 			"subclassSource": "UAModifyingClasses",
@@ -3623,7 +3623,7 @@
 		{	"name": "Divine Wings",
 			"source": "UAModifyingClasses",
 			"page": 8,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Favored Soul (UA)",
 			"subclassSource": "UAModifyingClasses",
@@ -3637,7 +3637,7 @@
 		{	"name": "Power of the Chosen",
 			"source": "UAModifyingClasses",
 			"page": 8,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Favored Soul (UA)",
 			"subclassSource": "UAModifyingClasses",
@@ -3650,7 +3650,7 @@
 		{	"name": "Favored Soul v3",
 			"source": "UARevisedSubclasses",
 			"page": 5,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Favored Soul v3 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -3661,18 +3661,18 @@
 				"In some cultures, only those who can claim the power of a favored soul may command religious power. In these lands, ecclesiastical positions are dominated by a few bloodlines and preserved over generations.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Divine Magic|Sorcerer V2||Favored Soul v3 (UA)|UARevisedSubclasses|1"
+					"subclassFeature": "Divine Magic|Sorcerer||Favored Soul v3 (UA)|UARevisedSubclasses|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Favored by the Gods|Sorcerer V2||Favored Soul v3 (UA)|UARevisedSubclasses|1"
+					"subclassFeature": "Favored by the Gods|Sorcerer||Favored Soul v3 (UA)|UARevisedSubclasses|1"
 				}
 			]
 		},
 		{	"name": "Divine Magic",
 			"source": "UARevisedSubclasses",
 			"page": 5,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Favored Soul v3 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -3686,7 +3686,7 @@
 		{	"name": "Favored by the Gods",
 			"source": "UARevisedSubclasses",
 			"page": 5,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Favored Soul v3 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -3700,7 +3700,7 @@
 		{	"name": "Empowered Healing",
 			"source": "UARevisedSubclasses",
 			"page": 5,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Favored Soul v3 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -3713,7 +3713,7 @@
 		{	"name": "Angelic Form",
 			"source": "UARevisedSubclasses",
 			"page": 5,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Favored Soul v3 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -3727,7 +3727,7 @@
 		{	"name": "Unearthly Recovery",
 			"source": "UARevisedSubclasses",
 			"page": 5,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Favored Soul v3 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -3741,7 +3741,7 @@
 		{	"name": "Favored Soul v2",
 			"source": "UASorcerer",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Favored Soul v2 (UA)",
 			"subclassSource": "UASorcerer",
@@ -3752,22 +3752,22 @@
 				"In some cultures, only those who can claim the power of a favored soul may command religious power. In these lands, ecclesiastical positions are dominated by a few bloodlines and preserved over generations.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Divine Magic|Sorcerer V2||Favored Soul v2 (UA)|UASorcerer|1"
+					"subclassFeature": "Divine Magic|Sorcerer||Favored Soul v2 (UA)|UASorcerer|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Supernatural Resilience|Sorcerer V2||Favored Soul v2 (UA)|UASorcerer|1"
+					"subclassFeature": "Supernatural Resilience|Sorcerer||Favored Soul v2 (UA)|UASorcerer|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Favored by the Gods|Sorcerer V2||Favored Soul v2 (UA)|UASorcerer|1"
+					"subclassFeature": "Favored by the Gods|Sorcerer||Favored Soul v2 (UA)|UASorcerer|1"
 				}
 			]
 		},
 		{	"name": "Divine Magic",
 			"source": "UASorcerer",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Favored Soul v2 (UA)",
 			"subclassSource": "UASorcerer",
@@ -3780,7 +3780,7 @@
 		{	"name": "Favored by the Gods",
 			"source": "UASorcerer",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Favored Soul v2 (UA)",
 			"subclassSource": "UASorcerer",
@@ -3794,7 +3794,7 @@
 		{	"name": "Supernatural Resilience",
 			"source": "UASorcerer",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Favored Soul v2 (UA)",
 			"subclassSource": "UASorcerer",
@@ -3807,7 +3807,7 @@
 		{	"name": "Blessed Countenance",
 			"source": "UASorcerer",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Favored Soul v2 (UA)",
 			"subclassSource": "UASorcerer",
@@ -3821,7 +3821,7 @@
 		{	"name": "Divine Purity",
 			"source": "UASorcerer",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Favored Soul v2 (UA)",
 			"subclassSource": "UASorcerer",
@@ -3834,7 +3834,7 @@
 		{	"name": "Unearthly Recovery",
 			"source": "UASorcerer",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Favored Soul v2 (UA)",
 			"subclassSource": "UASorcerer",
@@ -3848,7 +3848,7 @@
 		{	"name": "Phoenix Sorcery (UA)",
 			"source": "UASorcerer",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Phoenix (UA)",
 			"subclassSource": "UASorcerer",
@@ -3898,18 +3898,18 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Ignite|Sorcerer V2||Phoenix (UA)|UASorcerer|1"
+					"subclassFeature": "Ignite|Sorcerer||Phoenix (UA)|UASorcerer|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Mantle of Flame|Sorcerer V2||Phoenix (UA)|UASorcerer|1"
+					"subclassFeature": "Mantle of Flame|Sorcerer||Phoenix (UA)|UASorcerer|1"
 				}
 			]
 		},
 		{	"name": "Ignite",
 			"source": "UASorcerer",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Phoenix (UA)",
 			"subclassSource": "UASorcerer",
@@ -3922,7 +3922,7 @@
 		{	"name": "Mantle of Flame",
 			"source": "UASorcerer",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Phoenix (UA)",
 			"subclassSource": "UASorcerer",
@@ -3945,7 +3945,7 @@
 		{	"name": "Phoenix Spark",
 			"source": "UASorcerer",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Phoenix (UA)",
 			"subclassSource": "UASorcerer",
@@ -3961,7 +3961,7 @@
 		{	"name": "Nourishing Fire",
 			"source": "UASorcerer",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Phoenix (UA)",
 			"subclassSource": "UASorcerer",
@@ -3974,7 +3974,7 @@
 		{	"name": "Form of the Phoenix",
 			"source": "UASorcerer",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Phoenix (UA)",
 			"subclassSource": "UASorcerer",
@@ -3995,7 +3995,7 @@
 		{	"name": "Sea Sorcery (UA)",
 			"source": "UASorcerer",
 			"page": 2,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Sea (UA)",
 			"subclassSource": "UASorcerer",
@@ -4005,18 +4005,18 @@
 				"Your heritage ties to powerful creatures of the sea, such as nereids, the lords of the merfolk, and elemental powers. Like a river, you feel the call of the ocean. The call is ever present in your heart, and you are never completely at peace until you are near the sea.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Soul of the Sea|Sorcerer V2||Sea (UA)|UASorcerer|1"
+					"subclassFeature": "Soul of the Sea|Sorcerer||Sea (UA)|UASorcerer|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Curse of the Sea|Sorcerer V2||Sea (UA)|UASorcerer|1"
+					"subclassFeature": "Curse of the Sea|Sorcerer||Sea (UA)|UASorcerer|1"
 				}
 			]
 		},
 		{	"name": "Curse of the Sea",
 			"source": "UASorcerer",
 			"page": 2,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Sea (UA)",
 			"subclassSource": "UASorcerer",
@@ -4057,7 +4057,7 @@
 		{	"name": "Soul of the Sea",
 			"source": "UASorcerer",
 			"page": 2,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Sea (UA)",
 			"subclassSource": "UASorcerer",
@@ -4070,7 +4070,7 @@
 		{	"name": "Watery Defense",
 			"source": "UASorcerer",
 			"page": 2,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Sea (UA)",
 			"subclassSource": "UASorcerer",
@@ -4084,7 +4084,7 @@
 		{	"name": "Shifting Form",
 			"source": "UASorcerer",
 			"page": 2,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Sea (UA)",
 			"subclassSource": "UASorcerer",
@@ -4099,7 +4099,7 @@
 		{	"name": "Water Soul",
 			"source": "UASorcerer",
 			"page": 2,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Sea (UA)",
 			"subclassSource": "UASorcerer",
@@ -4120,7 +4120,7 @@
 		{	"name": "Stone Sorcery (UA)",
 			"source": "UASorcerer",
 			"page": 3,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Stone (UA)",
 			"subclassSource": "UASorcerer",
@@ -4130,22 +4130,22 @@
 				"Your link to earth magic grants you extraordinary resilience, and stone sorcerers have a natural affinity for combat. A steel blade feels like a natural extension of your body, and sorcerers with this origin have a knack for wielding both shields and weapons. In combat your place is amid the fray. You rely on your elemental nature to shield you from harm and your magic and metal weapons to overwhelm your foes.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiencies|Sorcerer V2||Stone (UA)|UASorcerer|1"
+					"subclassFeature": "Bonus Proficiencies|Sorcerer||Stone (UA)|UASorcerer|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Stone: Metal Magic|Sorcerer V2||Stone (UA)|UASorcerer|1"
+					"subclassFeature": "Stone: Metal Magic|Sorcerer||Stone (UA)|UASorcerer|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Stone's Durability|Sorcerer V2||Stone (UA)|UASorcerer|1"
+					"subclassFeature": "Stone's Durability|Sorcerer||Stone (UA)|UASorcerer|1"
 				}
 			]
 		},
 		{	"name": "Bonus Proficiencies",
 			"source": "UASorcerer",
 			"page": 3,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Stone (UA)",
 			"subclassSource": "UASorcerer",
@@ -4158,7 +4158,7 @@
 		{	"name": "Stone's Durability",
 			"source": "UASorcerer",
 			"page": 3,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Stone (UA)",
 			"subclassSource": "UASorcerer",
@@ -4172,7 +4172,7 @@
 		{	"name": "Stone: Metal Magic",
 			"source": "UASorcerer",
 			"page": 3,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Stone (UA)",
 			"subclassSource": "UASorcerer",
@@ -4215,7 +4215,7 @@
 		{	"name": "Stone Aegis",
 			"source": "UASorcerer",
 			"page": 3,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Stone (UA)",
 			"subclassSource": "UASorcerer",
@@ -4230,7 +4230,7 @@
 		{	"name": "Stone's Edge",
 			"source": "UASorcerer",
 			"page": 3,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Stone (UA)",
 			"subclassSource": "UASorcerer",
@@ -4243,7 +4243,7 @@
 		{	"name": "Earth Master's Aegis",
 			"source": "UASorcerer",
 			"page": 3,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Stone (UA)",
 			"subclassSource": "UASorcerer",
@@ -4256,7 +4256,7 @@
 		{	"name": "Aberrant Mind",
 			"source": "UASorcererAndWarlock",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Aberrant Mind (UA)",
 			"subclassSource": "UASorcererAndWarlock",
@@ -4265,26 +4265,26 @@
 				"An alien influence has wrapped its tendrils around you, warping you in both body and mind. Perhaps a psychic splinter lodged in your psyche after you suffered domination by an aboleth. Maybe you were born somewhere tainted by the Far Realm, a planar blot that changed you forever. Or perhaps mind flayers kidnapped you, subjecting you to the nightmarish process of ceremorphosis\u2014but the transformation failed and left you altered.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Unique Disturbance|Sorcerer V2||Aberrant Mind (UA)|UASorcererAndWarlock|1"
+					"subclassFeature": "Unique Disturbance|Sorcerer||Aberrant Mind (UA)|UASorcererAndWarlock|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Invasive Thoughts|Sorcerer V2||Aberrant Mind (UA)|UASorcererAndWarlock|1"
+					"subclassFeature": "Invasive Thoughts|Sorcerer||Aberrant Mind (UA)|UASorcererAndWarlock|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Psionic Spells|Sorcerer V2||Aberrant Mind (UA)|UASorcererAndWarlock|1"
+					"subclassFeature": "Psionic Spells|Sorcerer||Aberrant Mind (UA)|UASorcererAndWarlock|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Warped Being|Sorcerer V2||Aberrant Mind (UA)|UASorcererAndWarlock|1"
+					"subclassFeature": "Warped Being|Sorcerer||Aberrant Mind (UA)|UASorcererAndWarlock|1"
 				}
 			]
 		},
 		{	"name": "Invasive Thoughts",
 			"source": "UASorcererAndWarlock",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Aberrant Mind (UA)",
 			"subclassSource": "UASorcererAndWarlock",
@@ -4298,7 +4298,7 @@
 		{	"name": "Psionic Spells",
 			"source": "UASorcererAndWarlock",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Aberrant Mind (UA)",
 			"subclassSource": "UASorcererAndWarlock",
@@ -4311,7 +4311,7 @@
 					"type": "table",
 					"caption": "Psionic Spells",
 					"colLabels": [
-						"Sorcerer V2 Level",
+						"Sorcerer Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -4346,7 +4346,7 @@
 		{	"name": "Unique Disturbance",
 			"source": "UASorcererAndWarlock",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Aberrant Mind (UA)",
 			"subclassSource": "UASorcererAndWarlock",
@@ -4360,7 +4360,7 @@
 		{	"name": "Warped Being",
 			"source": "UASorcererAndWarlock",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Aberrant Mind (UA)",
 			"subclassSource": "UASorcererAndWarlock",
@@ -4374,7 +4374,7 @@
 		{	"name": "Psionic Sorcery",
 			"source": "UASorcererAndWarlock",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Aberrant Mind (UA)",
 			"subclassSource": "UASorcererAndWarlock",
@@ -4388,7 +4388,7 @@
 		{	"name": "Psychic Defenses",
 			"source": "UASorcererAndWarlock",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Aberrant Mind (UA)",
 			"subclassSource": "UASorcererAndWarlock",
@@ -4402,7 +4402,7 @@
 		{	"name": "Revelation in Flesh",
 			"source": "UASorcererAndWarlock",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Aberrant Mind (UA)",
 			"subclassSource": "UASorcererAndWarlock",
@@ -4425,7 +4425,7 @@
 		{	"name": "Warp Reality",
 			"source": "UASorcererAndWarlock",
 			"page": 1,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Aberrant Mind (UA)",
 			"subclassSource": "UASorcererAndWarlock",
@@ -4440,7 +4440,7 @@
 		{	"name": "Storm Sorcery",
 			"source": "UAWaterborneAdventures",
 			"page": 4,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Storm (UA)",
 			"subclassSource": "UAWaterborneAdventures",
@@ -4450,18 +4450,18 @@
 				"Storm sorcerers are invaluable members of a ship's crew. Their magic allows them to exert control over wind and weather in their immediate area. Their abilities also prove useful in repelling attacks by sahuagin, pirates, and other waterborne threats.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Stormborn|Sorcerer V2||Storm (UA)|UAWaterborneAdventures|1"
+					"subclassFeature": "Stormborn|Sorcerer||Storm (UA)|UAWaterborneAdventures|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Tempestuous Magic|Sorcerer V2||Storm (UA)|UAWaterborneAdventures|1"
+					"subclassFeature": "Tempestuous Magic|Sorcerer||Storm (UA)|UAWaterborneAdventures|1"
 				}
 			]
 		},
 		{	"name": "Stormborn",
 			"source": "UAWaterborneAdventures",
 			"page": 4,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Storm (UA)",
 			"subclassSource": "UAWaterborneAdventures",
@@ -4471,9 +4471,9 @@
 				"The arcane magic you command is infused with elemental air. You can speak, read, and write Primordial. In addition, you gain the following spells at the listed sorcerer level. These spells do not count against the number of sorcerer spells you know.",
 				{
 					"type": "table",
-					"caption": "Storm Sorcerer V2 Bonus Spells",
+					"caption": "Storm Sorcerer Bonus Spells",
 					"colLabels": [
-						"Sorcerer V2 Level",
+						"Sorcerer Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -4512,7 +4512,7 @@
 		{	"name": "Tempestuous Magic",
 			"source": "UAWaterborneAdventures",
 			"page": 4,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Storm (UA)",
 			"subclassSource": "UAWaterborneAdventures",
@@ -4525,7 +4525,7 @@
 		{	"name": "Heart of the Storm",
 			"source": "UAWaterborneAdventures",
 			"page": 4,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Storm (UA)",
 			"subclassSource": "UAWaterborneAdventures",
@@ -4538,7 +4538,7 @@
 		{	"name": "Storm Guide",
 			"source": "UAWaterborneAdventures",
 			"page": 4,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Storm (UA)",
 			"subclassSource": "UAWaterborneAdventures",
@@ -4553,7 +4553,7 @@
 		{	"name": "Storm's Fury",
 			"source": "UAWaterborneAdventures",
 			"page": 4,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Storm (UA)",
 			"subclassSource": "UAWaterborneAdventures",
@@ -4566,7 +4566,7 @@
 		{	"name": "Wind Soul",
 			"source": "UAWaterborneAdventures",
 			"page": 4,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Storm (UA)",
 			"subclassSource": "UAWaterborneAdventures",
@@ -4579,7 +4579,7 @@
 		{	"name": "Divine Soul",
 			"source": "XGE",
 			"page": 50,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Divine Soul",
 			"subclassSource": "XGE",
@@ -4591,18 +4591,18 @@
 				"In some cultures, only those who can claim the power of a Divine Soul may command religious power. In these lands, ecclesiastical positions are dominated by a few bloodlines and preserved over generations.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Divine Magic|Sorcerer V2||Divine Soul|XGE|1"
+					"subclassFeature": "Divine Magic|Sorcerer||Divine Soul|XGE|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Favored by the Gods|Sorcerer V2||Divine Soul|XGE|1"
+					"subclassFeature": "Favored by the Gods|Sorcerer||Divine Soul|XGE|1"
 				}
 			]
 		},
 		{	"name": "Divine Magic",
 			"source": "XGE",
 			"page": 50,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Divine Soul",
 			"subclassSource": "XGE",
@@ -4649,7 +4649,7 @@
 		{	"name": "Favored by the Gods",
 			"source": "XGE",
 			"page": 50,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Divine Soul",
 			"subclassSource": "XGE",
@@ -4662,7 +4662,7 @@
 		{	"name": "Empowered Healing",
 			"source": "XGE",
 			"page": 50,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Divine Soul",
 			"subclassSource": "XGE",
@@ -4675,7 +4675,7 @@
 		{	"name": "Otherworldly Wings",
 			"source": "XGE",
 			"page": 50,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Divine Soul",
 			"subclassSource": "XGE",
@@ -4689,7 +4689,7 @@
 		{	"name": "Unearthly Recovery",
 			"source": "XGE",
 			"page": 50,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Divine Soul",
 			"subclassSource": "XGE",
@@ -4703,17 +4703,17 @@
 		{	"name": "Shadow Magic",
 			"source": "XGE",
 			"page": 50,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Shadow",
 			"subclassSource": "XGE",
 			"level": 1,
 			"entries": [
 				"You are a creature of shadow, for your innate magic comes from the Shadowfell itself. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed by it.",
-				"The power of shadow magic casts a strange pall over your physical presence. The spark of life that sustains you is muffled, as if it struggles to remain viable against the dark energy that imbues your soul. At your option, you can pick from or roll on the Shadow Sorcerer V2 Quirks table to create a quirk for your character.",
+				"The power of shadow magic casts a strange pall over your physical presence. The spark of life that sustains you is muffled, as if it struggles to remain viable against the dark energy that imbues your soul. At your option, you can pick from or roll on the Shadow Sorcerer Quirks table to create a quirk for your character.",
 				{
 					"type": "table",
-					"caption": "Shadow Sorcerer V2 Quirks",
+					"caption": "Shadow Sorcerer Quirks",
 					"colLabels": [
 						"d6",
 						"Quirk"
@@ -4751,18 +4751,18 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Eyes of the Dark|Sorcerer V2||Shadow|XGE|1"
+					"subclassFeature": "Eyes of the Dark|Sorcerer||Shadow|XGE|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Strength of the Grave|Sorcerer V2||Shadow|XGE|1"
+					"subclassFeature": "Strength of the Grave|Sorcerer||Shadow|XGE|1"
 				}
 			]
 		},
 		{	"name": "Eyes of the Dark",
 			"source": "XGE",
 			"page": 50,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Shadow",
 			"subclassSource": "XGE",
@@ -4776,7 +4776,7 @@
 		{	"name": "Strength of the Grave",
 			"source": "XGE",
 			"page": 50,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Shadow",
 			"subclassSource": "XGE",
@@ -4790,7 +4790,7 @@
 		{	"name": "Hound of Ill Omen",
 			"source": "XGE",
 			"page": 50,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Shadow",
 			"subclassSource": "XGE",
@@ -4813,7 +4813,7 @@
 		{	"name": "Shadow Walk",
 			"source": "XGE",
 			"page": 50,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Shadow",
 			"subclassSource": "XGE",
@@ -4826,7 +4826,7 @@
 		{	"name": "Umbral Form",
 			"source": "XGE",
 			"page": 50,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Shadow",
 			"subclassSource": "XGE",
@@ -4840,7 +4840,7 @@
 		{	"name": "Storm Sorcery",
 			"source": "XGE",
 			"page": 51,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Storm",
 			"subclassSource": "XGE",
@@ -4850,18 +4850,18 @@
 				"Storm sorcerers are invaluable members of a ship's crew. Their magic allows them to exert control over wind and weather in their immediate area. Their abilities also prove useful in repelling attacks by sahuagin, pirates, and other waterborne threats.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Wind Speaker|Sorcerer V2||Storm|XGE|1"
+					"subclassFeature": "Wind Speaker|Sorcerer||Storm|XGE|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Tempestuous Magic|Sorcerer V2||Storm|XGE|1"
+					"subclassFeature": "Tempestuous Magic|Sorcerer||Storm|XGE|1"
 				}
 			]
 		},
 		{	"name": "Tempestuous Magic",
 			"source": "XGE",
 			"page": 51,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Storm",
 			"subclassSource": "XGE",
@@ -4874,7 +4874,7 @@
 		{	"name": "Wind Speaker",
 			"source": "XGE",
 			"page": 51,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Storm",
 			"subclassSource": "XGE",
@@ -4887,7 +4887,7 @@
 		{	"name": "Heart of the Storm",
 			"source": "XGE",
 			"page": 51,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Storm",
 			"subclassSource": "XGE",
@@ -4900,7 +4900,7 @@
 		{	"name": "Storm Guide",
 			"source": "XGE",
 			"page": 51,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Storm",
 			"subclassSource": "XGE",
@@ -4915,7 +4915,7 @@
 		{	"name": "Storm's Fury",
 			"source": "XGE",
 			"page": 51,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Storm",
 			"subclassSource": "XGE",
@@ -4928,7 +4928,7 @@
 		{	"name": "Wind Soul",
 			"source": "XGE",
 			"page": 51,
-			"className": "Sorcerer V2",
+			"className": "Sorcerer",
 			"classSource": "PHB",
 			"subclassShortName": "Storm",
 			"subclassSource": "XGE",
