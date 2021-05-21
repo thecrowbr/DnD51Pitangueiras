@@ -436,57 +436,57 @@
 				}
 			],
 			"classFeatures": [
-				"Unarmored Defense|Monk V2||1",
-				"Martial Arts|Monk V2||1",
-				"Monk V2 Weapons|Monk V2||1|UAClassFeatureVariants",
-				"Ki|Monk V2||2",
-				"Ki-Fueled Strike|Monk V2||2|UAClassFeatureVariants",
-				"Ki Features|Monk V2||2|UAClassFeatureVariants",
-				"Dedicated Weapon|Monk V2||2|TCE",
-				"Unarmored Movement|Monk V2||2",
-				"Deflect Missiles|Monk V2||3",
+				"Unarmored Defense|Monk||1",
+				"Martial Arts|Monk||1",
+				"Monk Weapons|Monk||1|UAClassFeatureVariants",
+				"Ki|Monk||2",
+				"Ki-Fueled Strike|Monk||2|UAClassFeatureVariants",
+				"Ki Features|Monk||2|UAClassFeatureVariants",
+				"Dedicated Weapon|Monk||2|TCE",
+				"Unarmored Movement|Monk||2",
+				"Deflect Missiles|Monk||3",
 				{
-					"classFeature": "Monastic Tradition|Monk V2||3",
+					"classFeature": "Monastic Tradition|Monk||3",
 					"gainSubclassFeature": true
 				},
-				"Ki-Fueled Attack|Monk V2||3|TCE",
-				"Ability Score Improvement|Monk V2||4",
-				"Proficiency Versatility|Monk V2||4|UAClassFeatureVariants",
-				"Slow Fall|Monk V2||4",
-				"Quickened Healing|Monk V2||4|TCE",
-				"Extra Attack|Monk V2||5",
-				"Stunning Strike|Monk V2||5",
-				"Focused Aim|Monk V2||5|TCE",
-				"Ki-Empowered Strikes|Monk V2||6",
+				"Ki-Fueled Attack|Monk||3|TCE",
+				"Ability Score Improvement|Monk||4",
+				"Proficiency Versatility|Monk||4|UAClassFeatureVariants",
+				"Slow Fall|Monk||4",
+				"Quickened Healing|Monk||4|TCE",
+				"Extra Attack|Monk||5",
+				"Stunning Strike|Monk||5",
+				"Focused Aim|Monk||5|TCE",
+				"Ki-Empowered Strikes|Monk||6",
 				{
-					"classFeature": "Monastic Tradition feature|Monk V2||6",
+					"classFeature": "Monastic Tradition feature|Monk||6",
 					"gainSubclassFeature": true
 				},
-				"Evasion|Monk V2||7",
-				"Stillness of Mind|Monk V2||7",
-				"Ability Score Improvement|Monk V2||8",
-				"Proficiency Versatility|Monk V2||8|UAClassFeatureVariants",
-				"Unarmored Movement improvement|Monk V2||9",
-				"Purity of Body|Monk V2||10",
+				"Evasion|Monk||7",
+				"Stillness of Mind|Monk||7",
+				"Ability Score Improvement|Monk||8",
+				"Proficiency Versatility|Monk||8|UAClassFeatureVariants",
+				"Unarmored Movement improvement|Monk||9",
+				"Purity of Body|Monk||10",
 				{
-					"classFeature": "Monastic Tradition feature|Monk V2||11",
+					"classFeature": "Monastic Tradition feature|Monk||11",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Monk V2||12",
-				"Proficiency Versatility|Monk V2||12|UAClassFeatureVariants",
-				"Tongue of the Sun and Moon|Monk V2||13",
-				"Diamond Soul|Monk V2||14",
-				"Timeless Body|Monk V2||15",
-				"Ability Score Improvement|Monk V2||16",
-				"Proficiency Versatility|Monk V2||16|UAClassFeatureVariants",
+				"Ability Score Improvement|Monk||12",
+				"Proficiency Versatility|Monk||12|UAClassFeatureVariants",
+				"Tongue of the Sun and Moon|Monk||13",
+				"Diamond Soul|Monk||14",
+				"Timeless Body|Monk||15",
+				"Ability Score Improvement|Monk||16",
+				"Proficiency Versatility|Monk||16|UAClassFeatureVariants",
 				{
-					"classFeature": "Monastic Tradition feature|Monk V2||17",
+					"classFeature": "Monastic Tradition feature|Monk||17",
 					"gainSubclassFeature": true
 				},
-				"Empty Body|Monk V2||18",
-				"Ability Score Improvement|Monk V2||19",
-				"Proficiency Versatility|Monk V2||19|UAClassFeatureVariants",
-				"Perfect Self|Monk V2||20"
+				"Empty Body|Monk||18",
+				"Ability Score Improvement|Monk||19",
+				"Proficiency Versatility|Monk||19|UAClassFeatureVariants",
+				"Perfect Self|Monk||20"
 			],
 			"subclassTitle": "Monastic Tradition",
 			"subclasses": [
@@ -496,10 +496,10 @@
 					"source": "PHB",
 					"page": 80,
 					"subclassFeatures": [
-						"Way of Shadow|Monk V2||Shadow||3",
-						"Shadow Step|Monk V2||Shadow||6",
-						"Cloak of Shadows|Monk V2||Shadow||11",
-						"Opportunist|Monk V2||Shadow||17"
+						"Way of Shadow|Monk||Shadow||3",
+						"Shadow Step|Monk||Shadow||6",
+						"Cloak of Shadows|Monk||Shadow||11",
+						"Opportunist|Monk||Shadow||17"
 					]
 				},
 				{
@@ -510,9 +510,9 @@
 					"spellcastingAbility": "wis",
 					"subclassFeatures": [
 						"Way of the Four Elements V2|Monk V2||Four Elements V2|DnD51Pitangueiras|3",
-						"Extra Elemental Discipline|Monk V2||Four Elements V2||6",
-						"Extra Elemental Discipline|Monk V2||Four Elements V2||11",
-						"Extra Elemental Discipline|Monk V2||Four Elements V2||17"
+						"Extra Elemental Discipline|Monk||Four Elements||6",
+						"Extra Elemental Discipline|Monk||Four Elements||11",
+						"Extra Elemental Discipline|Monk||Four Elements||17"
 					]
 				},
 				{
@@ -522,10 +522,10 @@
 					"page": 79,
 					"srd": true,
 					"subclassFeatures": [
-						"Way of the Open Hand|Monk V2||Open Hand||3",
-						"Wholeness of Body|Monk V2||Open Hand||6",
-						"Tranquility|Monk V2||Open Hand||11",
-						"Quivering Palm|Monk V2||Open Hand||17"
+						"Way of the Open Hand|Monk||Open Hand||3",
+						"Wholeness of Body|Monk||Open Hand||6",
+						"Tranquility|Monk||Open Hand||11",
+						"Quivering Palm|Monk||Open Hand||17"
 					]
 				},
 				{
@@ -534,10 +534,10 @@
 					"source": "SCAG",
 					"page": 130,
 					"subclassFeatures": [
-						"Way of the Long Death|Monk V2||Long Death|SCAG|3",
-						"Hour of Reaping|Monk V2||Long Death|SCAG|6",
-						"Mastery of Death|Monk V2||Long Death|SCAG|11",
-						"Touch of the Long Death|Monk V2||Long Death|SCAG|17"
+						"Way of the Long Death|Monk||Long Death|SCAG|3",
+						"Hour of Reaping|Monk||Long Death|SCAG|6",
+						"Mastery of Death|Monk||Long Death|SCAG|11",
+						"Touch of the Long Death|Monk||Long Death|SCAG|17"
 					]
 				},
 				{
@@ -546,10 +546,10 @@
 					"source": "UAMonk",
 					"page": 1,
 					"subclassFeatures": [
-						"Way of Tranquility|Monk V2||Tranquility (UA)|UAMonk|3",
-						"Emissary of Peace|Monk V2||Tranquility (UA)|UAMonk|6",
-						"Douse the Flames of War|Monk V2||Tranquility (UA)|UAMonk|11",
-						"Anger of a Gentle Soul|Monk V2||Tranquility (UA)|UAMonk|17"
+						"Way of Tranquility|Monk||Tranquility (UA)|UAMonk|3",
+						"Emissary of Peace|Monk||Tranquility (UA)|UAMonk|6",
+						"Douse the Flames of War|Monk||Tranquility (UA)|UAMonk|11",
+						"Anger of a Gentle Soul|Monk||Tranquility (UA)|UAMonk|17"
 					]
 				},
 				{
@@ -559,10 +559,10 @@
 					"page": 1,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Way of the Drunken Master|Monk V2||Drunken Master (UA)|UAATrioOfSubclasses|3",
-						"Tipsy Sway|Monk V2||Drunken Master (UA)|UAATrioOfSubclasses|6",
-						"Drunkard's Luck|Monk V2||Drunken Master (UA)|UAATrioOfSubclasses|11",
-						"Intoxicated Frenzy|Monk V2||Drunken Master (UA)|UAATrioOfSubclasses|17"
+						"Way of the Drunken Master|Monk||Drunken Master (UA)|UAATrioOfSubclasses|3",
+						"Tipsy Sway|Monk||Drunken Master (UA)|UAATrioOfSubclasses|6",
+						"Drunkard's Luck|Monk||Drunken Master (UA)|UAATrioOfSubclasses|11",
+						"Intoxicated Frenzy|Monk||Drunken Master (UA)|UAATrioOfSubclasses|17"
 					]
 				},
 				{
@@ -571,10 +571,10 @@
 					"source": "XGE",
 					"page": 33,
 					"subclassFeatures": [
-						"Way of the Drunken Master|Monk V2||Drunken Master|XGE|3",
-						"Tipsy Sway|Monk V2||Drunken Master|XGE|6",
-						"Drunkard's Luck|Monk V2||Drunken Master|XGE|11",
-						"Intoxicated Frenzy|Monk V2||Drunken Master|XGE|17"
+						"Way of the Drunken Master|Monk||Drunken Master|XGE|3",
+						"Tipsy Sway|Monk||Drunken Master|XGE|6",
+						"Drunkard's Luck|Monk||Drunken Master|XGE|11",
+						"Intoxicated Frenzy|Monk||Drunken Master|XGE|17"
 					]
 				},
 				{
@@ -600,12 +600,12 @@
 					"page": 2,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Way of the Astral Self|Monk V2||Astral Self (UA)|UABarbarianAndMonk|3",
-						"Visage of the Astral Self|Monk V2||Astral Self (UA)|UABarbarianAndMonk|6",
-						"Awakening of the Astral Self|Monk V2||Astral Self (UA)|UABarbarianAndMonk|11",
-						"Improved Arms of the Astral Self|Monk V2||Astral Self (UA)|UABarbarianAndMonk|11",
-						"Complete Astral Self|Monk V2||Astral Self (UA)|UABarbarianAndMonk|17",
-						"Improved Arms of the Astral Self|Monk V2||Astral Self (UA)|UABarbarianAndMonk|17"
+						"Way of the Astral Self|Monk||Astral Self (UA)|UABarbarianAndMonk|3",
+						"Visage of the Astral Self|Monk||Astral Self (UA)|UABarbarianAndMonk|6",
+						"Awakening of the Astral Self|Monk||Astral Self (UA)|UABarbarianAndMonk|11",
+						"Improved Arms of the Astral Self|Monk||Astral Self (UA)|UABarbarianAndMonk|11",
+						"Complete Astral Self|Monk||Astral Self (UA)|UABarbarianAndMonk|17",
+						"Improved Arms of the Astral Self|Monk||Astral Self (UA)|UABarbarianAndMonk|17"
 					]
 				},
 				{
@@ -615,10 +615,10 @@
 					"page": 2,
 					"isReprinted": true,
 					"subclassFeatures": [
-						"Way of Mercy|Monk V2||Mercy (UA)|UA2020SubclassesPt1|3",
-						"Noxious Aura|Monk V2||Mercy (UA)|UA2020SubclassesPt1|6",
-						"Healing Technique|Monk V2||Mercy (UA)|UA2020SubclassesPt1|11",
-						"Hand of Mercy|Monk V2||Mercy (UA)|UA2020SubclassesPt1|17"
+						"Way of Mercy|Monk||Mercy (UA)|UA2020SubclassesPt1|3",
+						"Noxious Aura|Monk||Mercy (UA)|UA2020SubclassesPt1|6",
+						"Healing Technique|Monk||Mercy (UA)|UA2020SubclassesPt1|11",
+						"Hand of Mercy|Monk||Mercy (UA)|UA2020SubclassesPt1|17"
 					]
 				},
 				{
@@ -627,10 +627,10 @@
 					"source": "UA2020SubclassesPt5",
 					"page": 1,
 					"subclassFeatures": [
-						"Way of the Ascendant Dragon|Monk V2||Ascendant Dragon (UA)|UA2020SubclassesPt5|3",
-						"Wings Unfurled|Monk V2||Ascendant Dragon (UA)|UA2020SubclassesPt5|6",
-						"Aspect of the Wyrm|Monk V2||Ascendant Dragon (UA)|UA2020SubclassesPt5|11",
-						"Ascendant Aspect|Monk V2||Ascendant Dragon (UA)|UA2020SubclassesPt5|17"
+						"Way of the Ascendant Dragon|Monk||Ascendant Dragon (UA)|UA2020SubclassesPt5|3",
+						"Wings Unfurled|Monk||Ascendant Dragon (UA)|UA2020SubclassesPt5|6",
+						"Aspect of the Wyrm|Monk||Ascendant Dragon (UA)|UA2020SubclassesPt5|11",
+						"Ascendant Aspect|Monk||Ascendant Dragon (UA)|UA2020SubclassesPt5|17"
 					]
 				},
 				{
@@ -639,10 +639,10 @@
 					"source": "TCE",
 					"page": 49,
 					"subclassFeatures": [
-						"Way of Mercy|Monk V2||Mercy|TCE|3",
-						"Physician's Touch|Monk V2||Mercy|TCE|6",
-						"Flurry of Healing and Harm|Monk V2||Mercy|TCE|11",
-						"Hand of Ultimate Mercy|Monk V2||Mercy|TCE|17"
+						"Way of Mercy|Monk||Mercy|TCE|3",
+						"Physician's Touch|Monk||Mercy|TCE|6",
+						"Flurry of Healing and Harm|Monk||Mercy|TCE|11",
+						"Hand of Ultimate Mercy|Monk||Mercy|TCE|17"
 					]
 				},
 				{
@@ -651,16 +651,16 @@
 					"source": "TCE",
 					"page": 50,
 					"subclassFeatures": [
-						"Way of the Astral Self|Monk V2||Astral Self|TCE|3",
-						"Visage of the Astral Self|Monk V2||Astral Self|TCE|6",
-						"Body of the Astral Self|Monk V2||Astral Self|TCE|11",
-						"Awakened Astral Self|Monk V2||Astral Self|TCE|17"
+						"Way of the Astral Self|Monk||Astral Self|TCE|3",
+						"Visage of the Astral Self|Monk||Astral Self|TCE|6",
+						"Body of the Astral Self|Monk||Astral Self|TCE|11",
+						"Awakened Astral Self|Monk||Astral Self|TCE|17"
 					]
 				}
 			],
 			"fluff": [
 				{
-					"name": "Monk V2",
+					"name": "Monk",
 					"type": "section",
 					"entries": [
 						"Her fists a blur as they deflect an incoming hail of arrows, a half-elf springs over a barricade and throws herself into the massed ranks of hobgoblins on the other side. She whirls among them, knocking their blows aside and sending them reeling, until at last she stands alone.",
@@ -686,7 +686,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Creating a Monk V2",
+							"name": "Creating a Monk",
 							"entries": [
 								"As you make your monk character, think about your connection to the monastery where you learned your skills and spent your formative years. Were you an orphan or a child left on the monastery's threshold? Did your parents promise you to the monastery in gratitude for a service performed by the monks? Did you enter this secluded life to hide from a crime you committed? Or did you choose the monastic life for yourself?",
 								"Consider why you left. Did the head of your monastery choose you for a particularly important mission beyond the cloister? Perhaps you were cast out because of some violation of the community's rules. Did you dread leaving, or were you happy to go? Is there something you hope to accomplish outside the monastery? Are you eager to return to your home?",
@@ -956,7 +956,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 1,
 			"entries": [
@@ -966,17 +966,17 @@
 					"type": "list",
 					"items": [
 						"You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.",
-						"You can roll a {@dice d4} in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk V2 table.",
+						"You can roll a {@dice d4} in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.",
 						"When you use the {@action Attack} action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the {@action Attack} action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn."
 					]
 				},
 				"Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama)."
 			]
 		},
-		{	"name": "Monk V2 Weapons",
+		{	"name": "Monk Weapons",
 			"source": "UAClassFeatureVariants",
 			"page": 6,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 1,
 			"isClassFeatureVariant": true,
@@ -998,7 +998,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 1,
 			"entries": [
@@ -1008,7 +1008,7 @@
 		{	"name": "Dedicated Weapon",
 			"source": "TCE",
 			"page": 48,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 2,
 			"isClassFeatureVariant": true,
@@ -1030,11 +1030,11 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 2,
 			"entries": [
-				"Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have, as shown in the Ki Points column of the Monk V2 table.",
+				"Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have, as shown in the Ki Points column of the Monk table.",
 				"You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more ki features as you gain levels in this class.",
 				"When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.",
 				"Some of your ki features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:",
@@ -1071,7 +1071,7 @@
 		{	"name": "Ki Features",
 			"source": "UAClassFeatureVariants",
 			"page": 6,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 2,
 			"isClassFeatureVariant": true,
@@ -1097,7 +1097,7 @@
 		{	"name": "Ki-Fueled Strike",
 			"source": "UAClassFeatureVariants",
 			"page": 6,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 2,
 			"isClassFeatureVariant": true,
@@ -1110,11 +1110,11 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 2,
 			"entries": [
-				"Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk V2 table.",
+				"Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.",
 				"At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move."
 			]
 		},
@@ -1122,7 +1122,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 3,
 			"entries": [
@@ -1133,7 +1133,7 @@
 		{	"name": "Ki-Fueled Attack",
 			"source": "TCE",
 			"page": 48,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 3,
 			"isClassFeatureVariant": true,
@@ -1146,7 +1146,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 3,
 			"entries": [
@@ -1157,7 +1157,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 4,
 			"entries": [
@@ -1168,7 +1168,7 @@
 		{	"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 4,
 			"isClassFeatureVariant": true,
@@ -1181,7 +1181,7 @@
 		{	"name": "Quickened Healing",
 			"source": "TCE",
 			"page": 48,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 4,
 			"isClassFeatureVariant": true,
@@ -1194,7 +1194,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 4,
 			"entries": [
@@ -1205,7 +1205,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 5,
 			"entries": [
@@ -1215,7 +1215,7 @@
 		{	"name": "Focused Aim",
 			"source": "TCE",
 			"page": 48,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 5,
 			"isClassFeatureVariant": true,
@@ -1228,7 +1228,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 5,
 			"entries": [
@@ -1239,7 +1239,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 6,
 			"entries": [
@@ -1250,7 +1250,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 6,
 			"entries": [
@@ -1261,7 +1261,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 7,
 			"entries": [
@@ -1272,7 +1272,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 7,
 			"entries": [
@@ -1283,7 +1283,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 8,
 			"entries": [
@@ -1294,7 +1294,7 @@
 		{	"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 8,
 			"isClassFeatureVariant": true,
@@ -1308,7 +1308,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 9,
 			"entries": [
@@ -1319,7 +1319,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 10,
 			"entries": [
@@ -1330,7 +1330,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 11,
 			"entries": [
@@ -1341,7 +1341,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 12,
 			"entries": [
@@ -1352,7 +1352,7 @@
 		{	"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 12,
 			"isClassFeatureVariant": true,
@@ -1366,7 +1366,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 13,
 			"entries": [
@@ -1377,7 +1377,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 14,
 			"entries": [
@@ -1389,7 +1389,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 15,
 			"entries": [
@@ -1400,7 +1400,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 16,
 			"entries": [
@@ -1411,7 +1411,7 @@
 		{	"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 16,
 			"isClassFeatureVariant": true,
@@ -1425,7 +1425,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 17,
 			"entries": [
@@ -1436,7 +1436,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 18,
 			"entries": [
@@ -1448,7 +1448,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 19,
 			"entries": [
@@ -1459,7 +1459,7 @@
 		{	"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 1,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 19,
 			"isClassFeatureVariant": true,
@@ -1473,7 +1473,7 @@
 			"source": "PHB",
 			"page": 76,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"level": 20,
 			"entries": [
@@ -1495,7 +1495,7 @@
 				"Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Disciple of the Elements|Monk V2||Four Elements V2||3"
+					"subclassFeature": "Disciple of the Elements|Monk||Four Elements||3"
 				},
 				{
 					"type": "refSubclassFeature",
@@ -1506,9 +1506,9 @@
 		{	"name": "Disciple of the Elements",
 			"source": "PHB",
 			"page": 80,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
-			"subclassShortName": "Four Elements V2",
+			"subclassShortName": "Four Elements",
 			"subclassSource": "PHB",
 			"level": 3,
 			"header": 1,
@@ -1527,7 +1527,7 @@
 							"type": "table",
 							"caption": "Spells and Ki Points",
 							"colLabels": [
-								"Monk V2 Levels",
+								"Monk Levels",
 								"Maximum Ki Points for a Spell"
 							],
 							"colStyles": [
@@ -1682,9 +1682,9 @@
 		{	"name": "Extra Elemental Discipline",
 			"source": "PHB",
 			"page": 80,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
-			"subclassShortName": "Four Elements V2",
+			"subclassShortName": "Four Elements",
 			"subclassSource": "PHB",
 			"level": 6,
 			"header": 2,
@@ -1696,9 +1696,9 @@
 		{	"name": "Extra Elemental Discipline",
 			"source": "PHB",
 			"page": 80,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
-			"subclassShortName": "Four Elements V2",
+			"subclassShortName": "Four Elements",
 			"subclassSource": "PHB",
 			"level": 11,
 			"header": 2,
@@ -1710,9 +1710,9 @@
 		{	"name": "Extra Elemental Discipline",
 			"source": "PHB",
 			"page": 80,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
-			"subclassShortName": "Four Elements V2",
+			"subclassShortName": "Four Elements",
 			"subclassSource": "PHB",
 			"level": 17,
 			"header": 2,
@@ -1725,7 +1725,7 @@
 			"source": "PHB",
 			"page": 79,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Open Hand",
 			"subclassSource": "PHB",
@@ -1734,7 +1734,7 @@
 				"Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Open Hand Technique|Monk V2||Open Hand||3"
+					"subclassFeature": "Open Hand Technique|Monk||Open Hand||3"
 				}
 			]
 		},
@@ -1742,7 +1742,7 @@
 			"source": "PHB",
 			"page": 79,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Open Hand",
 			"subclassSource": "PHB",
@@ -1764,7 +1764,7 @@
 			"source": "PHB",
 			"page": 79,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Open Hand",
 			"subclassSource": "PHB",
@@ -1778,7 +1778,7 @@
 			"source": "PHB",
 			"page": 79,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Open Hand",
 			"subclassSource": "PHB",
@@ -1792,7 +1792,7 @@
 			"source": "PHB",
 			"page": 79,
 			"srd": true,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Open Hand",
 			"subclassSource": "PHB",
@@ -1806,7 +1806,7 @@
 		{	"name": "Way of Shadow",
 			"source": "PHB",
 			"page": 80,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Shadow",
 			"subclassSource": "PHB",
@@ -1815,14 +1815,14 @@
 				"Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assassins. Sometimes the members of a ninja monastery are family members, forming a clan sworn to secrecy about their arts and missions. Other monasteries are more like thieves' guilds, hiring out their services to nobles, rich merchants, or anyone else who can pay their fees. Regardless of their methods, the heads of these monasteries expect the unquestioning obedience of their students.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Shadow Arts|Monk V2||Shadow||3"
+					"subclassFeature": "Shadow Arts|Monk||Shadow||3"
 				}
 			]
 		},
 		{	"name": "Shadow Arts",
 			"source": "PHB",
 			"page": 80,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Shadow",
 			"subclassSource": "PHB",
@@ -1835,7 +1835,7 @@
 		{	"name": "Shadow Step",
 			"source": "PHB",
 			"page": 80,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Shadow",
 			"subclassSource": "PHB",
@@ -1848,7 +1848,7 @@
 		{	"name": "Cloak of Shadows",
 			"source": "PHB",
 			"page": 80,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Shadow",
 			"subclassSource": "PHB",
@@ -1861,7 +1861,7 @@
 		{	"name": "Opportunist",
 			"source": "PHB",
 			"page": 80,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Shadow",
 			"subclassSource": "PHB",
@@ -1874,7 +1874,7 @@
 		{	"name": "Way of the Long Death",
 			"source": "SCAG",
 			"page": 130,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Long Death",
 			"subclassSource": "SCAG",
@@ -1883,14 +1883,14 @@
 				"Monks of the Way of the Long Death are obsessed with the meaning and mechanics of dying. They capture creatures and prepare elaborate experiments to capture, record, and understand the moments of their demise. They use this knowledge to guide their understanding of martial arts, yielding a deadly fighting style.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Touch of Death|Monk V2||Long Death|SCAG|3"
+					"subclassFeature": "Touch of Death|Monk||Long Death|SCAG|3"
 				}
 			]
 		},
 		{	"name": "Touch of Death",
 			"source": "SCAG",
 			"page": 130,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Long Death",
 			"subclassSource": "SCAG",
@@ -1903,7 +1903,7 @@
 		{	"name": "Hour of Reaping",
 			"source": "SCAG",
 			"page": 130,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Long Death",
 			"subclassSource": "SCAG",
@@ -1916,7 +1916,7 @@
 		{	"name": "Mastery of Death",
 			"source": "SCAG",
 			"page": 130,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Long Death",
 			"subclassSource": "SCAG",
@@ -1929,7 +1929,7 @@
 		{	"name": "Touch of the Long Death",
 			"source": "SCAG",
 			"page": 130,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Long Death",
 			"subclassSource": "SCAG",
@@ -1942,7 +1942,7 @@
 		{	"name": "Way of the Astral Self",
 			"source": "TCE",
 			"page": 50,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Astral Self",
 			"subclassSource": "TCE",
@@ -1951,18 +1951,18 @@
 				"A monk who follows the Way of the Astral Self believes their body is an illusion. They see their ki as a representation of their true form, an astral self. This astral self has the capacity to be a force of order or disorder, with some monasteries training students to use their power to protect the weak and other instructing aspirants in how to manifest their true selves in service to the mighty.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Forms of Your Astral Self|Monk V2||Astral Self|TCE|3"
+					"subclassFeature": "Forms of Your Astral Self|Monk||Astral Self|TCE|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Arms of the Astral Self|Monk V2||Astral Self|TCE|3"
+					"subclassFeature": "Arms of the Astral Self|Monk||Astral Self|TCE|3"
 				}
 			]
 		},
 		{	"name": "Arms of the Astral Self",
 			"source": "TCE",
 			"page": 50,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Astral Self",
 			"subclassSource": "TCE",
@@ -1987,7 +1987,7 @@
 		{	"name": "Forms of Your Astral Self",
 			"source": "TCE",
 			"page": 50,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Astral Self",
 			"subclassSource": "TCE",
@@ -2002,7 +2002,7 @@
 		{	"name": "Visage of the Astral Self",
 			"source": "TCE",
 			"page": 50,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Astral Self",
 			"subclassSource": "TCE",
@@ -2039,7 +2039,7 @@
 		{	"name": "Body of the Astral Self",
 			"source": "TCE",
 			"page": 50,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Astral Self",
 			"subclassSource": "TCE",
@@ -2068,7 +2068,7 @@
 		{	"name": "Awakened Astral Self",
 			"source": "TCE",
 			"page": 50,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Astral Self",
 			"subclassSource": "TCE",
@@ -2097,7 +2097,7 @@
 		{	"name": "Way of Mercy",
 			"source": "TCE",
 			"page": 49,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Mercy",
 			"subclassSource": "TCE",
@@ -2108,22 +2108,22 @@
 				"The walkers of this way usually don robes with deep cowls, and they often conceal their faces with masks, presenting themselves as the faceless bringers of life and death.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Implements of Mercy|Monk V2||Mercy|TCE|3"
+					"subclassFeature": "Implements of Mercy|Monk||Mercy|TCE|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Hand of Healing|Monk V2||Mercy|TCE|3"
+					"subclassFeature": "Hand of Healing|Monk||Mercy|TCE|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Hand of Harm|Monk V2||Mercy|TCE|3"
+					"subclassFeature": "Hand of Harm|Monk||Mercy|TCE|3"
 				}
 			]
 		},
 		{	"name": "Hand of Harm",
 			"source": "TCE",
 			"page": 49,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Mercy",
 			"subclassSource": "TCE",
@@ -2137,7 +2137,7 @@
 		{	"name": "Hand of Healing",
 			"source": "TCE",
 			"page": 49,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Mercy",
 			"subclassSource": "TCE",
@@ -2152,7 +2152,7 @@
 		{	"name": "Implements of Mercy",
 			"source": "TCE",
 			"page": 49,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Mercy",
 			"subclassSource": "TCE",
@@ -2205,7 +2205,7 @@
 		{	"name": "Physician's Touch",
 			"source": "TCE",
 			"page": 49,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Mercy",
 			"subclassSource": "TCE",
@@ -2221,7 +2221,7 @@
 		{	"name": "Flurry of Healing and Harm",
 			"source": "TCE",
 			"page": 49,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Mercy",
 			"subclassSource": "TCE",
@@ -2236,7 +2236,7 @@
 		{	"name": "Hand of Ultimate Mercy",
 			"source": "TCE",
 			"page": 49,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Mercy",
 			"subclassSource": "TCE",
@@ -2251,7 +2251,7 @@
 		{	"name": "Way of Mercy",
 			"source": "UA2020SubclassesPt1",
 			"page": 2,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Mercy (UA)",
 			"subclassSource": "UA2020SubclassesPt1",
@@ -2299,22 +2299,22 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Implements of Mercy|Monk V2||Mercy (UA)|UA2020SubclassesPt1|3"
+					"subclassFeature": "Implements of Mercy|Monk||Mercy (UA)|UA2020SubclassesPt1|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Hands of Healing|Monk V2||Mercy (UA)|UA2020SubclassesPt1|3"
+					"subclassFeature": "Hands of Healing|Monk||Mercy (UA)|UA2020SubclassesPt1|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Hands of Harm|Monk V2||Mercy (UA)|UA2020SubclassesPt1|3"
+					"subclassFeature": "Hands of Harm|Monk||Mercy (UA)|UA2020SubclassesPt1|3"
 				}
 			]
 		},
 		{	"name": "Hands of Harm",
 			"source": "UA2020SubclassesPt1",
 			"page": 2,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Mercy (UA)",
 			"subclassSource": "UA2020SubclassesPt1",
@@ -2328,7 +2328,7 @@
 		{	"name": "Hands of Healing",
 			"source": "UA2020SubclassesPt1",
 			"page": 2,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Mercy (UA)",
 			"subclassSource": "UA2020SubclassesPt1",
@@ -2343,7 +2343,7 @@
 		{	"name": "Implements of Mercy",
 			"source": "UA2020SubclassesPt1",
 			"page": 2,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Mercy (UA)",
 			"subclassSource": "UA2020SubclassesPt1",
@@ -2357,7 +2357,7 @@
 		{	"name": "Noxious Aura",
 			"source": "UA2020SubclassesPt1",
 			"page": 2,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Mercy (UA)",
 			"subclassSource": "UA2020SubclassesPt1",
@@ -2372,7 +2372,7 @@
 		{	"name": "Healing Technique",
 			"source": "UA2020SubclassesPt1",
 			"page": 2,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Mercy (UA)",
 			"subclassSource": "UA2020SubclassesPt1",
@@ -2386,7 +2386,7 @@
 		{	"name": "Hand of Mercy",
 			"source": "UA2020SubclassesPt1",
 			"page": 2,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Mercy (UA)",
 			"subclassSource": "UA2020SubclassesPt1",
@@ -2401,7 +2401,7 @@
 		{	"name": "Way of the Ascendant Dragon",
 			"source": "UA2020SubclassesPt5",
 			"page": 1,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Ascendant Dragon (UA)",
 			"subclassSource": "UA2020SubclassesPt5",
@@ -2449,18 +2449,18 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Draconic Disciple|Monk V2||Ascendant Dragon (UA)|UA2020SubclassesPt5|3"
+					"subclassFeature": "Draconic Disciple|Monk||Ascendant Dragon (UA)|UA2020SubclassesPt5|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Breath of the Dragon|Monk V2||Ascendant Dragon (UA)|UA2020SubclassesPt5|3"
+					"subclassFeature": "Breath of the Dragon|Monk||Ascendant Dragon (UA)|UA2020SubclassesPt5|3"
 				}
 			]
 		},
 		{	"name": "Breath of the Dragon",
 			"source": "UA2020SubclassesPt5",
 			"page": 1,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Ascendant Dragon (UA)",
 			"subclassSource": "UA2020SubclassesPt5",
@@ -2476,7 +2476,7 @@
 		{	"name": "Draconic Disciple",
 			"source": "UA2020SubclassesPt5",
 			"page": 1,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Ascendant Dragon (UA)",
 			"subclassSource": "UA2020SubclassesPt5",
@@ -2498,7 +2498,7 @@
 		{	"name": "Wings Unfurled",
 			"source": "UA2020SubclassesPt5",
 			"page": 2,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Ascendant Dragon (UA)",
 			"subclassSource": "UA2020SubclassesPt5",
@@ -2513,7 +2513,7 @@
 		{	"name": "Aspect of the Wyrm",
 			"source": "UA2020SubclassesPt5",
 			"page": 2,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Ascendant Dragon (UA)",
 			"subclassSource": "UA2020SubclassesPt5",
@@ -2535,7 +2535,7 @@
 		{	"name": "Ascendant Aspect",
 			"source": "UA2020SubclassesPt5",
 			"page": 2,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Ascendant Dragon (UA)",
 			"subclassSource": "UA2020SubclassesPt5",
@@ -2557,7 +2557,7 @@
 		{	"name": "Way of the Drunken Master",
 			"source": "UAATrioOfSubclasses",
 			"page": 1,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Drunken Master (UA)",
 			"subclassSource": "UAATrioOfSubclasses",
@@ -2566,14 +2566,14 @@
 				"The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant but proves frustrating to engage. The drunken master's erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats. Cunning warriors can see through the drunken master's apparent incompetence to recognize the masterful technique employed.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Drunken Technique|Monk V2||Drunken Master (UA)|UAATrioOfSubclasses|3"
+					"subclassFeature": "Drunken Technique|Monk||Drunken Master (UA)|UAATrioOfSubclasses|3"
 				}
 			]
 		},
 		{	"name": "Drunken Technique",
 			"source": "UAATrioOfSubclasses",
 			"page": 1,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Drunken Master (UA)",
 			"subclassSource": "UAATrioOfSubclasses",
@@ -2587,7 +2587,7 @@
 		{	"name": "Tipsy Sway",
 			"source": "UAATrioOfSubclasses",
 			"page": 1,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Drunken Master (UA)",
 			"subclassSource": "UAATrioOfSubclasses",
@@ -2600,7 +2600,7 @@
 		{	"name": "Drunkard's Luck",
 			"source": "UAATrioOfSubclasses",
 			"page": 1,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Drunken Master (UA)",
 			"subclassSource": "UAATrioOfSubclasses",
@@ -2613,7 +2613,7 @@
 		{	"name": "Intoxicated Frenzy",
 			"source": "UAATrioOfSubclasses",
 			"page": 1,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Drunken Master (UA)",
 			"subclassSource": "UAATrioOfSubclasses",
@@ -2626,7 +2626,7 @@
 		{	"name": "Way of the Astral Self",
 			"source": "UABarbarianAndMonk",
 			"page": 2,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Astral Self (UA)",
 			"subclassSource": "UABarbarianAndMonk",
@@ -2635,18 +2635,18 @@
 				"Monks of the Way of the Astral Self have an internal struggle with their ki. They see their mystical energy as a representation of their true form, an astral self. This form has the capacity to be a force of good or destruction, with some monasteries training students to either temper their nature or embrace their impulses.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Forms of Your Astral Self|Monk V2||Astral Self (UA)|UABarbarianAndMonk|3"
+					"subclassFeature": "Forms of Your Astral Self|Monk||Astral Self (UA)|UABarbarianAndMonk|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Arms of the Astral Self|Monk V2||Astral Self (UA)|UABarbarianAndMonk|3"
+					"subclassFeature": "Arms of the Astral Self|Monk||Astral Self (UA)|UABarbarianAndMonk|3"
 				}
 			]
 		},
 		{	"name": "Arms of the Astral Self",
 			"source": "UABarbarianAndMonk",
 			"page": 2,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Astral Self (UA)",
 			"subclassSource": "UABarbarianAndMonk",
@@ -2668,7 +2668,7 @@
 		{	"name": "Forms of Your Astral Self",
 			"source": "UABarbarianAndMonk",
 			"page": 2,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Astral Self (UA)",
 			"subclassSource": "UABarbarianAndMonk",
@@ -2683,7 +2683,7 @@
 		{	"name": "Visage of the Astral Self",
 			"source": "UABarbarianAndMonk",
 			"page": 2,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Astral Self (UA)",
 			"subclassSource": "UABarbarianAndMonk",
@@ -2711,7 +2711,7 @@
 		{	"name": "Awakening of the Astral Self",
 			"source": "UABarbarianAndMonk",
 			"page": 2,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Astral Self (UA)",
 			"subclassSource": "UABarbarianAndMonk",
@@ -2745,7 +2745,7 @@
 		{	"name": "Improved Arms of the Astral Self",
 			"source": "UABarbarianAndMonk",
 			"page": 2,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Astral Self (UA)",
 			"subclassSource": "UABarbarianAndMonk",
@@ -2758,7 +2758,7 @@
 		{	"name": "Complete Astral Self",
 			"source": "UABarbarianAndMonk",
 			"page": 2,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Astral Self (UA)",
 			"subclassSource": "UABarbarianAndMonk",
@@ -2792,7 +2792,7 @@
 		{	"name": "Improved Arms of the Astral Self",
 			"source": "UABarbarianAndMonk",
 			"page": 2,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Astral Self (UA)",
 			"subclassSource": "UABarbarianAndMonk",
@@ -2805,7 +2805,7 @@
 		{	"name": "Way of Tranquility",
 			"source": "UAMonk",
 			"page": 1,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Tranquility (UA)",
 			"subclassSource": "UAMonk",
@@ -2814,18 +2814,18 @@
 				"Monks of the Way of Tranquility see violence as a last resort. They use diplomacy, mercy, and understanding to resolve conflicts. If pushed, though, they are capable warriors who can bring an end to the unjust or cruel folk who refuse to listen to reason. When adventuring, these monks make excellent diplomats. They are also skilled in the healing arts, and can preserve their allies in the face of daunting foes.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Path of Tranquility|Monk V2||Tranquility (UA)|UAMonk|3"
+					"subclassFeature": "Path of Tranquility|Monk||Tranquility (UA)|UAMonk|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Healing Hands|Monk V2||Tranquility (UA)|UAMonk|3"
+					"subclassFeature": "Healing Hands|Monk||Tranquility (UA)|UAMonk|3"
 				}
 			]
 		},
 		{	"name": "Healing Hands",
 			"source": "UAMonk",
 			"page": 1,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Tranquility (UA)",
 			"subclassSource": "UAMonk",
@@ -2842,7 +2842,7 @@
 		{	"name": "Path of Tranquility",
 			"source": "UAMonk",
 			"page": 1,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Tranquility (UA)",
 			"subclassSource": "UAMonk",
@@ -2856,7 +2856,7 @@
 		{	"name": "Emissary of Peace",
 			"source": "UAMonk",
 			"page": 1,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Tranquility (UA)",
 			"subclassSource": "UAMonk",
@@ -2870,7 +2870,7 @@
 		{	"name": "Douse the Flames of War",
 			"source": "UAMonk",
 			"page": 1,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Tranquility (UA)",
 			"subclassSource": "UAMonk",
@@ -2884,7 +2884,7 @@
 		{	"name": "Anger of a Gentle Soul",
 			"source": "UAMonk",
 			"page": 1,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Tranquility (UA)",
 			"subclassSource": "UAMonk",
@@ -2898,7 +2898,7 @@
 		{	"name": "Way of the Drunken Master",
 			"source": "XGE",
 			"page": 33,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Drunken Master",
 			"subclassSource": "XGE",
@@ -2908,18 +2908,18 @@
 				"A drunken master often enjoys playing the fool to bring gladness to the despondent or to demonstrate humility to the arrogant, but when battle is joined, the drunken master can be a maddening, masterful foe.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bonus Proficiencies|Monk V2||Drunken Master|XGE|3"
+					"subclassFeature": "Bonus Proficiencies|Monk||Drunken Master|XGE|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Drunken Technique|Monk V2||Drunken Master|XGE|3"
+					"subclassFeature": "Drunken Technique|Monk||Drunken Master|XGE|3"
 				}
 			]
 		},
 		{	"name": "Bonus Proficiencies",
 			"source": "XGE",
 			"page": 33,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Drunken Master",
 			"subclassSource": "XGE",
@@ -2932,7 +2932,7 @@
 		{	"name": "Drunken Technique",
 			"source": "XGE",
 			"page": 33,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Drunken Master",
 			"subclassSource": "XGE",
@@ -2945,7 +2945,7 @@
 		{	"name": "Tipsy Sway",
 			"source": "XGE",
 			"page": 33,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Drunken Master",
 			"subclassSource": "XGE",
@@ -2958,11 +2958,11 @@
 					"entries": [
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Leap to Your Feet|Monk V2|XGE|Drunken Master|XGE|6"
+							"subclassFeature": "Leap to Your Feet|Monk|XGE|Drunken Master|XGE|6"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Redirect Attack|Monk V2|XGE|Drunken Master|XGE|6"
+							"subclassFeature": "Redirect Attack|Monk|XGE|Drunken Master|XGE|6"
 						}
 					]
 				}
@@ -2971,7 +2971,7 @@
 		{	"name": "Drunkard's Luck",
 			"source": "XGE",
 			"page": 33,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Drunken Master",
 			"subclassSource": "XGE",
@@ -2984,7 +2984,7 @@
 		{	"name": "Intoxicated Frenzy",
 			"source": "XGE",
 			"page": 33,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "PHB",
 			"subclassShortName": "Drunken Master",
 			"subclassSource": "XGE",
@@ -3136,7 +3136,7 @@
 		{	"name": "Leap to Your Feet",
 			"source": "XGE",
 			"page": 34,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "XGE",
 			"subclassShortName": "Drunken Master",
 			"subclassSource": "XGE",
@@ -3148,7 +3148,7 @@
 		{	"name": "Redirect Attack",
 			"source": "XGE",
 			"page": 34,
-			"className": "Monk V2",
+			"className": "Monk",
 			"classSource": "XGE",
 			"subclassShortName": "Drunken Master",
 			"subclassSource": "XGE",
@@ -3180,10 +3180,10 @@
 					"level": {
 						"level": 11,
 						"class": {
-							"name": "Monk V2"
+							"name": "Monk"
 						},
 						"subclass": {
-							"name": "Four Elements V2"
+							"name": "Four Elements"
 						}
 					}
 				}
@@ -3284,6 +3284,178 @@
 		}
 	],
 	"spell": [
+		{	"name": "Fireball V2",
+			"source": "DnD51Pitangueiras",
+			"page": 241,
+			"level": 4,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 150
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "a tiny ball of bat guano and sulfur"
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"entries": [
+				"A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes {@damage 8d6} fire damage on a failed save, or half as much damage on a successful one.",
+				"The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried."
+			],
+			"entriesHigherLevel": [
+				{
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this spell using a spell slot of 5th level or higher, the damage increases by {@scaledamage 8d6|4-9|2d6} for each slot level above 4th."
+					]
+				}
+			],
+			"damageInflict": [
+				"fire"
+			],
+			"savingThrow": [
+				"dexterity"
+			],
+			"areaTags": [
+				"S"
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Sorcerer",
+						"source": "PHB"
+					},
+					{
+						"name": "Wizard",
+						"source": "PHB"
+					}
+				],
+				"fromSubclass": [
+					{
+						"class": {
+							"name": "Cleric",
+							"source": "PHB"
+						},
+						"subclass": {
+							"name": "Light",
+							"source": "PHB"
+						}
+					},
+					{
+						"class": {
+							"name": "Warlock",
+							"source": "PHB"
+						},
+						"subclass": {
+							"name": "Fiend",
+							"source": "PHB"
+						}
+					},
+					{
+						"class": {
+							"name": "Cleric",
+							"source": "PHB"
+						},
+						"subclass": {
+							"name": "Zeal (PSA)",
+							"source": "PSA"
+						}
+					},
+					{
+						"class": {
+							"name": "Artificer (Revisited)",
+							"source": "UAArtificerRevisited"
+						},
+						"subclass": {
+							"name": "Artillerist",
+							"source": "UAArtificerRevisited"
+						}
+					},
+					{
+						"class": {
+							"name": "Druid",
+							"source": "PHB"
+						},
+						"subclass": {
+							"name": "Wildfire (UA)",
+							"source": "UAClericDruidWizard"
+						}
+					},
+					{
+						"class": {
+							"name": "Artificer",
+							"source": "TCE"
+						},
+						"subclass": {
+							"name": "Artillerist",
+							"source": "TCE"
+						}
+					},
+					{
+						"class": {
+							"name": "Warlock",
+							"source": "PHB"
+						},
+						"subclass": {
+							"name": "Genie (UA)",
+							"source": "UA2020SubclassesRevisited",
+							"subSubclass": "Efreeti"
+						}
+					},
+					{
+						"class": {
+							"name": "Warlock",
+							"source": "PHB"
+						},
+						"subclass": {
+							"name": "Genie",
+							"source": "TCE"
+						}
+					},
+					{
+						"class": {
+							"name": "Warlock",
+							"source": "PHB"
+						},
+						"subclass": {
+							"name": "Genie (UA)",
+							"source": "UA2020SubclassesRevisited"
+						}
+					},
+					{
+						"class": {
+							"name": "Monk",
+							"source": "PHB"
+						},
+						"subclass": {
+							"name": "Four Elements",
+							"source": "PHB"
+						}
+					}
+				]
+			},
+			"eldritchInvocations": [
+				{
+					"name": "Kiss of Mephistopheles",
+					"source": "UAWarlockAndWizard"
+				}
+			],
+			"hasFluffImages": true
+		},
 		{	"name": "Absorb Elements V2",
 			"source": "DnD51Pitangueiras",
 			"page": 150,
