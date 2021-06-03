@@ -5,7 +5,6 @@
 // @author       TheCrow
 // @include  https://app.roll20.net/editor/
 // @grant        unsafeWindow
-// @run-at       document-start
 // ==/UserScript==
 /* eslint-disable no-multi-spaces */
 
