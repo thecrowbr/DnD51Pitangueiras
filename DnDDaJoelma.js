@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name     DnD da Joelma
 // @include  https://app.roll20.net/editor/
-// @grant    none
+// @grant        unsafeWindow
+// @run-at       document-start
 // ==/UserScript==
 /* eslint-disable no-multi-spaces */
 
