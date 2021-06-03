@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     DnD da Joelma
-// @version      1.2
+// @version      1.3
 // @description  Enhance your Roll20 sound experience
 // @author       TheCrow
 // @include  https://app.roll20.net/editor/
@@ -9,6 +9,9 @@
 /* eslint-disable no-multi-spaces */
 
 //-- Set the watched terms using the awesome power of regex.
+var StartPoint = /[Cc]ommands/i;
+var StartOk = false;
+
 var Halberd = /[Hh]alberd|[Hh]alabarda|[Aa]xe|[Gg]reataxe/i;
 //https://freesound.org/people/thecrow_br/sounds/574038/
 //https://freesound.org/data/previews/574/574038_12965133-lq.mp3
@@ -39,16 +42,20 @@ function alertOnWord (mutationRecords) {
                     and/or to avoid false positives.
                 */
                 if (newNode.nodeName === "DIV"  ||  newNode.nodeName === "SPAN"  ||  newNode.nodeName === "P") {
-                    if (Halberd.test (newNode.textContent) ) {
-                        console.log ("Found new instance of target term!");
+                    if (StartPoint.test (newNode.textContent) ) {
+                        console.log ("Found new instance of StartPoint!");
+                        StartOk = true;
+                    }
+                    if (StartOk === true && Halberd.test (newNode.textContent) ) {
+                        console.log ("Found new instance of Halberd!");
                         alrtHalberd.play ();
                     }
-                    else if (Sword.test (newNode.textContent) ) {
-                        console.log ("Found new instance of target term!");
+                    else if (StartOk === true && Sword.test (newNode.textContent) ) {
+                        console.log ("Found new instance of Sword!");
                         alrtSword.play ();
                     }
-                    else if (Arrow.test (newNode.textContent) ) {
-                        console.log ("Found new instance of target term!");
+                    else if (StartOk === true && Arrow.test (newNode.textContent) ) {
+                        console.log ("Found new instance of Arrow!");
                         alrtArrow.play ();
                     }
                 }
