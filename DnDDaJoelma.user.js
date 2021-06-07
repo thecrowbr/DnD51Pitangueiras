@@ -1,9 +1,11 @@
 // ==UserScript==
-// @name     DnD da Joelma
-// @version      1.4
+// @name         DnD da Joelma
+// @version      1.5
+// @updateURL    https://raw.githubusercontent.com/thecrowbr/DnD51Pitangueiras/main/DnDDaJoelma.user.js
+// @downloadURL  https://raw.githubusercontent.com/thecrowbr/DnD51Pitangueiras/main/DnDDaJoelma.user.js
 // @description  Enhance your Roll20 sound experience
 // @author       TheCrow
-// @include  https://app.roll20.net/editor/
+// @include      https://app.roll20.net/editor/
 // @grant        unsafeWindow
 // ==/UserScript==
 /* eslint-disable no-multi-spaces */
@@ -189,18 +191,22 @@ function alertOnWord (mutationRecords) {
                     }
                     if (StartOk === true && Halberd.test (newNode.textContent) ) {
                         console.log ("Found new instance of Halberd!");
+                        alrtHalberd.volume = 0.1;
                         alrtHalberd.play ();
                     }
                     else if (StartOk === true && Sword.test (newNode.textContent) ) {
                         console.log ("Found new instance of Sword!");
+                        alrtSword.volume = 0.1;
                         alrtSword.play ();
                     }
                     else if (StartOk === true && Arrow.test (newNode.textContent) ) {
                         console.log ("Found new instance of Arrow!");
+                        alrtArrow.volume = 0.1;
                         alrtArrow.play ();
                     }
                     else if (StartOk === true && Staff.test (newNode.textContent) ) {
                         console.log ("Found new instance of Arrow!");
+                        alrtStaff.volume = 0.1;
                         alrtStaff.play ();
                     }
                 }
