@@ -1,16 +1,14 @@
 // ==UserScript==
-// @name         DnD da Joelma
-// @version      1.8
-// @updateURL    https://raw.githubusercontent.com/thecrowbr/DnD51Pitangueiras/main/DnDDaJoelma.user.js
-// @downloadURL  https://raw.githubusercontent.com/thecrowbr/DnD51Pitangueiras/main/DnDDaJoelma.user.js
+// @name     DnD da Joelma
+// @version      1.5
 // @description  Enhance your Roll20 sound experience
 // @author       TheCrow
-// @include      https://app.roll20.net/editor/
+// @include  https://app.roll20.net/editor/
 // @grant        unsafeWindow
 // ==/UserScript==
 /* eslint-disable no-multi-spaces */
 
-var vol = 0.7;
+var vol = 0.8;
 
 //-- Set the watched terms using the awesome power of regex.
 var StartPoint = /[Cc]ommands/i;
@@ -19,8 +17,8 @@ var StartOk = false;
 var playSFX = false;
 var alrt = new Audio ();
 
-//var CritFail = /fullfail|critfail/i;
-//var Fail = false;
+//var CritFail = /fullfail|critfail|fullcrit|critsuccess/i;
+var Fail = false;
 
 //////////////////////////////////////////////////////////// WEAPON SOUNDS ////////////////////////////////////////////////////////////
 
@@ -28,7 +26,7 @@ var Axe = /[Hh]alberd|[Aa]xe|[Gg]reataxe/i;
 //https://freesound.org/people/thecrow_br/sounds/574038/
 var alrtAxe = new Audio ("https://freesound.org/data/previews/574/574038_12965133-lq.mp3");
 
-var Sword = /[Ss]word|[Ss]hortsword|[Ll]ongsword|[Gg]reatsword|[Rr]apier|[Ff]lamatarra|[Ss]cimitar/i;
+var Sword = /[Ss]word|[Ss]hortsword|[Ll]ongsword|[Gg]reatsword|[Rr]apier|[Ff]lamatarra|[Ss]cimitar|[Dd]agger/i;
 //https://freesound.org/people/thecrow_br/sounds/574043/
 var alrtSword = new Audio ("https://freesound.org/data/previews/574/574043_12965133-lq.mp3");
 
@@ -59,6 +57,10 @@ var alrtWhip = new Audio ("https://freesound.org/data/previews/578/578179_129651
 var Bite = /[Bb]ite/i;
 //https://freesound.org/people/thecrow_br/sounds/578182/
 var alrtBite = new Audio ("https://freesound.org/data/previews/578/578182_12965133-lq.mp3");
+
+var Shock = /[Ss]hock|[Ss]torm [Bb]oomerang/i;
+//https://freesound.org/people/thecrow_br/sounds/578176/
+var alrtShock = new Audio ("https://freesound.org/data/previews/578/578176_12965133-lq.mp3");
 
 //////////////////////////////////////////////////////////// SPELL SOUNDS ////////////////////////////////////////////////////////////
 
@@ -120,14 +122,9 @@ var Run = /[Rr]un|[Rr]unning/i;
 //https://freesound.org/people/thecrow_br/sounds/578177/
 var alrtRun = new Audio ("https://freesound.org/data/previews/578/578177_12965133-lq.mp3");
 
-var Shock = /[Ss]hock|[Ss]torm [Bb]omerang/i;
-//https://freesound.org/people/thecrow_br/sounds/578176/
-var alrtShock = new Audio ("https://freesound.org/data/previews/578/578176_12965133-lq.mp3");
-
 var Flute = /[Ff]lute/i;
 //https://freesound.org/people/thecrow_br/sounds/578162/
 var alrtFlute = new Audio ("https://freesound.org/data/previews/578/578162_12965133-lq.mp3");
-//var FluteFail = /[Ff]lute/i;
 //https://freesound.org/people/thecrow_br/sounds/578180/
 var alrtFluteFail = new Audio ("https://freesound.org/data/previews/578/578180_12965133-lq.mp3");
 
@@ -184,136 +181,111 @@ function alertOnWord (mutationRecords) {
                     and/or to avoid false positives.
                 */
                 if (newNode.nodeName === "DIV"  ||  newNode.nodeName === "SPAN"  ||  newNode.nodeName === "P") {
-                    if (StartPoint.test (newNode.textContent)) {
+                    if (StartPoint.test (newNode.textContent) ) {
                         console.log ("Found new instance of StartPoint!");
                         StartOk = true;
                     }
-                    if (StartOk == true) {
-                        switch (true){
+                    if (StartOk === true ) {
                         ///////////////////////////////////////////// WEAPONS /////////////////////////////////////////////
-                            case Axe.test(newNode.textContent): {
-                                alrt = alrtAxe;
-                                playSFX = true;
-                                break;
-                            }
-                            case Sword.test(newNode.textContent): {
-                                alrt = alrtSword;
-                                playSFX = true;
-                                break;
-                            }
-                            case Hammer.test(newNode.textContent): {
-                                alrt = alrtHammer;
-                                playSFX = true;
-                                break;
-                            }
-                            case Arrow.test(newNode.textContent): {
-                                alrt = alrtArrow;
-                                playSFX = true;
-                                break;
-                            }
-                            case Staff.test(newNode.textContent): {
-                                alrt = alrtStaff;
-                                playSFX = true;
-                                break;
-                            }
-                            case Club.test(newNode.textContent): {
-                                alrt = alrtClub;
-                                playSFX = true;
-                                break;
-                            }
-                            case Punch.test(newNode.textContent): {
-                                alrt = alrtPunch;
-                                playSFX = true;
-                                break;
-                            }
-                            case Whip.test(newNode.textContent): {
-                                alrt = alrtWhip;
-                                playSFX = true;
-                                break;
-                            }
-                            case Bite.test(newNode.textContent): {
-                                alrt = alrtBite;
-                                playSFX = true;
-                                break;
-                            }
+                        if (Axe.test (newNode.textContent) ) {
+                            alrt = alrtAxe;
+                            playSFX = true;
+                        }
+                        else if (Sword.test (newNode.textContent) ) {
+                            alrt = alrtSword;
+                            playSFX = true;
+                        }
+                        else if (Hammer.test (newNode.textContent) ) {
+                            alrt = alrtHammer;
+                            playSFX = true;
+                        }
+                        else if (Arrow.test (newNode.textContent) ) {
+                            alrt = alrtArrow;
+                            playSFX = true;
+                        }
+                        else if (Staff.test (newNode.textContent) ) {
+                            alrt = alrtStaff;
+                            playSFX = true;
+                        }
+                        else if (Club.test (newNode.textContent) ) {
+                            alrt = alrtClub;
+                            playSFX = true;
+                        }
+                        else if (Punch.test (newNode.textContent) ) {
+                            alrt = alrtPunch;
+                            playSFX = true;
+                        }
+                        else if (Whip.test (newNode.textContent) ) {
+                            alrt = alrtWhip;
+                            playSFX = true;
+                        }
+                        else if (Bite.test (newNode.textContent) ) {
+                            alrt = alrtBite;
+                            playSFX = true;
+                        }
+                        else if (Shock.test (newNode.textContent) ) {
+                            alrt = alrtShock;
+                            playSFX = true;
+                        }
                         ///////////////////////////////////////////// SPELLS /////////////////////////////////////////////
-                            case Thunder.test(newNode.textContent): {
-                                alrt = alrtThunder;
-                                playSFX = true;
-                                break;
-                            }
-                            case Firebolt.test(newNode.textContent): {
-                                alrt = alrtFirebolt;
-                                playSFX = true;
-                                break;
-                            }
-                            case Fireball.test(newNode.textContent): {
-                                alrt = alrtFireball;
-                                playSFX = true;
-                                break;
-                            }
-                            case Heal.test(newNode.textContent): {
-                                alrt = alrtHeal;
-                                playSFX = true;
-                                break;
-                            }
-                            case Wololo.test(newNode.textContent): {
-                                alrt = alrtWololo;
-                                playSFX = true;
-                                break;
-                            }
-                            case MagicMissiles.test(newNode.textContent): {
-                                alrt = alrtMagicMissiles;
-                                playSFX = true;
-                                break;
-                            }
-                            case MagicShock.test(newNode.textContent): {
-                                alrt = alrtMagicShock;
-                                playSFX = true;
-                                break;
-                            }
-                            case Invisibility.test(newNode.textContent): {
-                                alrt = alrtInvisibility;
-                                playSFX = true;
-                                break;
-                            }
-                            case RayOfFrost.test(newNode.textContent): {
-                                alrt = alrtRayOfFrost;
-                                playSFX = true;
-                                break;
-                            }
+                        else if (Thunder.test (newNode.textContent) ) {
+                            alrt = alrtThunder;
+                            playSFX = true;
+                        }
+                        else if (Firebolt.test (newNode.textContent) ) {
+                            alrt = alrtFirebolt;
+                            playSFX = true;
+                        }
+                        else if (Fireball.test (newNode.textContent) ) {
+                            alrt = alrtFireball;
+                            playSFX = true;
+                        }
+                        else if (Heal.test (newNode.textContent) ) {
+                            alrt = alrtHeal;
+                            playSFX = true;
+                        }
+                        else if (Wololo.test (newNode.textContent) ) {
+                            alrt = alrtWololo;
+                            playSFX = true;
+                        }
+                        else if (MagicMissiles.test (newNode.textContent) ) {
+                            alrt = alrtMagicMissiles;
+                            playSFX = true;
+                        }
+                        else if (MagicShock.test (newNode.textContent) ) {
+                            alrt = alrtMagicShock;
+                            playSFX = true;
+                        }
+                        else if (Invisibility.test (newNode.textContent) ) {
+                            alrt = alrtInvisibility;
+                            playSFX = true;
+                        }
+                        else if (RayOfFrost.test (newNode.textContent) ) {
+                            alrt = alrtRayOfFrost;
+                            playSFX = true;
+                        }
                         ///////////////////////////////////////////// EFFECTS /////////////////////////////////////////////
-                            case Rage.test(newNode.textContent): {
-                                alrt = alrtRage;
-                                playSFX = true;
-                                break;
-                            }
-                            case Hands.test(newNode.textContent): {
-                                alrt = alrtHands;
-                                playSFX = true;
-                                break;
-                            }
-                            case Fall.test(newNode.textContent): {
-                                alrt = alrtFall;
-                                playSFX = true;
-                                break;
-                            }
-                            case Wilhelm.test(newNode.textContent): {
-                                alrt = alrtWilhelm;
-                                playSFX = true;
-                                break;
-                            }
-                            case Run.test(newNode.textContent): {
-                                alrt = alrtRun;
-                                playSFX = true;
-                                break;
-                            }
-                            case Shock.test(newNode.textContent): {
-                                alrt = alrtShock;
-                                playSFX = true;
-                                break;
-                            }
-                            /*case Flute.test(newNode.textContent): {
+                        else if (Rage.test (newNode.textContent) ) {
+                            alrt = alrtRage;
+                            playSFX = true;
+                        }
+                        else if (Hands.test (newNode.textContent) ) {
+                            alrt = alrtHands;
+                            playSFX = true;
+                        }
+                        else if (Fall.test (newNode.textContent) ) {
+                            alrt = alrtFall;
+                            playSFX = true;
+                        }
+                        else if (Wilhelm.test (newNode.textContent) ) {
+                            alrt = alrtWilhelm;
+                            playSFX = true;
+                        }
+                        else if (Run.test (newNode.textContent) ) {
+                            alrt = alrtRun;
+                            playSFX = true;
+                        }
+                        /*else if (Flute.test (newNode.textContent) ) {
                                 if (Fail == false) {
                                     alrt = alrtFlute;
                                 }
@@ -321,54 +293,43 @@ function alertOnWord (mutationRecords) {
                                     alrt = alrtFluteFail;
                                     Fail = false;
                                 }
-                                playSFX = true;
-                                break;
-                            }*/
-                            case FF7.test(newNode.textContent): {
-                                alrt = alrtFF7;
-                                playSFX = true;
-                                break;
-                            }
-                            case Round1.test(newNode.textContent): {
-                                alrt = alrtRound1;
-                                playSFX = true;
-                                break;
-                            }
-                            case NaoConsegue.test(newNode.textContent): {
-                                alrt = alrtNaoConsegue;
-                                playSFX = true;
-                                break;
-                            }
-                            case Errou.test(newNode.textContent): {
-                                alrt = alrtErrou;
-                                playSFX = true;
-                                break;
-                            }
-                            case PegandoFogo.test(newNode.textContent): {
-                                alrt = alrtPegandoFogo;
-                                playSFX = true;
-                                break;
-                            }
-                            case Slap.test(newNode.textContent): {
-                                alrt = alrtSlap;
-                                playSFX = true;
-                                break;
-                            }
-                            case Piada.test(newNode.textContent): {
-                                alrt = alrtPiada;
-                                playSFX = true;
-                                break;
-                            }
-                            case Cricket.test(newNode.textContent): {
-                                alrt = alrtCricket;
-                                playSFX = true;
-                                break;
-                            }
-                            case Owl.test(newNode.textContent): {
-                                alrt = alrtOwl;
-                                playSFX = true;
-                                break;
-                            }
+                            playSFX = true;
+                        }*/
+                        else if (FF7.test (newNode.textContent) ) {
+                            alrt = alrtFF7;
+                            playSFX = true;
+                        }
+                        else if (Round1.test (newNode.textContent) ) {
+                            alrt = alrtRound1;
+                            playSFX = true;
+                        }
+                        else if (NaoConsegue.test (newNode.textContent) ) {
+                            alrt = alrtNaoConsegue;
+                            playSFX = true;
+                        }
+                        else if (Errou.test (newNode.textContent) ) {
+                            alrt = alrtErrou;
+                            playSFX = true;
+                        }
+                        else if (PegandoFogo.test (newNode.textContent) ) {
+                            alrt = alrtPegandoFogo;
+                            playSFX = true;
+                        }
+                        else if (Slap.test (newNode.textContent) ) {
+                            alrt = alrtSlap;
+                            playSFX = true;
+                        }
+                        else if (Piada.test (newNode.textContent) ) {
+                            alrt = alrtPiada;
+                            playSFX = true;
+                        }
+                        else if (Cricket.test (newNode.textContent) ) {
+                            alrt = alrtCricket;
+                            playSFX = true;
+                        }
+                        else if (Owl.test (newNode.textContent) ) {
+                            alrt = alrtOwl;
+                            playSFX = true;
                         }
                     }
                     if (playSFX == true) {
