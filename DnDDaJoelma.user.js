@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     DnD da Joelma
-// @version      2.1
+// @version      2.2
 // @description  Enhance your Roll20 sound experience
 // @author       TheCrow
 // @include  https://app.roll20.net/editor/
@@ -310,10 +310,10 @@ function action(o) {
 								alrt = alrtFF7;
 								playSFX = true;
 							}
-							else if (Round1.test (newNode.textContent) ) {
+							/*else if (Round1.test (newNode.textContent) ) {
 								alrt = alrtRound1;
 								playSFX = true;
-							}
+							}*/
 							else if (NaoConsegue.test (newNode.textContent) ) {
 								alrt = alrtNaoConsegue;
 								playSFX = true;
