@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     DnD da Joelma
-// @version      2.0
+// @version      2.1
 // @description  Enhance your Roll20 sound experience
 // @author       TheCrow
 // @include  https://app.roll20.net/editor/
@@ -178,7 +178,7 @@ function resetTimer(changes, observer) {
 function action(o) {
     o.disconnect();
 	//-- Customize this next for your page or get lazy and use "body".
-	var cntnrNode = document.querySelector ("#rightsidebar");
+	var cntnrNode = document.querySelector ("#textchat");
 	if (typeof cntnrNode === "undefined")   console.error ("TM: Container node not found.");
 	else {
 		var wordObsrv = new MutationObserver (alertOnWord);
